@@ -1,0 +1,254 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SWAMP Manual",
+    "section": "",
+    "text": "Home\nThis is a Quarto book created by and for the SWAMP team at California State Water Resources Control board. This book is under construction.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+  },
+  {
+    "objectID": "about-swamp.html",
+    "href": "about-swamp.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nTest: SWAMP is the best!"
+  },
+  {
+    "objectID": "onboarding.html#hr-forms",
+    "href": "onboarding.html#hr-forms",
+    "title": "2  Onboarding",
+    "section": "2.1 HR forms",
+    "text": "2.1 HR forms"
+  },
+  {
+    "objectID": "onboarding.html#calpers",
+    "href": "onboarding.html#calpers",
+    "title": "2  Onboarding",
+    "section": "2.2 CalPERS",
+    "text": "2.2 CalPERS"
+  },
+  {
+    "objectID": "onboarding.html#bargaining-units",
+    "href": "onboarding.html#bargaining-units",
+    "title": "2  Onboarding",
+    "section": "2.3 Bargaining Units",
+    "text": "2.3 Bargaining Units"
+  },
+  {
+    "objectID": "onboarding.html#timesheets-pay",
+    "href": "onboarding.html#timesheets-pay",
+    "title": "2  Onboarding",
+    "section": "2.4 Timesheets & Pay",
+    "text": "2.4 Timesheets & Pay"
+  },
+  {
+    "objectID": "onboarding.html#office--and-remote-centered-work",
+    "href": "onboarding.html#office--and-remote-centered-work",
+    "title": "2  Onboarding",
+    "section": "2.5 Office- and Remote-centered work",
+    "text": "2.5 Office- and Remote-centered work"
+  },
+  {
+    "objectID": "onboarding.html#equipment",
+    "href": "onboarding.html#equipment",
+    "title": "2  Onboarding",
+    "section": "2.6 Equipment",
+    "text": "2.6 Equipment"
+  },
+  {
+    "objectID": "travel.html#quick-links",
+    "href": "travel.html#quick-links",
+    "title": "3  Travel",
+    "section": "3.1 Quick links",
+    "text": "3.1 Quick links"
+  },
+  {
+    "objectID": "travel.html#travel-form-faqs",
+    "href": "travel.html#travel-form-faqs",
+    "title": "3  Travel",
+    "section": "3.2 Travel Form FAQs",
+    "text": "3.2 Travel Form FAQs"
+  },
+  {
+    "objectID": "travel.html#contacts",
+    "href": "travel.html#contacts",
+    "title": "3  Travel",
+    "section": "3.3 Contacts",
+    "text": "3.3 Contacts"
+  },
+  {
+    "objectID": "training.html#contacts",
+    "href": "training.html#contacts",
+    "title": "4  Training",
+    "section": "4.1 Contacts",
+    "text": "4.1 Contacts"
+  },
+  {
+    "objectID": "training.html#internal",
+    "href": "training.html#internal",
+    "title": "4  Training",
+    "section": "4.2 Internal",
+    "text": "4.2 Internal"
+  },
+  {
+    "objectID": "training.html#external",
+    "href": "training.html#external",
+    "title": "4  Training",
+    "section": "4.3 External",
+    "text": "4.3 External"
+  },
+  {
+    "objectID": "training.html#on-demand",
+    "href": "training.html#on-demand",
+    "title": "4  Training",
+    "section": "4.4 On-demand",
+    "text": "4.4 On-demand"
+  },
+  {
+    "objectID": "tech.html#need-equipment",
+    "href": "tech.html#need-equipment",
+    "title": "5  Tech Access, Setup, & Support",
+    "section": "5.1 Need equipment?",
+    "text": "5.1 Need equipment?"
+  },
+  {
+    "objectID": "tech.html#remote-desktop-vs.-vpn",
+    "href": "tech.html#remote-desktop-vs.-vpn",
+    "title": "5  Tech Access, Setup, & Support",
+    "section": "5.2 Remote desktop vs. VPN",
+    "text": "5.2 Remote desktop vs. VPN"
+  },
+  {
+    "objectID": "tech.html#accessing-downloading-software",
+    "href": "tech.html#accessing-downloading-software",
+    "title": "5  Tech Access, Setup, & Support",
+    "section": "5.3 Accessing & downloading software",
+    "text": "5.3 Accessing & downloading software"
+  },
+  {
+    "objectID": "tech.html#community",
+    "href": "tech.html#community",
+    "title": "5  Tech Access, Setup, & Support",
+    "section": "5.4 Community",
+    "text": "5.4 Community"
+  },
+  {
+    "objectID": "procurement.html#technical",
+    "href": "procurement.html#technical",
+    "title": "6  Procurement",
+    "section": "6.1 Technical",
+    "text": "6.1 Technical"
+  },
+  {
+    "objectID": "procurement.html#office-supplies",
+    "href": "procurement.html#office-supplies",
+    "title": "6  Procurement",
+    "section": "6.2 Office supplies",
+    "text": "6.2 Office supplies"
+  },
+  {
+    "objectID": "procurement.html#monitoring-supplies",
+    "href": "procurement.html#monitoring-supplies",
+    "title": "6  Procurement",
+    "section": "6.3 Monitoring supplies?",
+    "text": "6.3 Monitoring supplies?"
+  },
+  {
+    "objectID": "offboarding.html#hr-forms",
+    "href": "offboarding.html#hr-forms",
+    "title": "7  Offboarding",
+    "section": "7.1 HR forms",
+    "text": "7.1 HR forms"
+  },
+  {
+    "objectID": "offboarding.html#calpers",
+    "href": "offboarding.html#calpers",
+    "title": "7  Offboarding",
+    "section": "7.2 CalPERS",
+    "text": "7.2 CalPERS"
+  },
+  {
+    "objectID": "offboarding.html#bargaining-units",
+    "href": "offboarding.html#bargaining-units",
+    "title": "7  Offboarding",
+    "section": "7.3 Bargaining Units",
+    "text": "7.3 Bargaining Units"
+  },
+  {
+    "objectID": "offboarding.html#timesheets-pay",
+    "href": "offboarding.html#timesheets-pay",
+    "title": "7  Offboarding",
+    "section": "7.4 Timesheets & Pay",
+    "text": "7.4 Timesheets & Pay"
+  },
+  {
+    "objectID": "offboarding.html#equipment",
+    "href": "offboarding.html#equipment",
+    "title": "7  Offboarding",
+    "section": "7.5 Equipment",
+    "text": "7.5 Equipment"
+  },
+  {
+    "objectID": "culture.html",
+    "href": "culture.html",
+    "title": "8  Culture",
+    "section": "",
+    "text": "What’s our group culture, and what do we want it to be?"
+  },
+  {
+    "objectID": "codeofconduct.html",
+    "href": "codeofconduct.html",
+    "title": "9  Code of Conduct",
+    "section": "",
+    "text": "Let’s write one & discuss!"
+  },
+  {
+    "objectID": "expectations.html#work-schedule",
+    "href": "expectations.html#work-schedule",
+    "title": "10  Expectations",
+    "section": "10.1 Work schedule",
+    "text": "10.1 Work schedule"
+  },
+  {
+    "objectID": "expectations.html#communication",
+    "href": "expectations.html#communication",
+    "title": "10  Expectations",
+    "section": "10.2 Communication",
+    "text": "10.2 Communication"
+  },
+  {
+    "objectID": "expectations.html#expectations-of-rank-and-file",
+    "href": "expectations.html#expectations-of-rank-and-file",
+    "title": "10  Expectations",
+    "section": "10.3 Expectations of rank-and-file",
+    "text": "10.3 Expectations of rank-and-file"
+  },
+  {
+    "objectID": "expectations.html#expectations-of-supervisors",
+    "href": "expectations.html#expectations-of-supervisors",
+    "title": "10  Expectations",
+    "section": "10.4 Expectations of supervisors",
+    "text": "10.4 Expectations of supervisors"
+  },
+  {
+    "objectID": "expectations.html#professional-development",
+    "href": "expectations.html#professional-development",
+    "title": "10  Expectations",
+    "section": "10.5 Professional development",
+    "text": "10.5 Professional development"
+  },
+  {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Contacts",
+    "section": "",
+    "text": "We should ask whether internal or team contact information goes here :)"
+  },
+  {
+    "objectID": "contribute.html",
+    "href": "contribute.html",
+    "title": "How to contribute",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  }
+]
