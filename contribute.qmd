@@ -1,3 +1,3 @@
-# Summary
+# How to contribute {.unnumbered}
 
 In summary, this book has no content whatsoever.

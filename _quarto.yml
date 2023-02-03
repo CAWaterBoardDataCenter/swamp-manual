@@ -13,8 +13,22 @@ book:
   chapters:
     - index.qmd
     - about-swamp.qmd
-    - admin.qmd
-    - expectations.qmd
+    
+    - part: Administrative goodies
+      chapters: 
+        - onboarding.qmd
+        - travel.qmd
+        - training.qmd
+        - tech.qmd
+        - procurement.qmd
+        - offboarding.qmd
+    
+    - part: Values
+      chapters:
+        - culture.qmd
+        - codeofconduct.qmd
+        - expectations.qmd
+        
     - contacts.qmd
     - contribute.qmd
     - references.qmd
@@ -29,5 +43,5 @@ format:
 
 editor: visual
 
-comments:
-  hypothesis: true
+# comments:
+#   hypothesis: true

@@ -1,1 +1,3 @@
+# Contacts {.unnumbered}
 
+We should ask whether internal or team contact information goes here :)
