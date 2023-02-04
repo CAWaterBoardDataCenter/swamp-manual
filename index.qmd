@@ -1,5 +1,7 @@
-# Home {.unnumbered}
+# Welcome {.unnumbered}
 
-This is a Quarto *book* created by and for the SWAMP team at California State Water Resources Control board. This book is under construction.
+This is a Quarto *book* created by and for the SWAMP team at California State Water Resources Control Board. This book is under construction.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+![SWAMP logo](images/swamp-logo.jpg){width="200"} ![SWAMP iq logo](images/swamp-iq-logo.jpg){width="312"}

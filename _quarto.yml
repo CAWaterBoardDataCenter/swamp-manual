@@ -4,13 +4,14 @@ project:
 book:
   title: "SWAMP Manual"
   author: "CA Surface Water Ambient Monitoring Program (SWAMP)"
-  date: "2023"
+  date: "2023-02-03"
   search: true
   repo-url: https://github.com/CAWaterBoardDataCenter/swamp-manual
-  repo-actions: [edit]
+  repo-actions: [edit, issue]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
   chapters:
+  
     - index.qmd
     - about-swamp.qmd
     
@@ -32,6 +33,14 @@ book:
     - contacts.qmd
     - contribute.qmd
     - references.qmd
+    
+  sidebar:
+    style: "docked"
+    # logo: "images/swamp-logo.jpg"
+    # type: "light"
+    # background: "#002151"
+    # foreground: "light"
+    border: true
 
 bibliography: references.bib
 
