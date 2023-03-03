@@ -4,48 +4,43 @@ We should ask whether internal or team contact information goes here :)
 
 ## SWAMP Team
 
-+----------------------------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
-| Name                                   | Title                                                 | Program Area                                                                    |
-+========================================+=======================================================+=================================================================================+
-| Ali Dunn                               | Senior Environmental Scientist, Supervisor, Unit Lead | Statewide SWAMP Coordinator of statewide monitoring programs, plans and budgets |
-|                                        |                                                       |                                                                                 |
-| ali.dunn\@waterboards.ca.gov           |                                                       | Staff supervisor                                                                |
-+----------------------------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
-| Anna Holder                            | Environmental Scientist                               | Bioaccumulation Program Coordinator                                             |
-|                                        |                                                       |                                                                                 |
-| anna.holder\@waterboards.ca.gov        |                                                       | Data science and science communication                                          |
-|                                        |                                                       |                                                                                 |
-|                                        |                                                       | Openscapes                                                                      |
-+----------------------------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
-| Corey Clatterbuck                      | Environmental Scientist                               | Healthy Watersheds assessment and data integration lead                         |
-|                                        |                                                       |                                                                                 |
-| corey.clatterbuck\@waterboards.ca.gov  |                                                       | Data science and science communication                                          |
-|                                        |                                                       |                                                                                 |
-|                                        |                                                       | Openscapes                                                                      |
-+----------------------------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
-| Mary Tappel                            | Environmental Scientist                               | Webpage updates                                                                 |
-|                                        |                                                       |                                                                                 |
-| mary.tappel\@waterboards.ca.gov        |                                                       |                                                                                 |
-+----------------------------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
-| Michelle Tang                          | Environmental Scientist                               | Data science, data visualization and programming (JavaScript, Python)           |
-|                                        |                                                       |                                                                                 |
-| michelle.tang\@waterboards.ca.gov      |                                                       |                                                                                 |
-+----------------------------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
-| Shuka Rastegarpour                     | Environmental Scientist                               | Bioassessment Program Coordinator                                               |
-|                                        |                                                       |                                                                                 |
-| shuka.rastegarpour\@waterboards.ca.gov |                                                       |                                                                                 |
-+----------------------------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
-| Sydney Rilum                           | California Sea Grant Fellow                           | Data science, data visualization and science communication                      |
-|                                        |                                                       |                                                                                 |
-| sydney.rilum\@waterboards.ca.gov       |                                                       |                                                                                 |
-+----------------------------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
++--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
+| Name               | Title                                                 | Program Area                                                                    |
++====================+=======================================================+=================================================================================+
+| Ali Dunn           | Senior Environmental Scientist, Supervisor, Unit Lead | Statewide SWAMP Coordinator of statewide monitoring programs, plans and budgets |
+|                    |                                                       |                                                                                 |
+|                    |                                                       | Staff supervisor                                                                |
++--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
+| Anna Holder        | Environmental Scientist                               | Bioaccumulation Program Coordinator                                             |
+|                    |                                                       |                                                                                 |
+|                    |                                                       | Data science and science communication                                          |
+|                    |                                                       |                                                                                 |
+|                    |                                                       | Openscapes                                                                      |
++--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
+| Corey Clatterbuck  | Environmental Scientist                               | Healthy Watersheds assessment and data integration lead                         |
+|                    |                                                       |                                                                                 |
+|                    |                                                       | Data science and science communication                                          |
+|                    |                                                       |                                                                                 |
+|                    |                                                       | Openscapes                                                                      |
++--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
+| Mary Tappel        | Environmental Scientist                               | Webpage updates                                                                 |
++--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
+| Michelle Tang      | Environmental Scientist                               | Data science, data visualization and programming (JavaScript, Python)           |
++--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
+| Shuka Rastegarpour | Environmental Scientist                               | Bioassessment Program Coordinator                                               |
++--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
+| Sydney Rilum       | California Sea Grant Fellow                           | Data science, data visualization and science communication                      |
++--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
 
 ## SWAMP IQ Team
 
-| Name | Title | Program Area | Contact Info |
-|------|-------|--------------|--------------|
-|      |       |              |              |
-|      |       |              |              |
-|      |       |              |              |
-|      |       |              |              |
-|      |       |              |              |
+| Name                      | Title                                                 | Program Area |
+|---------------------------|-------------------------------------------------------|--------------|
+| Tessa Fojut               | Senior Environmental Scientist, Supervisor, Unit Lead |              |
+| Candace Levesque          | Environmental Scientist                               |              |
+| Cui (Scarlett) Li-Gherman | Scientific Aid                                        |              |
+| Delany Broome             | Environmental Scientist                               |              |
+| Kimberly Pham             | Environmental Scientist                               |              |
+| Lindsey Metz              | Environmental Scientist                               |              |
+| Tony Gill                 | Environmental Scientist                               |              |
+| Toni Marshall             | Environmental Scientist                               |              |
