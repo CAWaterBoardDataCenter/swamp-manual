@@ -4,9 +4,40 @@ This is the page for onboarding. Please re-reference this page throughout your t
 
 ## HR forms
 
-## CalPERS
+On your starting day, you will receive a package of forms and documents from the HR department including:
 
-## Bargaining Units
+-   Your duty statement
+-   Tax forms
+-   Direct deposit forms
+-   Questionaires (diversity, military)
+-   CalPERS forms
+-   Leave forms
+-   Medical insurance forms
+
+You will also be asked to submit a photocopy of either your passport or a combination of your driver's license and social security card to the HR representative (currently Alicyn Chappelle). All forms apart from the medical insurance forms must be submitted within the first couple of days. Medical insurance forms must be submitted within the first 60 days for you to qualify for enrollment; however, the sooner you submit these forms the sooner you will have health coverage.
+
+## Bargaining units
+
+Each classification within the SWAMP unit is associated with a bargaining unit. The bargaining units negotiate many of the benefits & rules described here. For that reason, you should always look at the latest contract for your bargaining unit to determine your benefits as applied to you.
+
+| SWAMP Position Classification                     | Bargaining Unit |
+|---------------------------------------------------|-----------------|
+| Scientific Aid                                    | 11              |
+| Environmental Scientist (incl. Senior Specialist) | 10              |
+| AGPA                                              | 1               |
+| Senior Environmental Scientist - Supervisor       | 2               |
+
+## Leave types
+
+Employees in most classifications (except Scientific Aids) will be able to select a leave type: **annual leave** vs. **vacation/sick leave**. Comparisons of leave accrual and use between leave types are available in [this chart](https://www.calhr.ca.gov/employees/Pages/vacation-vs-annual-leave-comparison-chart.aspx).
+
+Important FAQ for leave types:
+
+-   You are only allowed to switch leave types every 2 years. Check with our HR liaison about switching leave types.
+-   Leave types are also connected to different types of non-work-related disability leave, which may
+    impact your income should you need to go on disability leave. Non-work-related disability leave types are compared for Unit 10 employees on this [flyer](https://capsscientists.org/wp-content/uploads/2018/02/Facts-about-ENDI.pdf). More information about non-work-related disability leave is also available on the EDD [website](https://edd.ca.gov/).
+
+## CalPERS
 
 ## Timesheets & Pay
 
