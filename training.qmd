@@ -113,6 +113,10 @@ As a Water Boards employee, you have access to training and training-related ser
 ```{=html}
 <!-- -->
 ```
--   [Tribal Trainings](https://cawaterboards.sharepoint.com/:x:/r/sites/OIMA/_layouts/15/Doc.aspx?sourcedoc=%7B21774EEB-D15B-4E3C-AF95-1B4BED29A440%7D&file=Quarterly%20Tribal%20Updates.xlsx&_DSL=1&action=default&mobileredirect=true) 
+-   [Tribal Historical and Legal Foundations](https://waternet.waterboards.ca.gov/training/videos/tribal_training1.mp4)
+
+-   [Tribal Cultural Resources](https://waternet.waterboards.ca.gov/training/videos/tribal_training2.mp4)
+
+-   [Tribal Cultural Awareness and California Native American History](https://www.youtube.com/watch?v=PttFI1WvTTY)
 
 -   [CA Water Quality Law 101](https://waternet.waterboards.ca.gov/wndata/videos/wq_law_101/wqlaw.mp4): foundational training in CA law including Porter Cologne Water Quality Control Act, Federal Clean Water Act, Basin Plans, etc.  
