@@ -34,13 +34,30 @@ We should ask whether internal or team contact information goes here :)
 
 ## SWAMP IQ Team
 
-| Name                      | Title                                                 | Program Area |
-|---------------------------|-------------------------------------------------------|--------------|
-| Tessa Fojut               | Senior Environmental Scientist, Supervisor, Unit Lead |              |
-| Candace Levesque          | Environmental Scientist                               |              |
-| Cui (Scarlett) Li-Gherman | Scientific Aid                                        |              |
-| Delany Broome             | Environmental Scientist                               |              |
-| Kimberly Pham             | Environmental Scientist                               |              |
-| Lindsey Metz              | Environmental Scientist                               |              |
-| Tony Gill                 | Environmental Scientist                               |              |
-| Toni Marshall             | Environmental Scientist                               |              |
++---------------------------+-------------------------------------------------------+---------------------------------------------------------+
+| Name                      | Title                                                 | Program Area                                            |
++===========================+=======================================================+=========================================================+
+| Tessa Fojut               | Senior Environmental Scientist, Supervisor, Unit Lead | SWAMP Quality Assurance Officer                         |
+|                           |                                                       |                                                         |
+|                           |                                                       | Database Manager                                        |
++---------------------------+-------------------------------------------------------+---------------------------------------------------------+
+| Candace Levesque          | Environmental Scientist                               | Bioassessment (algae) Data Manager                      |
++---------------------------+-------------------------------------------------------+---------------------------------------------------------+
+| Cui (Scarlett) Li-Gherman | Scientific Aid                                        |                                                         |
++---------------------------+-------------------------------------------------------+---------------------------------------------------------+
+| Delany Broome             | Environmental Scientist                               | Chemistry Data Manager                                  |
++---------------------------+-------------------------------------------------------+---------------------------------------------------------+
+| Jennifer Salisbury        | Environmental Scientist                               | Tissue Data Manager                                     |
+|                           |                                                       |                                                         |
+|                           |                                                       | CEDEN Vocabulary Manager                                |
++---------------------------+-------------------------------------------------------+---------------------------------------------------------+
+| Kimberly Pham             | Environmental Scientist                               | Chemistry Data Manager                                  |
++---------------------------+-------------------------------------------------------+---------------------------------------------------------+
+| Lindsey Metz              | Environmental Scientist                               | Microbiology Data Manager                               |
++---------------------------+-------------------------------------------------------+---------------------------------------------------------+
+| Tony Gill                 | Environmental Scientist                               | Toxicity Data Manager                                   |
+|                           |                                                       |                                                         |
+|                           |                                                       | SPoT Program Coordinator                                |
++---------------------------+-------------------------------------------------------+---------------------------------------------------------+
+| Toni Marshall             | Environmental Scientist                               | Bioassessment (benthic macroinvertebrates) Data Manager |
++---------------------------+-------------------------------------------------------+---------------------------------------------------------+
