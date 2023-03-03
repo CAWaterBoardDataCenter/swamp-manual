@@ -1,6 +1,6 @@
 # Onboarding
 
-This is the page for onboarding. Please re-reference this page throughout your time at SWAMP!
+Here is a non-comprehensive, but hopefully informative guide to onboarding to the SWAMP Unit. The majority of this information is aimed towards starting at SWAMP as a state employee. Please re-reference this page throughout your time at SWAMP!
 
 ## HR forms
 
@@ -18,24 +18,25 @@ You will also be asked to submit a photocopy of either your passport or a combin
 
 ## Bargaining units
 
-Each classification within the SWAMP unit is associated with a bargaining unit. The bargaining units negotiate many of the benefits & rules described here. For that reason, you should always look at the latest contract for your bargaining unit to determine your benefits as applied to you.
+Each classification within the SWAMP unit is associated with a bargaining unit. The bargaining units, with the State, determine many of the benefits & guidelines described here. For that reason, you should read the latest contract or Memorandum of Understanding (MOU) for your bargaining unit to determine benefits as applicable for you. Additional benefits specific to your bargaining unit may exist for you based on the MOU that are not described in this manual. Finally, supervisory positions may have varying benefits beyond those listed in this manual.
 
-| SWAMP Position Classification                     | Bargaining Unit |
-|---------------------------------------------------|-----------------|
-| Scientific Aid                                    | 11              |
-| Environmental Scientist (incl. Senior Specialist) | 10              |
-| AGPA                                              | 1               |
-| Senior Environmental Scientist - Supervisor       | 2               |
+| SWAMP Position Classification                     | Bargaining Unit | CBID |
+|---------------------------------------------------|-----------------|------|
+| Scientific Aid                                    | 11              | R11  |
+| Environmental Scientist (incl. Senior Specialist) | 10              | R10  |
+| AGPA                                              | 1               | R01  |
+| Senior Environmental Scientist - Supervisory      | 10              | S10  |
 
 ## Leave types
 
-Employees in most classifications (except Scientific Aids) will be able to select a leave type: **annual leave** vs. **vacation/sick leave**. Comparisons of leave accrual and use between leave types are available in [this chart](https://www.calhr.ca.gov/employees/Pages/vacation-vs-annual-leave-comparison-chart.aspx).
+When onboarded, employees in most classifications will be able to select a leave type: **annual leave** vs. **vacation/sick leave**. Comparisons of leave accrual and use between leave types are available in [this chart](https://www.calhr.ca.gov/employees/Pages/vacation-vs-annual-leave-comparison-chart.aspx).
 
 Important FAQ for leave types:
 
 -   You are only allowed to switch leave types every 2 years. Check with our HR liaison about switching leave types.
 -   Leave types are also connected to different types of non-work-related disability leave, which may
     impact your income should you need to go on disability leave. Non-work-related disability leave types are compared for Unit 10 employees on this [flyer](https://capsscientists.org/wp-content/uploads/2018/02/Facts-about-ENDI.pdf). More information about non-work-related disability leave is also available on the EDD [website](https://edd.ca.gov/).
+-   Leave accrual can be impacted by the number of days/hours you work in a month.
 
 ## CalPERS
 
