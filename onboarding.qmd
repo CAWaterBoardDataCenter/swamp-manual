@@ -37,7 +37,35 @@ Important FAQ for leave types:
 -   Leave types are also connected to different types of non-work-related disability leave, which may impact your income should you need to go on disability leave. Non-work-related disability leave types are compared for Unit 10 employees on this [flyer](https://capsscientists.org/wp-content/uploads/2018/02/Facts-about-ENDI.pdf). More information about non-work-related disability leave is also available on the EDD [website](https://edd.ca.gov/).
 -   Leave accrual can be impacted by the number of days/hours you work in a month.
 
+::: callout-tip
+## Need additional leave?
+
+Under the [Voluntary Personal Leave Program](https://hrmanual.calhr.ca.gov/Home/ManualItem/1/2114), you can exchange a percentage of your salary to accrue additional leave hours per month. See the link above for more information, and contact our personnel specialist for more details.
+:::
+
 ## CalPERS
+
+CalPERS is the [California Public Employees Retirement System](https://www.calpers.ca.gov/), which you will be enrolled in as a new employee. It provides benefits including medical coverage (health, dental, and vision insurance) and retirement for employees of the state of California.
+
+### Medical coverage
+
+You should select health insurance by submitting the appropriate forms within 60 days of starting with the State. If you select health insurance, you will pay the difference between what the state provides for healthcare (a base amount yearly) and the total cost for your selected health insurance.
+Employees may elect to receive cash in lieu of their state-sponsored medical insurance and/or dental insurance plan through the [FlexElect](https://www.calhr.ca.gov/state-hr-professionals/Pages/benefits-administration-manual-flexelect.aspx) program. You must certify you have qualifying group health and/or dental insurance through a spouse, domestic partner, or other source.
+
+You can make changes to your health, dental, and vision insurance selections two ways:
+
+1.  Annually during open enrollment, which occurs in the fall of each year. Your new insurance selections begin the following January.
+2.  After a [qualifying event](https://www.insurance.ca.gov/01-consumers/110-health/30-have/qual-life-events.cfm) in your life.
+
+To learn more about the health coverage available to you, please visit the CalPERS website. We include some helpful links below:
+
+-   [CalPERS Health Program Guide](https://www.calpers.ca.gov/docs/forms-publications/health-program-guide.pdf) (pdf) -- broad overview of the health program
+
+-   [CalPERS 2023 Health Benefits Summary](https://www.calpers.ca.gov/docs/forms-publications/2023-health-benefit-summary.pdf) (pdf) -- description of different health plans and their statewide availability
+
+-   [CalPERS 2023 Plans & Rates](https://www.calpers.ca.gov/page/active-members/health-benefits/plans-and-rates) (web link)
+
+### Retirement benefits
 
 ## Timesheets & Pay
 
