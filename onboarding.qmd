@@ -49,15 +49,14 @@ CalPERS is the [California Public Employees Retirement System](https://www.calpe
 
 ### Medical coverage
 
-You should select health insurance by submitting the appropriate forms within 60 days of starting with the State. If you select health insurance, you will pay the difference between what the state provides for healthcare (a base amount yearly) and the total cost for your selected health insurance.
-Employees may elect to receive cash in lieu of their state-sponsored medical insurance and/or dental insurance plan through the [FlexElect](https://www.calhr.ca.gov/state-hr-professionals/Pages/benefits-administration-manual-flexelect.aspx) program. You must certify you have qualifying group health and/or dental insurance through a spouse, domestic partner, or other source.
+You should select health insurance by submitting the appropriate forms within 60 days of starting with the State. If you select health insurance, you will pay the difference between what the state provides for healthcare (a base amount monthly) and the monthly cost for your selected health insurance. This amount is removed from your monthly paycheck. Employees may elect to receive cash in lieu of their state-sponsored medical insurance and/or dental insurance plan through the [FlexElect](https://www.calhr.ca.gov/state-hr-professionals/Pages/benefits-administration-manual-flexelect.aspx) program. You must certify you have qualifying group health and/or dental insurance through a spouse, domestic partner, or other source. FlexElect cash is distributed monthly.
 
 You can make changes to your health, dental, and vision insurance selections two ways:
 
 1.  Annually during open enrollment, which occurs in the fall of each year. Your new insurance selections begin the following January.
 2.  After a [qualifying event](https://www.insurance.ca.gov/01-consumers/110-health/30-have/qual-life-events.cfm) in your life.
 
-To learn more about the health coverage available to you, please visit the CalPERS website. We include some helpful links below:
+To learn more about the health coverage available to you, please visit the CalPERS website as well as the website for your [bargaining unit](https://cawaterboarddatacenter.github.io/swamp-manual/onboarding.html#bargaining-units) to learn about costs specific to you. We include some helpful links below:
 
 -   [CalPERS Health Program Guide](https://www.calpers.ca.gov/docs/forms-publications/health-program-guide.pdf) (pdf) -- broad overview of the health program
 
