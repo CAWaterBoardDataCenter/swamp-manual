@@ -4,7 +4,7 @@ This is an online reference and resource written by and for the Surface Water Am
 
 The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center ([SWAMP IQ](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq/)), and others in the Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)).
 
-Content in this manual includes loosely curated information that members of the SWAMP Unit have found helpful to support onboarding/offboarding, collaboration, communication, and our collective culture. It is place to document institutional knowledge and provide references to available resources.
+Content in this manual includes loosely curated information that members of the SWAMP Team have found helpful to support onboarding/offboarding, collaboration, communication, and our collective culture. It is a place to document institutional knowledge and provide references to available resources.
 
 This is a [Quarto book](https://quarto.org/docs/books), and is in development. If you have suggestions for additions or revisions you think should be incorporated into this book, please follow the guidance provided on the [How to contribute](https://cawaterboarddatacenter.github.io/swamp-manual/contribute.html) chapter.
 
