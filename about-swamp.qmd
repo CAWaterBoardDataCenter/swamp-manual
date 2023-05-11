@@ -14,7 +14,7 @@ In addition to providing information and tools, SWAMP's vision is to help enhanc
 
 SWAMP IQ assists ambient monitoring projects and programs throughout the state by offering resources that support each stage of water quality monitoring, from sample collection to data entry, as well as providing quality assurance review, verification, and data storage.
 
-## SWAMP Resources
+## Additional Resources
 
 -   For an overview of SWAMP - please see the [SWAMP website](https://www.waterboards.ca.gov/water_issues/programs/swamp/) and [SWAMP IQ website](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq/).
 -   **The SWAMP Strategic Action Plan (SAP)** describes current program priorities, and strategies to meet program goals and make our vision and mission concrete: [SWAMP SAP, 2020 - 2023](https://docs.google.com/document/d/1g08L8GUHdEMLCxNS1vppNEXobf4bYOmK/edit#heading=h.30j0zll)
