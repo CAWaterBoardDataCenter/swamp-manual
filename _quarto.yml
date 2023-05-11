@@ -15,6 +15,13 @@ book:
     - index.qmd
     - about-swamp.qmd
     
+    - part: Culture
+      chapters:
+        - values.qmd
+        - codeofconduct.qmd
+        - expectations.qmd
+        - development.qmd
+    
     - part: Administrative goodies
       chapters: 
         - onboarding.qmd
@@ -24,12 +31,6 @@ book:
         - procurement.qmd
         - offboarding.qmd
     
-    - part: Values
-      chapters:
-        - culture.qmd
-        - codeofconduct.qmd
-        - expectations.qmd
-        
     - contacts.qmd
     - contribute.qmd
     - references.qmd
