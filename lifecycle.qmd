@@ -62,7 +62,7 @@ After SWAMP Data are assessed and processed by SWAMP IQ, they are published and 
 
 [***Water Boards Website***](https://www.waterboards.ca.gov/water_issues/programs/swamp/)***:*** our main way of sharing information and products to the public
 
-[***SWAMP Wiki***](https://sites.google.com/site/swampwikihomepage/): what we use to share information to with our external contractors and collaborators
+[***SWAMP Wiki***](https://sites.google.com/site/swampwikihomepage/): what we use to share information with our external contractors and collaborators
 
 [***SWAMP Data Dashboard***](https://gispublic.waterboards.ca.gov/swamp-data/): the primary SWAMP data visualization tool
 
