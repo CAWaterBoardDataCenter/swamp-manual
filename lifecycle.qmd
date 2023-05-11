@@ -10,9 +10,6 @@ There are a couple of different strategic planning moments that occur each year:
 
 -   **Annual Work Plans**; In December/January, we recommend taking time to update individual work plans to account for changes in priorities and bandwidth
 
-```{=html}
-<!-- -->
-```
 -   **Program Strategic Planning** 
 
 ## Collect and Process
@@ -56,6 +53,40 @@ Note that many of the links below require special access or for the user to be s
 -   Request the username and password from [OIMA-helpdesk\@waterboards.ca.gov](mailto:OIMA-helpdesk@waterboards.ca.gov)
 
 ## Publish and Share
+
+### SWAMP Data
+
+After SWAMP Data are assessed and processed by SWAMP IQ, they are published and stored in the [California Environmental Data Exchange Network](http://ceden.org/index.shtml) (CEDEN), which is also pushed to and available on the [California Open Data Portal](https://data.ca.gov/dataset/surface-water-aquatic-organism-tissue-sample-results).
+
+### SWAMP Information & Products
+
+[***Water Boards Website***](https://www.waterboards.ca.gov/water_issues/programs/swamp/)***:*** our main way of sharing information and products to the public
+
+[***SWAMP Wiki***](https://sites.google.com/site/swampwikihomepage/): what we use to share information to with our external contractors and collaborators
+
+[***SWAMP Data Dashboard***](https://gispublic.waterboards.ca.gov/swamp-data/): the primary SWAMP data visualization tool
+
+[***GitHub***](https://github.com/CAWaterBoardDataCenter): used to develop and share select SWAMP products (like this Manual!)
+
+### SWAMP Meetings & Events
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| Meeting or Event                                                                                                                                                                | Frequency                                                                                                            | Audience                                                                                         |
++=================================================================================================================================================================================+======================================================================================================================+==================================================================================================+
+| [SWAMP Roundtable](https://sites.google.com/site/swampwikihomepage/roundtable-meetings?authuser=0)                                                                              | Quarterly                                                                                                            | Internal SWAMP Regional and Statewide Program Coordinators, external contractors, invited guests |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| California Aquatic Bioassessment Workgroup                                                                                                                                      | [Quarterly Meetings](https://sites.google.com/site/swampwikihomepage/bioassessment?authuser=0)                       | Quarterly meetings: Bioassessement partners                                                      |
+|                                                                                                                                                                                 |                                                                                                                      |                                                                                                  |
+| (part of the [Statewide Bioassessment Monitoring Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioassessment/))                                           | [Annual Meeting](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioassessment/training.html#cabw) (CABW) | Annual meeting: Open to the public                                                               |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| [Safe to Eat Workgroup (STEW)](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/index.html)                                                     | Quarterly                                                                                                            | Open to the public                                                                               |
+|                                                                                                                                                                                 |                                                                                                                      |                                                                                                  |
+| (part of the [Statewide Bioaccumulation Monitoring Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring.html))                        |                                                                                                                      |                                                                                                  |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| [California Cyanobacteria and Harmful Algal Bloom (CCHAB) Network](https://mywaterquality.ca.gov/monitoring_council/cyanohab_network/index.html)                                | Quarterly                                                                                                            | Open to the public                                                                               |
+|                                                                                                                                                                                 |                                                                                                                      |                                                                                                  |
+| (part of the [Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/freshwater_cyanobacteria.html)) |                                                                                                                      |                                                                                                  |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 
 ## Discover and Integrate
 
