@@ -31,6 +31,7 @@ book:
         - procurement.qmd
         - offboarding.qmd
     
+    - lifecycle.qmd
     - contacts.qmd
     - contribute.qmd
     - references.qmd
