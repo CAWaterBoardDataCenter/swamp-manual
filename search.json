@@ -348,5 +348,12 @@
     "title": "14  Contributing",
     "section": "14.2 How we contribute",
     "text": "14.2 How we contribute\nWe develop the content for this SWAMP Manual using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nIf you are NOT a member of the SWAMP Team, but have suggestions for additions or revisions you think should be incorporated into this book, please [TBD].\n\n14.2.1 Setup\nTo contribute, SWAMP Team members must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center – if you don’t see them in your Software Center or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nCreate your free personal account GitHub account\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together."
+  },
+  {
+    "objectID": "inspiration.html",
+    "href": "inspiration.html",
+    "title": "15  Inspiration",
+    "section": "",
+    "text": "The impetus for developing this manual began in 2022 when members of the SWAMP Team participated in the inaugural and pilot Water Boards Openscapes Champions Cohort. Since then the team has been developing material and adding to the manual as time and bandwidth allow.\nThis SWAMP Manual is inspired by many sources, including:\n\nOpenscapes and their Approach Guide\nNOAA Fisheries (NMFS) Open Science Resource Book\nThe Fay Lab Manual"
   }
 ]
