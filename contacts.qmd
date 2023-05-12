@@ -4,38 +4,44 @@ We should ask whether internal or team contact information goes here :)
 
 ## SWAMP Team
 
-+--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
-| Name               | Title                                                 | Program Area                                                                    |
-+====================+=======================================================+=================================================================================+
-| Ali Dunn           | Senior Environmental Scientist, Supervisor, Unit Lead | Statewide SWAMP Coordinator of statewide monitoring programs, plans and budgets |
-|                    |                                                       |                                                                                 |
-|                    |                                                       | Staff supervisor                                                                |
-+--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
-| Anna Holder        | Environmental Scientist                               | Bioaccumulation Program Coordinator                                             |
-|                    |                                                       |                                                                                 |
-|                    |                                                       | Data science and science communication                                          |
-|                    |                                                       |                                                                                 |
-|                    |                                                       | Openscapes                                                                      |
-+--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
-| Corey Clatterbuck  | Environmental Scientist                               | Healthy Watersheds assessment and data integration lead                         |
-|                    |                                                       |                                                                                 |
-|                    |                                                       | Data science and science communication                                          |
-|                    |                                                       |                                                                                 |
-|                    |                                                       | Openscapes                                                                      |
-+--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
-| Mary Tappel        | Environmental Scientist                               | Webpage updates                                                                 |
-+--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
-| Michelle Tang      | Environmental Scientist                               | Data science, data visualization and programming (JavaScript, Python)           |
-+--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
-| Shuka Rastegarpour | Environmental Scientist                               | Bioassessment Program Coordinator                                               |
-+--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
-| Sydney Rilum       | California Sea Grant Fellow                           | Data science, data visualization and science communication                      |
-+--------------------+-------------------------------------------------------+---------------------------------------------------------------------------------+
++--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| Name               | Title                                                 | Program Area(s)                                                                            |
++====================+=======================================================+============================================================================================+
+| Ali Dunn           | Senior Environmental Scientist, Supervisor, Unit Lead | SWAMP Coordinator of statewide monitoring programs, plans and budgets                      |
++--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| Anna Holder        | Environmental Scientist                               | SWAMP Statewide Bioaccumulation Program Coordinator                                        |
+|                    |                                                       |                                                                                            |
+|                    |                                                       | Data science, data visualization and programming (R \[preferred\], Python, Unix, SQL, GIS) |
+|                    |                                                       |                                                                                            |
+|                    |                                                       | Science communication                                                                      |
+|                    |                                                       |                                                                                            |
+|                    |                                                       | Openscapes                                                                                 |
+|                    |                                                       |                                                                                            |
+|                    |                                                       | Tribal Coordinator                                                                         |
++--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| Corey Clatterbuck  | Environmental Scientist                               | Healthy watersheds assessment and data integration lead                                    |
+|                    |                                                       |                                                                                            |
+|                    |                                                       | Data science, data visualization and programming (R)                                       |
+|                    |                                                       |                                                                                            |
+|                    |                                                       | Science communication                                                                      |
+|                    |                                                       |                                                                                            |
+|                    |                                                       | Openscapes                                                                                 |
++--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| Mary Tappel        | Environmental Scientist                               | Webpage updates                                                                            |
++--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| Michelle Tang      | Environmental Scientist                               | Data science, data visualization and programming (JavaScript, Python)                      |
++--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| Shuka Rastegarpour | Environmental Scientist                               | SWAMP Statewide Bioassessment Program Coordinator                                          |
++--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| Sydney Rilum       | California Sea Grant Fellow                           | Data science, data visualization (R)                                                       |
+|                    |                                                       |                                                                                            |
+|                    |                                                       | Science communication                                                                      |
++--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 ## SWAMP IQ Team
 
 +---------------------------+-------------------------------------------------------+---------------------------------------------------------+
-| Name                      | Title                                                 | Program Area                                            |
+| Name                      | Title                                                 | Program Area(s)                                         |
 +===========================+=======================================================+=========================================================+
 | Tessa Fojut               | Senior Environmental Scientist, Supervisor, Unit Lead | SWAMP Quality Assurance Officer                         |
 |                           |                                                       |                                                         |
@@ -61,3 +67,27 @@ We should ask whether internal or team contact information goes here :)
 +---------------------------+-------------------------------------------------------+---------------------------------------------------------+
 | Toni Marshall             | Environmental Scientist                               | Bioassessment (benthic macroinvertebrates) Data Manager |
 +---------------------------+-------------------------------------------------------+---------------------------------------------------------+
+
+## Former Fellows & Interns
+
++---------------------+-----------------------------+--------------+-------------------------+
+| Name                | Title                       | Year         | Primary Project Area(s) |
++=====================+=============================+==============+=========================+
+| Lindsey Metz\*      | California Sea Grant Fellow | 2022         |                         |
++---------------------+-----------------------------+--------------+-------------------------+
+| Gabriella Moran     | CivicSpark Fellow           | 2022         | Tribal Data Initiatives |
++---------------------+-----------------------------+--------------+-------------------------+
+| Brook Thompson      | Stanford Fellow             | 2021         | Tribal Data Initiatives |
++---------------------+-----------------------------+--------------+-------------------------+
+| Corey Clatterbuck\* | California Sea Grant Fellow | 2021         |                         |
++---------------------+-----------------------------+--------------+-------------------------+
+| Ross Cooper         | California Sea Grant Fellow | 2020         |                         |
++---------------------+-----------------------------+--------------+-------------------------+
+| Maraid Jimenez      | CivicSpark Fellow           | 2020         | Tribal Data Initiatives |
++---------------------+-----------------------------+--------------+-------------------------+
+| Anna Holder\*       | California Sea Grant Fellow | 2019         |                         |
++---------------------+-----------------------------+--------------+-------------------------+
+| Nicole Hack         | California Sea Grant Fellow | 2018         |                         |
++---------------------+-----------------------------+--------------+-------------------------+
+
+: \*Fellows who have been hired on at the Water Boards
