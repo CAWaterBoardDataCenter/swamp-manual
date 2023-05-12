@@ -34,6 +34,7 @@ book:
     - lifecycle.qmd
     - contacts.qmd
     - contribute.qmd
+    - inspiration.qmd
     - references.qmd
     
   sidebar:
