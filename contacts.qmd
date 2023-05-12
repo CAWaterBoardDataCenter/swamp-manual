@@ -1,8 +1,8 @@
-# Meet the Team! 
+# Meet the SWAMP Team!
 
 We should ask whether internal or team contact information goes here :)
 
-## SWAMP Team
+## SWAMP Unit
 
 +--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
 | Name               | Title                                                 | Program Area(s)                                                                            |
@@ -38,7 +38,7 @@ We should ask whether internal or team contact information goes here :)
 |                    |                                                       | Science communication                                                                      |
 +--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
-## SWAMP IQ Team
+## SWAMP IQ Unit
 
 +---------------------------+-------------------------------------------------------+---------------------------------------------------------+
 | Name                      | Title                                                 | Program Area(s)                                         |
