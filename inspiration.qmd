@@ -1,0 +1,9 @@
+# Inspiration
+
+The impetus for developing this manual began in 2022 when members of the SWAMP Team participated in the inaugural and pilot [Water Boards Openscapes Champions Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2022.html). Since then the team has been developing material and adding to the manual as time and bandwidth allow.
+
+This SWAMP Manual is inspired by many sources, including:
+
+-   [Openscapes](https://www.openscapes.org/) and their [Approach Guide](https://openscapes.github.io/approach-guide/)
+-   [NOAA Fisheries (NMFS) Open Science Resource Book](https://nmfs-opensci.github.io/ResourceBook/)
+-   [The Fay Lab Manual](https://thefaylab.github.io/lab-manual/)
