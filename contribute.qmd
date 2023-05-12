@@ -1,3 +1,37 @@
-# How to contribute
+# Contributing
 
-In summary, this book has no content whatsoever.
+## Who can contribute
+
+Currently, only members of the SWAMP Team are able to actively contribute to this manual.
+
+## How we contribute
+
+We develop the content for this SWAMP Manual using RStudio, build the book using [Quarto](https://quarto.org/) (via RStudio), and collaborate and publish using GitHub (also via RStudio).
+
+If you are *NOT* a member of the SWAMP Team, but have suggestions for additions or revisions you think should be incorporated into this book, please \[**TBD\].**
+
+### Setup
+
+To contribute, SWAMP Team members must do the following, and it should only take about 20 minutes to complete:
+
+1.  **Install R and RStudio**
+
+    Both R and RStudio should be available in the Software Center -- if you don't see them in your Software Center or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.
+
+    Also see these [step by step instructions on how to install these programs](https://www.r4wrds.com/intro/m_install_r) -- you will only need to go through steps 1 and 2
+
+    If you are new to R, it would also be helpful if you could review the [Getting Started Module](https://www.r4wrds.com/intro/m_getting_started.html) so you can begin to familiarize yourself with the fundamentals of the program.
+
+2.  **Install Quarto**
+
+    [Quarto download and install instructions](https://quarto.org/docs/getting-started/installation.html)
+
+3.  **Create a GitHub Account**
+
+    [Create your free personal account GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
+
+    [Tips on choosing your username](https://happygitwithr.com/github-acct.html#username-advice)
+
+4.  **Download and Install Git**
+
+    Follow your operating system's normal [Git installation process](https://git-scm.com/downloads). Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.

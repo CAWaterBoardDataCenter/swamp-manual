@@ -70,24 +70,15 @@ We should ask whether internal or team contact information goes here :)
 
 ## Former Fellows & Interns
 
-+---------------------+-----------------------------+--------------+-------------------------+
-| Name                | Title                       | Year         | Primary Project Area(s) |
-+=====================+=============================+==============+=========================+
-| Lindsey Metz\*      | California Sea Grant Fellow | 2022         |                         |
-+---------------------+-----------------------------+--------------+-------------------------+
-| Gabriella Moran     | CivicSpark Fellow           | 2022         | Tribal Data Initiatives |
-+---------------------+-----------------------------+--------------+-------------------------+
-| Brook Thompson      | Stanford Fellow             | 2021         | Tribal Data Initiatives |
-+---------------------+-----------------------------+--------------+-------------------------+
-| Corey Clatterbuck\* | California Sea Grant Fellow | 2021         |                         |
-+---------------------+-----------------------------+--------------+-------------------------+
-| Ross Cooper         | California Sea Grant Fellow | 2020         |                         |
-+---------------------+-----------------------------+--------------+-------------------------+
-| Maraid Jimenez      | CivicSpark Fellow           | 2020         | Tribal Data Initiatives |
-+---------------------+-----------------------------+--------------+-------------------------+
-| Anna Holder\*       | California Sea Grant Fellow | 2019         |                         |
-+---------------------+-----------------------------+--------------+-------------------------+
-| Nicole Hack         | California Sea Grant Fellow | 2018         |                         |
-+---------------------+-----------------------------+--------------+-------------------------+
+| Name                | Title                       | Year | Primary Project Area(s) |
+|---------------------|-----------------------------|------|-------------------------|
+| Lindsey Metz\*      | California Sea Grant Fellow | 2022 |                         |
+| Gabriella Moran     | CivicSpark Fellow           | 2022 | Tribal Data Initiatives |
+| Brook Thompson      | Stanford Fellow             | 2021 | Tribal Data Initiatives |
+| Corey Clatterbuck\* | California Sea Grant Fellow | 2021 |                         |
+| Ross Cooper         | California Sea Grant Fellow | 2020 |                         |
+| Maraid Jimenez      | CivicSpark Fellow           | 2020 | Tribal Data Initiatives |
+| Anna Holder\*       | California Sea Grant Fellow | 2019 |                         |
+| Nicole Hack         | California Sea Grant Fellow | 2018 |                         |
 
 : \*Fellows who have been hired on at the Water Boards
