@@ -1,90 +1,61 @@
 # Expectations
 
-All SWAMP staff are expected to abide by the following:
+In addition to abiding by the SWAMP [Code of Conduct](https://cawaterboarddatacenter.github.io/swamp-manual/codeofconduct.html), all SWAMP staff are expected to abide by the following:
 
 ## Work schedule
 
 -   *Regular Work Hours:* Please use your Outlook calendar to show your regular work hours to assist in scheduling meetings.
-
 -   *Teleworking:* All staff are required to adhere to the provisions of the [CalEPA Telework Policy](https://intranet.calepa.ca.gov/admin-policy/telework/), the [Water Boards Telework Program](https://waternet.waterboards.ca.gov/das/human_resources/telework.shtml), and Remote Access Security Standards and requirements of approved telework agreements. Also see the [CA Telework Employee Guidelines](https://telework.dgs.ca.gov/working-remotely/employee-guidelines/)
-
 -   *Notification of workday start:* When you start your day, please send a Teams chat in the shared unit channel. This can be as simple as "Hello team!". The point is to let us know you're around and to share a moment of virtual connection with the rest of the team.
-
 -   *Scheduling and taking time off*
-
     -   *To request time off:* Send your supervisor an email with the days/times you would like to take off and include if you would like to make up the time by staying late or coming in early. Otherwise it will be assumed that you are using leave time and that you have checked your leave balances and confirmed that you have adequate leave time available. Your supervisor will respond to your email approving your time off request, or if there is a conflict (only rare occurrences), your supervisor will notify you if it is not approved and will work with you to find an alternate time for you to take off.
 
     -   *Once time off has been approved:* Mark on your Outlook calendar when you will be out of the office (vacation, appointment, etc.)
 
     -   *Before you leave for your time off:* Turn on an "out of office" message in Outlook if you will be away for a day or more
-
 -   *If you are sick, late, or need to leave for an emergency*: Send your supervisor an email, Teams chat or text their mobile phone notifying them that you will not be in, will be more than 30 minutes late, or had to leave early. When you are able, mark that time on your Outlook calendar.
 
 ## Communication
 
 -   *Keeping each other in the loop:* Please include your supervisor on emails, in meetings, or other communications when necessary, so that they are aware of unit business.
-
 -   *Open door/chat policy:* Our unit maintains an open door/chat policy, so please feel free to stop by or send a Teams chat or email if you need to talk, chat, consult, etc.
-
 -   *Communication response time*: Please aim to reply to all emails or phone calls within 3 business days.
 
--   ***ADD*** **Norms regarding when to use email vs. Teams chat vs. Phone call vs video call vs zoom**
+::: callout-note
+Reminder to add norms regarding when to use email vs. Teams chat vs. Phone call vs video call vs zoom
+:::
 
 ## Expectations of supervisors
 
 SWAMP Supervisors commit to uphold the following:
 
 -   Encourage each of you to lead in your own way
-
     -   Create space to let you do your jobs, empower you to succeed and do what you're good at and interested in
     -   Allow you to make decisions, and provide guidance as needed
-
 -   Listen to you and understand your skillsets, strengths and interests, and ensure your projects align with those skillsets, strengths and interests
-
 -   Treat each of you respectfully, equitably, and fairly
-
 -   Understand and get to know each of your individual styles and to meet you there
-
 -   Be there for each of you, via regular 1:1 check-ins, specific project meetings, chat, phone, email to talk with you about projects, workload, interests, goals, inspiration, brainstorming, etc.
-
 -   Show my appreciation and gratitude for your work and give recognition for accomplishments
-
     -   Express gratitude regularly though words and actions for the good work each of you do
 
     -   Share your work with others to highlight and showcase projects, including presentations to executive management, board members and regional colleagues
 
     -   Provide public recognition for exceptional work through Superior Accomplishment Award nominations
-
 -   Communicate in a consistent, professional, friendly, and meaningful manner
-
 -   Clearly define roles and responsibilities
-
 -   Provide feedback, mentorship and training
-
 -   Create a safe space for failure (and innovation!)
-
 -   Provide strong leadership and a clear vision
-
 -   Create a dedicated and balanced work environment
-
 -   Share information to reduce uncertainty about your job, OIMA, and Board activities
-
 -   Give team members opportunities to participate in decisions that affect their jobs
-
 -   Consult team members about scheduling
-
 -   Clearly communicate work rules and job expectations
-
 -   Hold staff and myself accountable to the work rules and job expectations
-
 -   Ensure that workload is suitable and that deadlines are realistic given the resources
-
 -   Clearly communicate when quality and quantity of work do not meet standards
-
 -   Provide opportunities for career development
-
 -   Provide opportunities for social interaction among employees
-
 -   Maintain a positive attitude even when faced with challenging situations and tasks
-
 -   Maintain a zero-tolerance policy for harassment
