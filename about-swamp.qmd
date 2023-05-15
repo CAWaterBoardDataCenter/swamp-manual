@@ -8,6 +8,17 @@ SWAMP sits within the Water Board's Office of Information Management and Analysi
 
 SWAMP accomplishes this through carefully designed, externally reviewed statewide and regional surface water monitoring programs, and by assisting other entities state-wide in the generation of comparable data that can be brought together in integrated assessments that provide answers to current management questions.
 
+Statewide SWAMP Monitoring Programs include:
+
+-   [Bioaccumulation Monitoring Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring.html)
+-   [Bioassessment Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioassessment/)
+-   [Freshwater and Estuarine HABs Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/freshwater_cyanobacteria.html)
+-   [Toxicology and Contaminants Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/spot/)
+
+::: callout-note
+*Reminder to add icons and new links when ready*
+:::
+
 In addition to providing information and tools, SWAMP's vision is to help enhance monitoring, assessment and reporting activities throughout the Water Boards.
 
 > SWAMP IQ strives to promote question-driven monitoring, and to ensure the highest quality data is used to evaluate the health of California's water bodies.
