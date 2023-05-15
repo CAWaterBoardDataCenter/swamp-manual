@@ -1,6 +1,10 @@
 # Travel
 
-Exempt, excluded, and represented state employees may be eligible for the reimbursement of authorized out-of-pocket expenses that are reasonably, actually, and necessarily incurred as a result of conducting state business
+Exempt, excluded, and represented state employees may be eligible for the reimbursement of authorized out-of-pocket expenses that are reasonably, actually, and necessarily incurred as a result of conducting state business.
+
+::: callout-note
+Reminder to add things to remember when filling out forms (e.g. hotel \$\$ limits, which receipts to keep, all the other things that are handy -- but not documented anywhere else)
+:::
 
 ## Quick links
 
@@ -8,7 +12,7 @@ Exempt, excluded, and represented state employees may be eligible for the reimbu
 
 -   [HR Allowances and Travel Reimbursements](https://hrmanual.calhr.ca.gov/Home/ManualItem/1/2203) 
 
--   [Water Board\'s Travel Page (Intanet)](https://waternet.waterboards.ca.gov/das/accounting/travel.shtml) - can only access on VPN 
+-   [Water Board's Travel Page (Intanet)](https://waternet.waterboards.ca.gov/das/accounting/travel.shtml) - can only access on VPN 
 
 -   [Travel Forms (Intranet)](https://waternet.waterboards.ca.gov/das/forms/index.php?form_category=Travel&=Submit+Query) - can only access on VPN 
 
@@ -25,7 +29,7 @@ Phone: (916) 341-5036
 
 **TIPS:**
 
-1.  Receipts should be submitted for every item of expense of \$25 or more. When receipts are not required to be submitted with a travel expense claim, it is the employee\'s responsibility to maintain receipts and records of their actual expenses. Read more information on reimbursement [here.](https://hrmanual.calhr.ca.gov/Home/ManualItem/1/2203)  
+1.  Receipts should be submitted for every item of expense of \$25 or more. When receipts are not required to be submitted with a travel expense claim, it is the employee's responsibility to maintain receipts and records of their actual expenses. Read more information on reimbursement [here.](https://hrmanual.calhr.ca.gov/Home/ManualItem/1/2203)  
 
 2.  Know your [reimbursement rates](https://www.calhr.ca.gov/employees/Pages/travel-reimbursements.aspx)! State employees may be eligible to receive reimbursement for expenses such as:
 
