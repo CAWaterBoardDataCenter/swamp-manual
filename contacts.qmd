@@ -21,6 +21,8 @@ The SWAMP Team is composed of multiple team members at the State Water Board wit
 |                    |                                                       |                                                                                            |
 |                    |                                                       | Racial Equity Trainer                                                                      |
 +--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| Badhia Yunes Katz  | CivicSpark Fellow                                     | Tribal Data Initiatives                                                                    |
++--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
 | Corey Clatterbuck  | Environmental Scientist                               | Healthy watersheds assessment and data integration lead                                    |
 |                    |                                                       |                                                                                            |
 |                    |                                                       | Data science, data visualization and programming (R)                                       |
@@ -38,8 +40,6 @@ The SWAMP Team is composed of multiple team members at the State Water Board wit
 | Sydney Rilum       | California Sea Grant Fellow                           | Data science, data visualization (R)                                                       |
 |                    |                                                       |                                                                                            |
 |                    |                                                       | Science communication                                                                      |
-+--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| Badhia Yunes Katz  | CivicSpark Fellow                                     | Tribal Data Initiatives                                                                    |
 +--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 ## SWAMP IQ
@@ -77,6 +77,10 @@ The SWAMP Team is composed of multiple team members at the State Water Board wit
 +----------------+----------------------------------------+-----------------------------------------------------------------------------------------+
 | Name           | Title                                  | Program Area(s)                                                                         |
 +================+========================================+=========================================================================================+
+| Carly Nilson   | Senior Environmental Scientist         | SWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator |
++----------------+----------------------------------------+-----------------------------------------------------------------------------------------+
+| Chad Fearing   | Associate Governmental Program Analyst | Contracts                                                                               |
++----------------+----------------------------------------+-----------------------------------------------------------------------------------------+
 | Devan Burke    | Associate Governmental Program Analyst | Contracts                                                                               |
 |                |                                        |                                                                                         |
 |                |                                        | Openscapes                                                                              |
@@ -84,10 +88,6 @@ The SWAMP Team is composed of multiple team members at the State Water Board wit
 |                |                                        | Racial equity data projects and communication                                           |
 +----------------+----------------------------------------+-----------------------------------------------------------------------------------------+
 | Erick Burres   | Senior Environmental Scientist         | SWAMP Clean Water Team Coordinator                                                      |
-+----------------+----------------------------------------+-----------------------------------------------------------------------------------------+
-| Chad Fearing   | Associate Governmental Program Analyst | Contracts                                                                               |
-+----------------+----------------------------------------+-----------------------------------------------------------------------------------------+
-| Carly Nilson   | Senior Environmental Scientist         | SWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator |
 +----------------+----------------------------------------+-----------------------------------------------------------------------------------------+
 | Marisa VanDyke | Senior Environmental Scientist         | SWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator |
 +----------------+----------------------------------------+-----------------------------------------------------------------------------------------+
