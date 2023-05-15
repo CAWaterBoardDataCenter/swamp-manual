@@ -1,118 +1,99 @@
 # Training
 
-As a Water Boards employee, you have access to training and training-related services to support your personal and professional development, all in support of the Water Boards\' mission. Training Services is comprised of the *Training Academy* and *Training Office*, which offer different types of training and which you access differently.
+As a Water Boards employee, you have access to training and training-related services to support your personal and professional development, all in support of the Water Boards' mission. Training Services is comprised of the *Training Academy* and *Training Office*, which offer different types of training and which you access differently.
 
--   *Water Board Training Academy*
+::: callout-note
+Reminder to update when new training system is launched in Jul 2023
+:::
 
-    -   Offers in-house virtual and in-person training courses
+***Water Board Training Academy***
 
-    -   Staff self-register for courses via the [Academy Registration System (GSMU)](https://waterboards.gosignmeup.com/ "https://waterboards.gosignmeup.com/")​​​​​​​ - follow [these instructions on how to attend Academy courses](https://cawaterboards.sharepoint.com/Training/SitePages/Access-Trainings-and-Conferences.aspx "https://cawaterboards.sharepoint.com/Training/SitePages/Access-Trainings-and-Conferences.aspx")
+-   Offers in-house virtual and in-person training courses
+-   Staff self-register for courses via the [Academy Registration System (GSMU)](https://waterboards.gosignmeup.com/ "https://waterboards.gosignmeup.com/")​​​​​​​ - follow [these instructions on how to attend Academy courses](https://cawaterboards.sharepoint.com/Training/SitePages/Access-Trainings-and-Conferences.aspx "https://cawaterboards.sharepoint.com/Training/SitePages/Access-Trainings-and-Conferences.aspx")
+-   Works with staff to develop new classes
 
-    -   Works with staff to develop new classes
+***Water Boards Training Office***
 
--   *Water Boards Training Office*
+-   Gives ​​​​​​access to external events (trainings, conferences, PE/PG license preparation classes and higher education requests)
+-   Always submit a TRF to your [Training Liaison](https://cawaterboards.sharepoint.com/Training/SitePages/Training-Liaisons.aspx "https://cawaterboards.sharepoint.com/Training/SitePages/Training-Liaisons.aspx") - follow [these instructions on how to attend external events](https://cawaterboards.sharepoint.com/Training/SitePages/Access-Trainings-and-Conferences.aspx "https://cawaterboards.sharepoint.com/Training/SitePages/Access-Trainings-and-Conferences.aspx")
+-   **Never** pay for a class yourself, without explicit pre-approval from the Training Office (or you won't be eligible for reimbursement)
 
-    -   Gives ​​​​​​access to external events (trainings, conferences, PE/PG license preparation classes and higher education requests)
+## Internal Training
 
-    -   Always submit a TRF to your [Training Liaison](https://cawaterboards.sharepoint.com/Training/SitePages/Training-Liaisons.aspx "https://cawaterboards.sharepoint.com/Training/SitePages/Training-Liaisons.aspx") - follow [these instructions on how to attend external events](https://cawaterboards.sharepoint.com/Training/SitePages/Access-Trainings-and-Conferences.aspx "https://cawaterboards.sharepoint.com/Training/SitePages/Access-Trainings-and-Conferences.aspx")
+Internal Training refers to in-house training courses supported by the *Water Board Training Academy.*
 
-    -   **Never** pay for a class yourself, without explicit pre-approval from the Training Office (or you won't be eligible for reimbursement)
+**How to sign up for Internal Water Board Training Academy Courses:**
 
-## Contacts:
+-   Watch your inbox for course announcement emails 
+-   Search the [Academy Registration System](https://waterboards.gosignmeup.com/Public) 
+-   Explore the FY 22/23 Academy Course Catalog ([Excel](https://cawaterboards.sharepoint.com/Training/Documents/academycatalogexcel.xlsx)) ([PDF](https://cawaterboards.sharepoint.com/Training/Documents/academycatalogpdf.pdf)) 
 
--   Training Liaison: Devan Burke
+**Approval Process:**
 
--   Backup Training Liaison: Melissa Morris
+-   Self-register on the [Academy Registration System](https://waterboards.gosignmeup.com/Public "https://waterboards.gosignmeup.com/Public")
+-   Download the current [TRF](https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx "https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx")
+-   Fill out the TRF​ and obtain management approvals (digital signature)
+-   Email completed TRF to your **Training Liaison (please do not email to the Training Office)**
 
-## Internal:
+**Attendance Reminder:**
 
--   Internal Training refers to in-house training courses supported by the *Water Board Training Academy.*
+To receive attendance credit, you must be present and participate for the entirety of the course or you will receive a [no-show](https://cawaterboards.sharepoint.com/Training/SitePages/Training-Services-Registration-Guidelines.aspx#training-services-no-show-guidelines "https://cawaterboards.sharepoint.com/Training/SitePages/Training-Services-Registration-Guidelines.aspx#training-services-no-show-guidelines"). Although we understand that emergencies arise during training, missing more than 15-minutes of any course will result in a no-show with no attendance credit given. This is a Training Services guideline that cannot be overruled by the instructor. To ensure proper attendance, rename your video box to list your first and last name. 
 
--   **How to sign up for Internal Water Board Training Academy Courses:**
+## External Training
 
-    -   Watch your inbox for course announcement emails 
+External Training refers to external events (training, conferences, PE/PG license preparation classes and higher education requests) supported by the *Water Boards Training Office*.
 
-    -   Search the [Academy Registration System](https://waterboards.gosignmeup.com/Public) 
+**When is Training Office Approval Required?**
 
-    -   Explore the FY 22/23 Academy Course Catalog ([Excel](https://cawaterboards.sharepoint.com/Training/Documents/academycatalogexcel.xlsx)) ([PDF](https://cawaterboards.sharepoint.com/Training/Documents/academycatalogpdf.pdf)) 
+-   There is a registration/tuition cost
+-   There are travel costs (hotel, car rental, per diem, etc.)
+-   You want the event added to your training history 
 
--   **Approval Process:**
+**How to sign up for (non-Academy) External Training:**
 
-    -   Self-register on the [Academy Registration System](https://waterboards.gosignmeup.com/Public "https://waterboards.gosignmeup.com/Public")
+-   Download the current [TRF](https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx "https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx")​
+-   Fill out the TRF and obtain approvals (digital signature)
+-   Email completed TRF to your Training Liaison
+-   Training Liaison submits TRF to Training Office for processing, by submission deadline
+-   Training Office emails you the approved TRF when registration is complete
 
-    -   Download the current [TRF](https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx "https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx")
+**How to sign up for (non-Academy) Conferences:**
 
-    -   Fill out the TRF​ and obtain management approvals (digital signature)
+-   Be prepared to plan head when requesting to attend any Conference or External Training. Visit the [FY 22/23 Training Submittal Deadlines](https://cawaterboards.sharepoint.com/Training/Documents/TRF%20Acceptance%20and%20Deadlines.pdf) to begin planning your request. The current submission deadline for Conferences is **35 business days prior to the registration deadline.**
+-   Download the current [TRF](https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx "https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx")​ and [Conference Package](https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx "https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx")​​
+-   Fill out the TRF and Conference Package and obtain approvals (digital signature)​
+-   Attach copy of registration form, event agenda, meal or session preferences (if applicable), etc.​
+-   Email completed TRF and Conference Package to your Training Liaison
+-   Training Liaison submits them to Training Services for processing
+-   Training Services emails you the approved TRF when approval is received
 
-    -   Email completed TRF to your **Training Liaison (please do not email to the Training Office)**
+**Conferences that may be of interest:**
 
--   Attendance Reminder: To receive attendance credit, you must be present and participate for the entirety of the course or you will receive a [no-show](https://cawaterboards.sharepoint.com/Training/SitePages/Training-Services-Registration-Guidelines.aspx#training-services-no-show-guidelines "https://cawaterboards.sharepoint.com/Training/SitePages/Training-Services-Registration-Guidelines.aspx#training-services-no-show-guidelines"). Although we understand that emergencies arise during training, missing more than 15-minutes of any course will result in a no-show with no attendance credit given. This is a Training Services guideline that cannot be overruled by the instructor. To ensure proper attendance, rename your video box to list your first and last name. 
+::: callout-note
+Reminder for AH to add list of conferences, dates, links, etc. (from AWP)
+:::
 
-## External:
-
--   External Training refers to external events (training, conferences, PE/PG license preparation classes and higher education requests) supported by the *Water Boards Training Office*.
-
--   **When is Training Office Approval Required?**
-
-    -   There is a registration/tuition cost
-
-    -   There are travel costs (hotel, car rental, per diem, etc.)
-
-    -   You want the event added to your training history 
-
--   **How to sign up for (non-Academy) External Training:**
-
-    -   Download the current [TRF](https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx "https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx")​
-
-    -   Fill out the TRF and obtain approvals (digital signature)
-
-    -   Email completed TRF to your Training Liaison
-
-    -   Training Liaison submits TRF to Training Office for processing, by submission deadline
-
-    -   Training Office emails you the approved TRF when registration is complete
-
--   **How to sign up for (non-Academy) Conferences:**
-
-    -   Be prepared to plan head when requesting to attend any Conference or External Training. Visit the [FY 22/23 Training Submittal Deadlines](https://cawaterboards.sharepoint.com/Training/Documents/TRF%20Acceptance%20and%20Deadlines.pdf) to begin planning your request. The current submission deadline for Conferences is **35 business days prior to the registration deadline.**
-
-    -   Download the current [TRF](https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx "https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx")​ and [Conference Package](https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx "https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx")​​
-
-    -   Fill out the TRF and Conference Package and obtain approvals (digital signature)​
-
-    -   Attach copy of registration form, event agenda, meal or session preferences (if applicable), etc.​
-
-    -   Email completed TRF and Conference Package to your Training Liaison
-
-    -   Training Liaison submits them to Training Services for processing
-
-    -   Training Services emails you the approved TRF when approval is received
-
-## Resources:
+## Resources
 
 -   [Training Forms](https://cawaterboards.sharepoint.com/Training/SitePages/Forms.aspx) 
+-   [Water Board's Training Services Page (SharePoint)](https://cawaterboards.sharepoint.com/Training/SitePages/Home.aspx) 
 
--   [Water Board\'s Training Services Page (SharePoint)](https://cawaterboards.sharepoint.com/Training/SitePages/Home.aspx) 
-
-```{=html}
 <!-- -->
-```
--   [Training FAQ\'s](https://cawaterboards.sharepoint.com/Training/SitePages/FAQ.aspx) 
 
-```{=html}
+-   [Training FAQ's](https://cawaterboards.sharepoint.com/Training/SitePages/FAQ.aspx) 
+
 <!-- -->
-```
--   [Training Services Registration Guidelines](https://cawaterboards.sharepoint.com/Training/SitePages/Training-Services-Registration-Guidelines.aspx#training-services-registration-guidelines) (Visit if you\'re unsure of the training type you\'re wanting to attend) 
+
+-   [Training Services Registration Guidelines](https://cawaterboards.sharepoint.com/Training/SitePages/Training-Services-Registration-Guidelines.aspx#training-services-registration-guidelines) (Visit if you're unsure of the training type you're wanting to attend) 
 
 -   [FY 22/23 Training Submittal Deadlines](https://cawaterboards.sharepoint.com/Training/Documents/TRF%20Acceptance%20and%20Deadlines.pdf) 
 
-## Recommended On-demand Training Resources: 
+## Recommended On-demand Training Resources:
 
 -   [College of Water Informatics (CoWI) Data Tool Kit](https://www.waterboards.ca.gov/resources/oima/cowi/data_training.html) 
 
-```{=html}
 <!-- -->
-```
+
 -   [Tribal Historical and Legal Foundations](https://waternet.waterboards.ca.gov/training/videos/tribal_training1.mp4)
 
 -   [Tribal Cultural Resources](https://waternet.waterboards.ca.gov/training/videos/tribal_training2.mp4)
@@ -120,3 +101,13 @@ As a Water Boards employee, you have access to training and training-related ser
 -   [Tribal Cultural Awareness and California Native American History](https://www.youtube.com/watch?v=PttFI1WvTTY)
 
 -   [CA Water Quality Law 101](https://waternet.waterboards.ca.gov/wndata/videos/wq_law_101/wqlaw.mp4): foundational training in CA law including Porter Cologne Water Quality Control Act, Federal Clean Water Act, Basin Plans, etc.  
+
+## **Contacts**
+
+Training Liaison: Devan Burke
+
+Backup Training Liaison: TBD
+
+::: callout-note
+Reminder to add backup when identified
+:::
