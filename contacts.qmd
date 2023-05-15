@@ -1,6 +1,6 @@
 # Meet the SWAMP Team!
 
-We should ask whether internal or team contact information goes here :)
+The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center (SWAMP IQ), and others in the Office of Information Management and Analysis (OIMA).
 
 ## SWAMP Unit
 
@@ -18,6 +18,8 @@ We should ask whether internal or team contact information goes here :)
 |                    |                                                       | Openscapes                                                                                 |
 |                    |                                                       |                                                                                            |
 |                    |                                                       | Tribal Coordinator                                                                         |
+|                    |                                                       |                                                                                            |
+|                    |                                                       | Racial Equity Trainer                                                                      |
 +--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
 | Corey Clatterbuck  | Environmental Scientist                               | Healthy watersheds assessment and data integration lead                                    |
 |                    |                                                       |                                                                                            |
@@ -37,8 +39,10 @@ We should ask whether internal or team contact information goes here :)
 |                    |                                                       |                                                                                            |
 |                    |                                                       | Science communication                                                                      |
 +--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| Badhia Yunes Katz  | CivicSpark Fellow                                     | Tribal Data Initiatives                                                                    |
++--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
-## SWAMP IQ Unit
+## SWAMP IQ
 
 +---------------------------+-------------------------------------------------------+---------------------------------------------------------+
 | Name                      | Title                                                 | Program Area(s)                                         |
@@ -68,17 +72,46 @@ We should ask whether internal or team contact information goes here :)
 | Toni Marshall             | Environmental Scientist                               | Bioassessment (benthic macroinvertebrates) Data Manager |
 +---------------------------+-------------------------------------------------------+---------------------------------------------------------+
 
+## OIMA
+
++----------------+----------------------------------------+-----------------------------------------------------------------------------------------+
+| Name           | Title                                  | Program Area(s)                                                                         |
++================+========================================+=========================================================================================+
+| Devan Burke    | Associate Governmental Program Analyst | Contracts                                                                               |
+|                |                                        |                                                                                         |
+|                |                                        | Openscapes                                                                              |
+|                |                                        |                                                                                         |
+|                |                                        | Racial equity data projects and communication                                           |
++----------------+----------------------------------------+-----------------------------------------------------------------------------------------+
+| Erick Burres   | Senior Environmental Scientist         | SWAMP Clean Water Team Coordinator                                                      |
++----------------+----------------------------------------+-----------------------------------------------------------------------------------------+
+| Chad Fearing   | Associate Governmental Program Analyst | Contracts                                                                               |
++----------------+----------------------------------------+-----------------------------------------------------------------------------------------+
+| Carly Nilson   | Senior Environmental Scientist         | SWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator |
++----------------+----------------------------------------+-----------------------------------------------------------------------------------------+
+| Marisa VanDyke | Senior Environmental Scientist         | SWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator |
++----------------+----------------------------------------+-----------------------------------------------------------------------------------------+
+
 ## Former Fellows & Interns
 
-| Name                | Title                       | Year | Primary Project Area(s) |
-|---------------------|-----------------------------|------|-------------------------|
-| Lindsey Metz\*      | California Sea Grant Fellow | 2022 |                         |
-| Gabriella Moran     | CivicSpark Fellow           | 2022 | Tribal Data Initiatives |
-| Brook Thompson      | Stanford Fellow             | 2021 | Tribal Data Initiatives |
-| Corey Clatterbuck\* | California Sea Grant Fellow | 2021 |                         |
-| Ross Cooper         | California Sea Grant Fellow | 2020 |                         |
-| Maraid Jimenez      | CivicSpark Fellow           | 2020 | Tribal Data Initiatives |
-| Anna Holder\*       | California Sea Grant Fellow | 2019 |                         |
-| Nicole Hack         | California Sea Grant Fellow | 2018 |                         |
++---------------------+-----------------------------+-------------+-------------------------+
+| Name                | Title                       | Year        | Primary Project Area(s) |
++=====================+=============================+=============+=========================+
+| Lindsey Metz\*      | California Sea Grant Fellow | 2022        |                         |
++---------------------+-----------------------------+-------------+-------------------------+
+| Gabriella Moran     | CivicSpark Fellow           | 2022        | Tribal Data Initiatives |
++---------------------+-----------------------------+-------------+-------------------------+
+| Brook Thompson      | Stanford Fellow             | 2021        | Tribal Data Initiatives |
++---------------------+-----------------------------+-------------+-------------------------+
+| Corey Clatterbuck\* | California Sea Grant Fellow | 2021        |                         |
++---------------------+-----------------------------+-------------+-------------------------+
+| Ross Cooper         | California Sea Grant Fellow | 2020        |                         |
++---------------------+-----------------------------+-------------+-------------------------+
+| Maraid Jimenez      | CivicSpark Fellow           | 2020        | Tribal Data Initiatives |
++---------------------+-----------------------------+-------------+-------------------------+
+| Anna Holder\*       | California Sea Grant Fellow | 2019        |                         |
++---------------------+-----------------------------+-------------+-------------------------+
+| Nicole Hack         | California Sea Grant Fellow | 2018        |                         |
++---------------------+-----------------------------+-------------+-------------------------+
 
 : \*Fellows who have been hired on at the Water Boards
