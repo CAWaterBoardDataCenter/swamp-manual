@@ -1,6 +1,6 @@
 # Welcome! {.unnumbered}
 
-This is an online reference and resource written by and for the Surface Water Ambient Monitoring Program ([SWAMP](https://www.waterboards.ca.gov/water_issues/programs/swamp/)) at the [California State Water Resources Control Board](https://www.waterboards.ca.gov/) (State Water Board).
+This is an online reference and resource written by and for the Surface Water Ambient Monitoring Program ([SWAMP](https://www.waterboards.ca.gov/water_issues/programs/swamp/)) at the California State Water Resources Control Board ([State Water Board](https://www.waterboards.ca.gov/)).
 
 The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center ([SWAMP IQ](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq/)), and others in the Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)).
 
