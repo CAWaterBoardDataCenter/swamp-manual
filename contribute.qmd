@@ -16,7 +16,7 @@ To contribute, SWAMP Team members must do the following, and it should only take
 
 1.  **Install R and RStudio**
 
-    Both R and RStudio should be available in the Software Center -- if you don't see them in your Software Center or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.
+    Both R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) -- if you don't see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.
 
     Also see these [step by step instructions on how to install these programs](https://www.r4wrds.com/intro/m_install_r) -- you will only need to go through steps 1 and 2
 
