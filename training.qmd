@@ -67,11 +67,7 @@ External Training refers to external events (training, conferences, PE/PG licens
 -   Training Liaison submits them to Training Services for processing
 -   Training Services emails you the approved TRF when approval is received
 
-**Conferences that may be of interest:**
-
-::: callout-note
-Reminder for AH to add list of conferences, dates, links, etc. (from AWP)
-:::
+See the [Professional Development Section](https://cawaterboarddatacenter.github.io/swamp-manual/development.html) for a list of conferences that may be of interest.
 
 ## Resources
 
