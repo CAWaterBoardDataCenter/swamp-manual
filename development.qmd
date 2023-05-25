@@ -19,6 +19,10 @@ See the table below for a list of conferences that may be of interest and usuall
 +---------------------------------------------------------------------------------------------------------------------------+------------+--------------+
 | Conference Name                                                                                                           | Time Frame | Frequency    |
 +===========================================================================================================================+============+==============+
+| [Earth Science Information Partners](https://www.esipfed.org/meetings) (ESIP)                                             | Jan        | Twice a year |
+|                                                                                                                           |            |              |
+|                                                                                                                           | Jul        |              |
++---------------------------------------------------------------------------------------------------------------------------+------------+--------------+
 | [American Society of Limnology and Oceanography](https://www.aslo.org/meetings/) (ASLO)                                   | Feb/Mar    | Twice a year |
 |                                                                                                                           |            |              |
 | (Includes the Ocean Sciences Meeting & Aquatic Sciences Meeting)                                                          | May/Jun    |              |
