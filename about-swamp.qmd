@@ -1,12 +1,12 @@
 # About SWAMP
 
-## Overview
+## Overview: SWAMP
 
 SWAMP sits within the Water Board's Office of Information Management and Analysis (OIMA), which serves as an advocate for data management, a bridge between data collectors and users, as well as, provides transparency of the Water Board's information management infrastructure.
 
 > The SWAMP mission is to provide resource managers, decision makers, and the public with timely, high-quality data, information and tools needed to evaluate the condition of all surface waters throughout California.
 
-SWAMP accomplishes this through carefully designed, externally reviewed statewide and regional surface water monitoring programs, and by assisting other entities state-wide in the generation of comparable data that can be brought together in integrated assessments that provide answers to current management questions.
+SWAMP accomplishes this through carefully designed, externally reviewed statewide and regional surface water monitoring programs, and by assisting other entities state-wide in the generation of comparable data that can be brought together in integrated assessments that provide answers to current management questions. In addition to providing information and tools, SWAMP's vision is to help enhance monitoring, assessment and reporting activities throughout the Water Boards.
 
 Statewide SWAMP Monitoring Programs include:
 
@@ -19,17 +19,20 @@ Statewide SWAMP Monitoring Programs include:
 Reminder to add icons and new links when ready
 :::
 
-In addition to providing information and tools, SWAMP's vision is to help enhance monitoring, assessment and reporting activities throughout the Water Boards.
+## Overview: SWAMP IQ
 
 > SWAMP IQ strives to promote question-driven monitoring, and to ensure the highest quality data is used to evaluate the health of California's water bodies.
 
 SWAMP IQ assists ambient monitoring projects and programs throughout the state by offering resources that support each stage of water quality monitoring, from sample collection to data entry, as well as providing quality assurance review, verification, and data storage.
 
-## Additional Resources
+## SWAMP Resources
 
--   For an overview of SWAMP - please see the [SWAMP website](https://www.waterboards.ca.gov/water_issues/programs/swamp/) and [SWAMP IQ website](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq/).
--   **The SWAMP Strategic Action Plan (SAP)** describes current program priorities, and strategies to meet program goals and make our vision and mission concrete: [SWAMP SAP, 2020 - 2023](https://docs.google.com/document/d/1g08L8GUHdEMLCxNS1vppNEXobf4bYOmK/edit#heading=h.30j0zll)
--   **The SWAMP Quality Assurance Program Plan (QAPP)** provides a detailed overview of SWAMP monitoring standards and requirements: [SWAMP QAPP, 2022-2024](https://docs.google.com/document/d/16QmALh0kkREJSKMvVb6fcKkLsWiAsiTAIJKfzpBRoPc/edit#heading=h.q961pnmk2sje)
--   For an overview of OIMA - please see the [OIMA website](https://www.waterboards.ca.gov/resources/oima/)
--   The OIMA Strategic Data Action Plan (SDAP) describes current OIMA priorities and strategies to meet the office's goals: [OIMA SDAP](https://docs.google.com/document/d/1Kg0tzfRJljwsmFQ2Qyzt_rPW8CrXX3oKWO6myH3ECVo/edit)
-    -   The [OIMA SDAP Project Portfolio Write-ups](https://docs.google.com/spreadsheets/d/13gGHtjN5LDULEfcUcHxMKQ2bKvBMsYHvb1rlaS5c5OY/edit#gid=1161341563) provide a summary and status of all ongoing SDAP Projects.
+| Purpose                                                                                                 | Title & Weblink                                                                                                                                                               |
+|----------------------------------------|----------------------------|
+| Overview of SWAMP                                                                                       | [SWAMP Website](https://www.waterboards.ca.gov/water_issues/programs/swamp/)                                                                                                  |
+| Overview of SWAMP IQ                                                                                    | [SWAMP IQ Website](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq)                                                                                       |
+| Current SWAMP program priorities and strategies                                                         | [SWAMP Strategic Action Plan, 2020-2023](https://docs.google.com/document/d/1g08L8GUHdEMLCxNS1vppNEXobf4bYOmK/edit?usp=sharing&ouid=118425894617420506258&rtpof=true&sd=true) |
+| Detailed overview of SWAMP monitoring standards and requirements                                        | [SWAMP Quality Assurance Program Plan (QAPP), 2022-2024](https://docs.google.com/document/d/16QmALh0kkREJSKMvVb6fcKkLsWiAsiTAIJKfzpBRoPc/edit#heading=h.q961pnmk2sje)         |
+| Overview of OIMA                                                                                        | [OIMA Website](https://www.waterboards.ca.gov/resources/oima/)                                                                                                                |
+| Strategic actions to improve the way the Water Boards use data and information about CA water resources | State Water Resources Control Board [Strategic Data Action Plan (SDAP), draft](https://www.waterboards.ca.gov/resources/data_databases/docs/sdap_draft.pdf)                   |
+| Projects carried out in the SDAP                                                                        | State Water Resources Control Board [SDAP, project portfolio summaries](https://docs.google.com/document/d/1Kg0tzfRJljwsmFQ2Qyzt_rPW8CrXX3oKWO6myH3ECVo/edit?usp=sharing)     |
