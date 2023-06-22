@@ -16,9 +16,9 @@ Here are some opportunities to plan & prepare SWAMP projects and activities whic
 
 ## Collect and Process
 
-For SWAMP Statewide Monitoring Programs, data collection and processing generally occurs sometime between March and October each year. This time frame can vary for each Statewide Monitoring Program so it's best to review each Program's [Quality Assurance Project Plan (QAPP)](https://cawaterboarddatacenter.github.io/swamp-manual/about-swamp.html#swamp-resources) for specific sampling and processing timelines.
+For SWAMP Statewide Monitoring Programs, data collection and processing generally occurs sometime between March and October each year. This time frame can vary for each Statewide Monitoring Program so it's best to review each Program's [Quality Assurance Project Plan (QAPP)](https://sites.google.com/view/swamp-iq-wiki/quality-assurance-plans?authuser=0) for specific sampling and processing timelines. Regional boards, external partner agencies, and NGOs perform SWAMP program data collection and processing according to each program's QAPP.
 
-The SWAMP Team does so much more than manage and coordinate SWAMP Statewide Monitoring Programs! For those projects, data collection and processing can look very different. Usually it comes in the form of engagement with internal and external partners, listening to the needs of communities that can most benefit from SWAMP data, information, and products, and figuring out how to operationalize and evolve our products and systems to better serve those communities and our partners. This process tends to be ongoing, although there may also be focused and concentrated periods where this listening and learning occurs.
+The SWAMP Team does so much more than manage and coordinate SWAMP Statewide Monitoring Programs! For those projects, data collection and processing can look very different. Usually it comes in the form of engagement with internal and external partners, listening to the needs of communities that can most benefit from SWAMP data, information, and products, and figuring out how to operationalize and evolve our products and systems to better serve those communities and our partners. For example, data processing for the [SWAMP Data Dashboard](https://gispublic.waterboards.ca.gov/swamp-data/) includes summarizing tissue data over annual timespans for improved interpretation, as well as merging data sources for understanding FHAB occurrence. This process tends to be ongoing, although there may also be focused and concentrated periods where this listening and learning occurs.
 
 ## Assure and Analyze
 
@@ -106,6 +106,6 @@ As we discover new things and/or opportunities to improve the data, products, or
 
 For SWAMP Statewide Monitoring Programs, data are described through metadata and data dictionaries that are available on the SWAMP IQ website, via the database where data are downloaded (e.g. CEDEN, CA Open Data Portal).
 
-For SWAMP Projects that are separate from statewide monitoring efforts, information and context about the project can be found in specific project documentation. Examples of documentation we use include GitHub repositories and the tools within them (e.g., ReadMes and GitHub issues), data flow diagrams, and reproducible workflows.
+For SWAMP Projects that are separate from statewide monitoring efforts, information and context about the project can be found in specific project documentation. Examples of documentation we use include GitHub repositories and the tools within them (e.g., ReadMes and GitHub issues), data flow diagrams, and reproducible workflows, and QAPPs and SOPs available in the [SWAMP IQ wiki](https://sites.google.com/view/swamp-iq-wiki/home-page).
 
-The SWAMP Team is also using this Manual to document the more nuanced parts of how we do what we do so that it's easier for folks to find what they need to do their work.
+The SWAMP Team is also using this Manual to document the more nuanced parts of how we do what we do so that it's easier for folks to find what they need to do their work. The SWAMP team is also developing documentation norms for SWAMP products created by our contracted partners.
