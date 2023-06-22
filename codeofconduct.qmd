@@ -2,7 +2,7 @@
 
 Let's write one & discuss!
 
-Some Codes of Conduct from other places for inspiration:
+Check out some Codes of Conduct from other places for inspiration:
 
 -   [Openscapes](https://openscapes.org/code-of-conduct.html)
 -   [Code for America](https://codeforamerica.org/code-of-conduct/)
