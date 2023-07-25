@@ -33,6 +33,10 @@ Important FAQ for leave types:
 
 -   Leave accrual can be impacted by the number of days/hours you work in a month.
 
+-   If you are new to the state and select **vacation/sick leave**, you will accrue but not be able to use vacation leave for the first 6 months of continuous, full-time work after your hire date.
+
+-   Other classifications of leave are available regardless of the leave type you select, including some granted at the beginning of every fiscal year (July 1). For more information, see [section 2100](https://hrmanual.calhr.ca.gov/Home/ManualItem/1/2101) of the CalHR manual.
+
 ::: callout-tip
 ## Need additional leave?
 
@@ -91,7 +95,7 @@ Leave balances are included on your paystubs and can be tracked in Cal Employee 
 
 All staff are required to fill out a work week agreement and telework plan that specifies where you will typically work on a given day of the week (office or remote) and your typical work hours. These plans must be completed even if the employee works in the office full time.
 
-Your typical work schedule (Work Week Agreement) and Telework Plan need to be created in BizFlow within 2 months of starting work.
+Your typical work schedule (Work Week Agreement) and Telework Plan need to be created in BizFlow within 2 months of starting work. If you are interested in an alternate work week schedule, which allows a non-exempt employee to work a fixed schedule other than 5 days per week, 8 hours per day, inquire with your supervisor. Alternate work week [details](https://hrmanual.calhr.ca.gov/Home/ManualItem/1/1503) and [annual schedules](https://www.calhr.ca.gov/Pages/publications-awws-calendars.aspx) are available in the CalHR manual.
 
 The Telework Policy for CalEPA and the Water Boards allows remote-centered work options for all staff as long as business needs can be met. As of January 2023, OIMA still maintains enough office space that staff will be assigned a cubicle or personal workstation in the CalEPA building whether or not they primarily work remotely.
 
