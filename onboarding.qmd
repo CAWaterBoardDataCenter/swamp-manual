@@ -11,18 +11,36 @@ In your first week, your supervisor will help you:
 -   Get access to your Water Boards email
 -   Get any equipment or supplies you need (e.g. laptop, office supplies)
 -   Get a badge to enter the CalEPA building (as appropriate)
--   Forward relevant meeting invitations and other information to you
+-   Forward relevant meeting invitations and other information to you, such as:
+    -   SWAMP Unit Meetings
+    -   SWAMP Roundtable Meetings
+    -   OIMA All-Staff Meetings
+    -   Other meetings that will be relevant to your work
+-   Get added to relevant email lists, such as:
+    -   SWAMP Roundtable email list
+    -   OIMA All Staff email list
+-   Get added to relevant Microsoft Teams Channels & Group Chats, such as:
+    -   OIMA Data Team
+    -   Water Boards Data Community Team
+    -   SWAMP Unit Chat
 
 We recommend you take some time to:
 
 -   Go through this manual and familiarize yourself with SWAMP, OIMA, and the Water Boards
     -   For **Fellows & Interns**, the rest of this Onboarding section may not apply to you (e.g. HR Forms, etc.) - your supervisor can provide guidance on what is relevant to you.
--   Install any software you will need
--   Take any mandatory training (e.g. IT Security)
--   Familiarize yourself with Teams channels, Outlook, any other software you may use
+-   Install any software you will need (see the [Tech Access, Setup, & Support Section](https://cawaterboarddatacenter.github.io/swamp-manual/tech.html) for guidance)
+    -   If you will need to install a lot of different programs, we recommend working with DIT to bulk install programs. Programs that are commonly used in SWAMP that benefit from bulk installation by DIT include:
+        -   ArcGIS Pro, PowerBI, Tableau (folks usually prefer and install one over the others)
+        -   R & RStudio
+        -   Git
+        -   Zoom
+-   Familiarize yourself with Microsoft Teams, Outlook, any other software you may use (see the [Communication Section](https://cawaterboarddatacenter.github.io/swamp-manual/expectations.html#communication) for communication norms, resources, and expectations)
+-   Add any known / already approved time off to your calendar (see the [Work Schedule Section](https://cawaterboarddatacenter.github.io/swamp-manual/expectations.html#work-schedule) for guidance)
 -   Familiarize yourself with resources related to the project(s) you will be working on
--   Meet others in SWAMP or that you will work with on your project(s)
--   ASK QUESTIONS! You'll probably have a lot of questions as you settle in - whatever they are - please ask your supervisor and/or team members
+-   Meet others in SWAMP/OIMA and others that you'll work with on your project(s)
+-   Take any mandatory training (e.g. IT Security, Field Safety)
+-   Review optional training available through the Training Academy and sign up for courses of interest. (See the [Training Section](https://cawaterboarddatacenter.github.io/swamp-manual/training.html) for more guidance)
+-   ASK QUESTIONS! You'll probably have a lot of questions as you settle in - please don't hesitate to ask your supervisor and/or team members!
 
 ## HR forms
 
