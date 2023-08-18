@@ -4,9 +4,17 @@ Phew!
 
 ## Need equipment?
 
-See the [Onboarding chapter](https://cawaterboarddatacenter.github.io/swamp-manual/onboarding.html#equipment) for how to obtain your work computer & hardware. Your supervisor will help you with this process.
+See the [Onboarding Chapter](https://cawaterboarddatacenter.github.io/swamp-manual/onboarding.html#telework-equipment) for how to obtain your work computer & hardware. Your supervisor will help you with this process.
 
 ## Remote desktop vs. VPN
+
+Remote desktop and Virtual Private Network (VPN) enable staff to securely connect to the Water Board's network.
+
+-   VPN is used on Water Boards' approved devices to access the network when working remotely.
+
+-   Remote desktop is used when the individual is working remotely but does not have access to a Water Boards device (i.e. when using a personal computer).
+
+Your supervisor and DIT will help you get set up.
 
 ## Installing Printer(s)
 
@@ -75,11 +83,10 @@ Tableau is a business intelligence tool that can connect to and access data from
 
 **Tableau Software for Desktop**
 
--   Tableau Desktop is the full (or unrestricted) version of Tableau that can be installed onto one\'s state-issued laptop or desktop computer. Once installed, it can be run as a desktop application and visualizations can be published on either Tableau Public or Tableau Server. A limited number of Tableau Desktop licenses are available to Water Boards staff. These  licenses are named licenses only (not shared) and are tied to a specific user. Contact the DIT Help Desk at [help\@waterboards.ca.gov](mailto:help@waterboards.ca.gov) to request a license or contact Rafael Maestu ([Rafael.Maestu\@Waterboards.ca.gov](mailto:Rafael.Maestu@Waterboards.ca.gov)) in OIMA for further guidance. 
+-   Tableau Desktop is the full (or unrestricted) version of Tableau that can be installed onto one's state-issued laptop or desktop computer. Once installed, it can be run as a desktop application and visualizations can be published on either Tableau Public or Tableau Server. A limited number of Tableau Desktop licenses are available to Water Boards staff. These  licenses are named licenses only (not shared) and are tied to a specific user. Contact the DIT Help Desk at [help\@waterboards.ca.gov](mailto:help@waterboards.ca.gov) to request a license or contact Rafael Maestu ([Rafael.Maestu\@Waterboards.ca.gov](mailto:Rafael.Maestu@Waterboards.ca.gov)) in OIMA for further guidance. 
 
-```{=html}
 <!-- -->
-```
+
 -   Tableau Desktop Public Edition is the free version of Tableau Desktop that is available to all Water Boards staff. The software can be downloaded from the Tableau Public website ([Tableau Public Product Download](https://www.tableau.com/products/public/download)). If you run into any permissions issues trying to install the software package on your computer, you may need to request that the DIT Help Desk at [help\@waterboards.ca.gov](mailto:help@waterboards.ca.gov) install it for you. Compared to Tableau Desktop, Tableau Desktop Public Edition has a number of significant limitations (e.g., limited size and file type of data sources, inability to save Tableau workbooks to the desktop, inability to control access to the Tableau workbook or the underlying data), so it is likely only useful for evaluation purposes or projects with a very limited scope. 
 
 **Tableau Server**
@@ -94,9 +101,8 @@ Tableau is a business intelligence tool that can connect to and access data from
 
     -   Automation: Data visualizations and sources published on Tableau Server can be automatically refreshed on a time schedule.  
 
-```{=html}
 <!-- -->
-```
+
 -   **Limitations**:
 
     -   Tableau Server can be used to create data visualizations and dashboards like you would in Tableau Desktop or Tableau Desktop Public Edition.
@@ -113,9 +119,8 @@ Tableau is a business intelligence tool that can connect to and access data from
 
     -   Tableau Public: Requires a Tableau Public account. Free (self-registration). <https://public.tableau.com/>  
 
-```{=html}
 <!-- -->
-```
+
 -   Once a visualization is published on Tableau Server or Tableau Public (and configured for public sharing), then that visualization can be embedded into a Water Boards web page. 
 
 ::: callout-note
