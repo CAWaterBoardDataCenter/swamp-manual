@@ -4,6 +4,25 @@ Here is a non-comprehensive, but hopefully informative guide to onboarding to th
 
 Also see the [New Employee Orientation Resources](https://waternet.waterboards.ca.gov/das/benefits/emp_orientation.shtml) & make a note of [state holidays](https://www.calhr.ca.gov/employees/pages/state-holidays.aspx) on your calendar.
 
+## Initial Logistics
+
+In your first week, your supervisor will help you:
+
+-   Get access to your Water Boards email
+-   Get any equipment or supplies you need (e.g. laptop, office supplies)
+-   Get a badge to enter the CalEPA building (as appropriate)
+-   Forward relevant meeting invitations and other information to you
+
+We recommend you take some time to:
+
+-   Go through this manual and familiarize yourself with SWAMP, OIMA, and the Water Boards
+-   Install any software you will need
+-   Take any mandatory training (e.g. IT Security)
+-   Familiarize yourself with Teams channels, Outlook, any other software you may use
+-   Familiarize yourself with resources related to the project(s) you will be working on
+-   Meet others in SWAMP or that you will work with on your project(s)
+-   ASK QUESTIONS! You'll probably have a lot of questions as you settle in - whatever they are - please ask your supervisor and/or team members
+
 ## HR forms
 
 On your starting day, you will receive a package of forms and documents from the HR department including your duty statement, tax forms, direct deposit forms, questionaires (diversity, military), CalPERS forms, leave forms, and medical insurance forms

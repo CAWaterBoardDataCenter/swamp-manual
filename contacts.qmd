@@ -7,6 +7,8 @@ The SWAMP Team is composed of multiple team members at the State Water Board wit
 +--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
 | Name               | Title                                                 | Program Area(s)                                                                            |
 +====================+=======================================================+============================================================================================+
+| Josh Davenport     | Stanford Fellow                                       | Tribal Data Initiatives                                                                    |
++--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
 | Ali Dunn           | Senior Environmental Scientist, Supervisor, Unit Lead | SWAMP Coordinator of statewide monitoring programs, plans and budgets                      |
 +--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
 | Anna Holder        | Environmental Scientist                               | SWAMP Statewide Bioaccumulation Program Coordinator                                        |
@@ -21,15 +23,7 @@ The SWAMP Team is composed of multiple team members at the State Water Board wit
 |                    |                                                       |                                                                                            |
 |                    |                                                       | Racial Equity Trainer                                                                      |
 +--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| Badhia Yunes Katz  | CivicSpark Fellow                                     | Tribal Data Initiatives                                                                    |
-+--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| Corey Clatterbuck  | Environmental Scientist                               | Healthy watersheds assessment and data integration lead                                    |
-|                    |                                                       |                                                                                            |
-|                    |                                                       | Data science, data visualization and programming (R)                                       |
-|                    |                                                       |                                                                                            |
-|                    |                                                       | Science communication                                                                      |
-|                    |                                                       |                                                                                            |
-|                    |                                                       | Openscapes                                                                                 |
+| Leah Brosseau      | CivicSpark Fellow                                     | Tribal Data Initiatives                                                                    |
 +--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
 | Mary Tappel        | Environmental Scientist                               | Webpage updates                                                                            |
 +--------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+
@@ -101,13 +95,15 @@ For more information, visit the [SWAMP IQ Wiki](https://sites.google.com/view/sw
 +---------------------+-----------------------------+--------------+-------------------------+
 | Name                | Title                       | Year         | Primary Project Area(s) |
 +=====================+=============================+==============+=========================+
+| Badhia Yunes Katz   | CivicSpark Fellow           | 2023         | Tribal Data Initiatives |
++---------------------+-----------------------------+--------------+-------------------------+
 | Lindsey Metz\*      | California Sea Grant Fellow | 2022         |                         |
 +---------------------+-----------------------------+--------------+-------------------------+
 | Gabriella Moran     | CivicSpark Fellow           | 2022         | Tribal Data Initiatives |
 +---------------------+-----------------------------+--------------+-------------------------+
 | Brook Thompson      | Stanford Fellow             | 2021         | Tribal Data Initiatives |
 +---------------------+-----------------------------+--------------+-------------------------+
-| Corey Clatterbuck\* | California Sea Grant Fellow | 2021         |                         |
+| Corey Clatterbuck\* | California Sea Grant Fellow | 2021         | Healthy Watersheds      |
 +---------------------+-----------------------------+--------------+-------------------------+
 | Ross Cooper         | California Sea Grant Fellow | 2020         |                         |
 +---------------------+-----------------------------+--------------+-------------------------+
