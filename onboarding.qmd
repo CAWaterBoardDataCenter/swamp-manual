@@ -16,6 +16,7 @@ In your first week, your supervisor will help you:
 We recommend you take some time to:
 
 -   Go through this manual and familiarize yourself with SWAMP, OIMA, and the Water Boards
+    -   For **Fellows & Interns**, the rest of this Onboarding section may not apply to you (e.g. HR Forms, etc.) - your supervisor can provide guidance on what is relevant to what you will be working on.
 -   Install any software you will need
 -   Take any mandatory training (e.g. IT Security)
 -   Familiarize yourself with Teams channels, Outlook, any other software you may use
