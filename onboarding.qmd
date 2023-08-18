@@ -18,7 +18,7 @@ In your first week, your supervisor will help you:
     -   Other meetings that will be relevant to your work
 -   Get added to relevant email lists, such as:
     -   SWAMP Roundtable email list
-    -   OIMA All Staff email list
+    -   OIMA All-Staff email list
 -   Get added to relevant Microsoft Teams Channels & Group Chats, such as:
     -   OIMA Data Team
     -   Water Boards Data Community Team
@@ -40,7 +40,7 @@ We recommend you take some time to:
 -   Meet others in SWAMP/OIMA and others that you'll work with on your project(s)
 -   Take any mandatory training (e.g. IT Security, Field Safety)
 -   Review optional training available through the Training Academy and sign up for courses of interest. (See the [Training Section](https://cawaterboarddatacenter.github.io/swamp-manual/training.html) for more guidance)
--   ASK QUESTIONS! You'll probably have a lot of questions as you settle in - please don't hesitate to ask your supervisor and/or team members!
+-   ASK QUESTIONS! You'll probably have a lot of questions as you settle in - please don't hesitate to ask your supervisor and/or team members as they come up!
 
 ## HR forms
 
