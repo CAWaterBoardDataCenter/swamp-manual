@@ -2,15 +2,15 @@
 
 Exempt, excluded, and represented state employees may be eligible for the reimbursement of authorized out-of-pocket expenses that are reasonably, actually, and necessarily incurred as a result of conducting state business.
 
-::: callout-note
-Reminder to add things to remember when filling out forms (e.g. hotel \$\$ limits, which receipts to keep, all the other things that are handy -- but not documented anywhere else)
-:::
-
 ## Quick links
 
--   [Travel Reimbursements](https://www.calhr.ca.gov/employees/pages/travel-reimbursements.aspx) 
+-   [CalTravelStore / Concur](http://www.caltravelstore.com/) (where you book your travel)
 
--   [HR Allowances and Travel Reimbursements](https://hrmanual.calhr.ca.gov/Home/ManualItem/1/2203) 
+-   [CalATERS Global](https://www.sco.ca.gov/calaters_global.html) (where you submit your travel expense claims \[TEC\] for reimbursement)
+
+-   [CalHR Manual - Allowances and Travel Reimbursements Section](https://hrmanual.calhr.ca.gov/Home/ManualItem/1/2203)
+
+-   [CalHR Webpage - Travel Reimbursements](https://www.calhr.ca.gov/employees/pages/travel-reimbursements.aspx) 
 
 -   [Water Board's Travel Page (Intanet)](https://waternet.waterboards.ca.gov/das/accounting/travel.shtml) - can only access on VPN 
 
@@ -18,20 +18,38 @@ Reminder to add things to remember when filling out forms (e.g. hotel \$\$ limit
 
 ## Travel Overview
 
-The [Travel Help Desk](https://www.sco.ca.gov/calaters_global.html) can provide assistance or answer questions about making travel reservations, recommendations while traveling, and asking for reimbursement when you return. The Travel Help Desk for the Waterboards is comprised of the Travel Unit staff in the Accounting Office as part of the Division of Administrative Services. 
-
-Visit [CalTravelStore](http://www.caltravelstore.com/), a self-serve site for all government business travel needs. Travelers are able to make reservations for lodging, airfare, rental car & rail fare through Concur which is personalized to meet the needs of State government travelers.\
-
 **CalTravelStore New User Registration**\
 For new users to be added to CalTravelStore to begin making reservations, contact the CalATERS Travel Help Desk.\
 Email: [CalATERS-Travel\@waterboards.ca.gov](mailto:CalATERS-Travel@waterboards.ca.gov)\
 Phone: (916) 341-5036
 
+The [CalATERS Travel Help Desk](https://www.sco.ca.gov/calaters_global.html) can provide assistance or answer questions about making travel reservations, recommendations while traveling, and asking for reimbursement when you return. The Travel Help Desk for the Waterboards is comprised of the Travel Unit staff in the Accounting Office as part of the Division of Administrative Services. 
+
+Visit [CalTravelStore](http://www.caltravelstore.com/), a self-serve site for all government business travel needs. Travelers are able to make reservations for lodging, airfare, rental car & rail fare through Concur which is personalized to meet the needs of State government travelers.\
+
+**General Travel Process**
+
+1.  Get approval to travel; if traveling for training or a conference - see the [Training section](https://cawaterboarddatacenter.github.io/swamp-manual/training.html) for forms that must be completed and approved before booking travel arrangements
+
+2.  Book your travel (flights, hotels, rental cars) using the [CalTravelStore / Concur](http://www.caltravelstore.com/) system.
+
+3.  Travel to and from your destination and **save all receipts** (see Tip #2 below for details)
+
+4.  Submit your **Travel Expense Claim** for reimbursement - this is currently a 3-step process:
+
+    1.  Gather your receipts and complete your TEC in [CalATERS Global](https://www.sco.ca.gov/calaters_global.html) - save a PDF of the TEC for use in Step 2 below
+
+    2.  Complete the Adobe Sign process to get you TEC digitally signed and approved
+
+    3.  Once you received a digitally signed version of your TEC, submit that and all of your required *original* receipts to Accounting. This can be done by dropping of your TEC package in-person in the CalEPA building, or mailing it in using the address provided on page 1 of your TEC.
+
 **TIPS:**
 
-1.  Receipts should be submitted for every item of expense of \$25 or more. When receipts are not required to be submitted with a travel expense claim, it is the employee's responsibility to maintain receipts and records of their actual expenses. Read more information on reimbursement [here.](https://hrmanual.calhr.ca.gov/Home/ManualItem/1/2203)  
+1.  **Ask your Supervisor for a copy of the Adobe Sign Instruction guide** - this will walk you through the 3-step TEC process above in more detail.
 
-2.  Know your [reimbursement rates](https://www.calhr.ca.gov/employees/Pages/travel-reimbursements.aspx)! State employees may be eligible to receive reimbursement for expenses such as:
+2.  Receipts should be submitted for every item of expense of \$25 or more. When receipts are not required to be submitted with a travel expense claim, it is the employee's responsibility to maintain receipts and records of their actual expenses. Read more information on reimbursement [here.](https://hrmanual.calhr.ca.gov/Home/ManualItem/1/2203)  
+
+3.  Know your [reimbursement rates](https://www.calhr.ca.gov/employees/Pages/travel-reimbursements.aspx)! State employees may be eligible to receive reimbursement for expenses such as:
 
     -   Method of travel (transportation)
     -   Meals and incidentals
@@ -41,7 +59,7 @@ Phone: (916) 341-5036
     -   Personal vehicle mileage 
     -   Other actual and necessary business and/or travel costs incurred while conducting official state business
 
-3.  Airline reservations should be made **no more than 30 days** prior to the expected travel dates.
+4.  Airline reservations should be made **no more than 30 days** prior to the expected travel dates.
 
     -   Department of General Services (DGS) recommends booking flights **between 21 to 30 days** prior to travel.
 
