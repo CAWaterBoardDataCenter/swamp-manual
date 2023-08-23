@@ -25,9 +25,9 @@ Phone: (916) 341-5036
 
 The [CalATERS Travel Help Desk](https://www.sco.ca.gov/calaters_global.html) can provide assistance or answer questions about making travel reservations, recommendations while traveling, and asking for reimbursement when you return. The Travel Help Desk for the Waterboards is comprised of the Travel Unit staff in the Accounting Office as part of the Division of Administrative Services. 
 
-Visit [CalTravelStore](http://www.caltravelstore.com/), a self-serve site for all government business travel needs. Travelers are able to make reservations for lodging, airfare, rental car & rail fare through Concur which is personalized to meet the needs of State government travelers.\
+Visit [CalTravelStore](http://www.caltravelstore.com/), a self-serve site for all government business travel needs. Travelers are able to make reservations for lodging, airfare, rental car & rail fare through Concur which is personalized to meet the needs of State government travelers.
 
-**General Travel Process**
+### **General Travel Process**
 
 1.  Get approval to travel; if traveling for training or a conference - see the [Training section](https://cawaterboarddatacenter.github.io/swamp-manual/training.html) for forms that must be completed and approved before booking travel arrangements
 
@@ -43,7 +43,7 @@ Visit [CalTravelStore](http://www.caltravelstore.com/), a self-serve site for al
 
     3.  Once you received a digitally signed version of your TEC, submit that and all of your required *original* receipts to Accounting. This can be done by dropping of your TEC package in-person in the CalEPA building, or mailing it in using the address provided on page 1 of your TEC.
 
-**TIPS:**
+### **Tips**
 
 1.  **Ask your Supervisor for a copy of the Adobe Sign Instruction guide** - this will walk you through the 3-step TEC process above in more detail.
 
