@@ -25,9 +25,9 @@ book:
     - part: Administrative goodies
       chapters: 
         - onboarding.qmd
-        - travel.qmd
-        - training.qmd
         - tech.qmd
+        - training.qmd
+        - travel.qmd
         - procurement.qmd
         - offboarding.qmd
     
