@@ -199,4 +199,12 @@ If you are hosting a Zoom Meeting (or Webinar), you (or whoever in OIMA helped y
 
 We recommend logging into your Zoom Meeting (or Webinar) 5-20 minutes early to get set up, grant permissions to co-hosts, and complete any other preparation you need to ensure your meeting runs smoothly.
 
-## Community
+## Microsoft Teams Communities
+
+In Microsoft Teams, Teams are groups of people brought together for work, projects, or common interests. We utilize Teams Communities, Channels, and direct chat messages to communicate and stay in touch asynchronously (i.e. outside of meetings). See [Get Started with Microsoft Teams](https://support.microsoft.com/en-gb/office/get-started-with-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12?wt.mc_id=otc_microsoft_teams#) and the [Communication Section](https://cawaterboarddatacenter.github.io/swamp-manual/expectations.html#communication) for recommended use of Teams and norms for SWAMP communications.
+
+Your supervisor will add you to any OIMA or SWAMP Teams Channels or Group Chats (e.g., OIMA Team, Unit Group Chat).
+
+### Join the Water Boards Data Community
+
+You can also join the Water Boards Data Community to connect with folks across all State Water Board Regions, Divisions, and Offices. See the [Water Data Communities page](https://www.waterboards.ca.gov/resources/oima/cowi/data_communities.html) for join instructions (see the "Data Communities At The Water Boards" box) and a list of other external water data communities that might be of interest (see the "Other Data Communities" box).
