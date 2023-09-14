@@ -36,7 +36,7 @@ We recommend you take some time to:
 
 -   Go through this manual and familiarize yourself with SWAMP, OIMA, and the Water Boards
     -   For **Fellows & Interns**, the rest of this Onboarding section may not apply to you (e.g. HR Forms, etc.) - your supervisor can provide guidance on what is relevant to you.
--   Install any software you will need (see the [Tech Access, Setup, & Support Section](https://cawaterboarddatacenter.github.io/swamp-manual/tech.html) for guidance)
+-   Install any software you will need (see the [Tech Setup & Support Section](https://cawaterboarddatacenter.github.io/swamp-manual/tech.html) for guidance)
     -   If you will need to install a lot of different programs, we recommend working with DIT to bulk install programs. Programs that are commonly used in SWAMP that benefit from bulk installation by DIT include:
         -   ArcGIS Pro, PowerBI, Tableau (folks usually prefer and install one over the others)
         -   R & RStudio
@@ -50,6 +50,14 @@ We recommend you take some time to:
 -   Take any mandatory training (e.g. IT Security, Field Safety)
 -   Review optional training available through the Training Academy and sign up for courses of interest. (See the [Training Section](https://cawaterboarddatacenter.github.io/swamp-manual/training.html) for more guidance)
 -   ASK QUESTIONS! You'll probably have a lot of questions as you settle in - please don't hesitate to ask your supervisor and/or team members as they come up!
+
+## Equipment
+
+All staff are assigned a laptop (typically Dell or HP) that they can use at home and the office. The Water Boards only uses PCs and does not generally support any Mac-based hardware. Office workstations are set up with two wide screen monitors, keyboard, mouse and docking station where you plug in your laptop.
+
+If you find you need different or additional equipment at your office or home desk (e.g., to make your workspace more ergonomic with a wireless keyboard or mouse), please speak to your supervisor who can work with you and IT to make the appropriate requests. Ergonomic equipment may be made available through a [Reasonable Accommodation Request](https://waternet.waterboards.ca.gov/eeo/reasonable/index.shtml) (intranet link requires VPN login). Work with your supervisor for guidance on preparing the request.
+
+Equipment available to take home includes: laptop, laptop bag, standard monitor, keyboard, mouse, headset, adjustable monitor stand, adjustable tilting laptop stand. To request additional equipment or to report issues with any of your equipment, send an email to the [IT Help Desk](mailto:help@waterboards.ca.gov). This will log a ticket in their tracking system and they will respond typically the same day.
 
 ## HR forms
 
@@ -173,11 +181,3 @@ If you are NOT teleworking or not eligible to telework, you still need to perfor
 7.  From the drop-down menu at the top left, choose "Submit Request" then click the green check box button.
 
 For more information, visit the [Telework Program Page](https://waternet.waterboards.ca.gov/das/human_resources/telework.shtml).
-
-## Equipment
-
-All staff are assigned a laptop (typically Dell or HP) that they can use at home and the office. The Water Boards only uses PCs and does not generally support any Mac-based hardware. Office workstations are set up with two wide screen monitors, keyboard, mouse and docking station where you plug in your laptop.
-
-If you find you need different or additional equipment at your office or home desk (e.g., to make your workspace more ergonomic with a wireless keyboard or mouse), please speak to your supervisor who can work with you and IT to make the appropriate requests. Ergonomic equipment may be made available through a [Reasonable Accommodation Request](https://waternet.waterboards.ca.gov/eeo/reasonable/index.shtml) (intranet link requires VPN login). Work with your supervisor for guidance on preparing the request.
-
-Equipment available to take home includes: laptop, laptop bag, standard monitor, keyboard, mouse, headset, adjustable monitor stand, adjustable tilting laptop stand. To request additional equipment or to report issues with any of your equipment, send an email to the [IT Help Desk](mailto:help@waterboards.ca.gov). This will log a ticket in their tracking system and they will respond typically the same day.
