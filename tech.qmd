@@ -1,6 +1,4 @@
-# Tech Access, Setup, & Support
-
-Phew!
+# Tech Setup & Support
 
 ## Need equipment?
 
@@ -8,13 +6,15 @@ See the [Onboarding Chapter](https://cawaterboarddatacenter.github.io/swamp-manu
 
 ## Remote desktop vs. VPN
 
-Remote desktop and Virtual Private Network (VPN) enable staff to securely connect to the Water Board's network.
+Remote desktop and Virtual Private Network (VPN) enable staff to securely connect to the Water Board's network and access various online resources including the Intranet (waternet) and shared drives.
 
--   VPN is used on Water Boards' approved devices to access the network when working remotely.
+-   VPN is used on Water Boards' approved devices to access the network when working remotely. See the [VPN User Instructions](http://waternet.waterboards.ca.gov/dit/help_desk/docs/vpn_user_instructions.pdf).
 
 -   Remote desktop is used when the individual is working remotely but does not have access to a Water Boards device (i.e. when using a personal computer).
 
-Your supervisor and DIT will help you get set up.
+Regardless of which option you use for remote access, all staff are required to use Multi-Factor Authentication (MFA) when accessing the Water Boards' network. See the [Remote Access Guidence Page](https://waternet.waterboards.ca.gov/dit/help_desk/#remote) for instructions to set up your MFA method.
+
+Your supervisor and DIT can help you get set up.
 
 ## Installing Printer(s)
 
@@ -24,9 +24,20 @@ Your supervisor and DIT will help you get set up.
 
 Use your computer's Software Center to download most programs. You can also download & install some programs outside of the Software Center, such as Git, which may have a more recent version than what the Software Center provides. Some external software will not play nice with the VPN (e.g., Slack) so keep that in mind if you're unable to connect and use some software.
 
-Also see this [Business Intelligence Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/business_intelligence_handbook.html) for guidance on buisness intelligence tools (i.e., software) that are available to Water Boards staff.
+Also see this [Business Intelligence Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/business_intelligence_handbook.html) for guidance on business intelligence tools (i.e., software) that are available to Water Boards staff.
 
 If you have issues accessing or downloading any of the below software, email the [IT Help Desk](mailto:Help@waterboards.ca.gov) and they can help you download and/or troubleshoot.
+
+### Microsoft Office 365
+
+All staff have access to Microsoft 365 applications, such as Outlook, Teams, Excel, Word, PowerPoint, SharePoint, OneDrive, and more.
+
+Many of these applications are already loaded onto state devices, and you can access them through any web browser:
+
+1.  Go to the [Office 365 Portal](https://www.office.com)
+2.  Enter your FULL username \[Water Boards email address\]
+3.  Follow the prompts to get your email
+4.  Confirm MFA when prompted
 
 ### **ESRI Services (ArcGIS Pro/ArcGIS Portal)** 
 
@@ -83,11 +94,9 @@ Tableau is a business intelligence tool that can connect to and access data from
 
 **Tableau Software for Desktop**
 
--   Tableau Desktop is the full (or unrestricted) version of Tableau that can be installed onto one's state-issued laptop or desktop computer. Once installed, it can be run as a desktop application and visualizations can be published on either Tableau Public or Tableau Server. A limited number of Tableau Desktop licenses are available to Water Boards staff. These  licenses are named licenses only (not shared) and are tied to a specific user. Contact the DIT Help Desk at [help\@waterboards.ca.gov](mailto:help@waterboards.ca.gov) to request a license or contact Rafael Maestu ([Rafael.Maestu\@Waterboards.ca.gov](mailto:Rafael.Maestu@Waterboards.ca.gov)) in OIMA for further guidance. 
+-   **Tableau Desktop** is the full (or unrestricted) version of Tableau that can be installed onto one's state-issued laptop or desktop computer. Once installed, it can be run as a desktop application and visualizations can be published on either Tableau Public or Tableau Server. A limited number of Tableau Desktop licenses are available to Water Boards staff. These  licenses are named licenses only (not shared) and are tied to a specific user. Contact the DIT Help Desk at [help\@waterboards.ca.gov](mailto:help@waterboards.ca.gov) to request a license or contact Rafael Maestu ([Rafael.Maestu\@Waterboards.ca.gov](mailto:Rafael.Maestu@Waterboards.ca.gov)) in OIMA for further guidance. 
 
-<!-- -->
-
--   Tableau Desktop Public Edition is the free version of Tableau Desktop that is available to all Water Boards staff. The software can be downloaded from the Tableau Public website ([Tableau Public Product Download](https://www.tableau.com/products/public/download)). If you run into any permissions issues trying to install the software package on your computer, you may need to request that the DIT Help Desk at [help\@waterboards.ca.gov](mailto:help@waterboards.ca.gov) install it for you. Compared to Tableau Desktop, Tableau Desktop Public Edition has a number of significant limitations (e.g., limited size and file type of data sources, inability to save Tableau workbooks to the desktop, inability to control access to the Tableau workbook or the underlying data), so it is likely only useful for evaluation purposes or projects with a very limited scope. 
+-   **Tableau Desktop Public Edition** is the free version of Tableau Desktop that is available to all Water Boards staff. The software can be downloaded from the Tableau Public website ([Tableau Public Product Download](https://www.tableau.com/products/public/download)). If you run into any permissions issues trying to install the software package on your computer, you may need to request that the DIT Help Desk at [help\@waterboards.ca.gov](mailto:help@waterboards.ca.gov) install it for you. Compared to Tableau Desktop, Tableau Desktop Public Edition has a number of significant limitations (e.g., limited size and file type of data sources, inability to save Tableau workbooks to the desktop, inability to control access to the Tableau workbook or the underlying data), so it is likely only useful for evaluation purposes or projects with a very limited scope. 
 
 **Tableau Server**
 
@@ -98,10 +107,7 @@ Tableau is a business intelligence tool that can connect to and access data from
 -   **Advantages**: 
 
     -   Sharing data sources: Data sources published on Tableau Server can be shared with others on your team or with others in the organization. 
-
     -   Automation: Data visualizations and sources published on Tableau Server can be automatically refreshed on a time schedule.  
-
-<!-- -->
 
 -   **Limitations**:
 
@@ -118,8 +124,6 @@ Tableau is a business intelligence tool that can connect to and access data from
     -   Tableau Server: Requires a Tableau Server account. See the Tableau Server section above. 
 
     -   Tableau Public: Requires a Tableau Public account. Free (self-registration). <https://public.tableau.com/>  
-
-<!-- -->
 
 -   Once a visualization is published on Tableau Server or Tableau Public (and configured for public sharing), then that visualization can be embedded into a Water Boards web page. 
 
