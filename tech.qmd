@@ -2,7 +2,7 @@
 
 ## Need equipment?
 
-See the [Onboarding Chapter](https://cawaterboarddatacenter.github.io/swamp-manual/onboarding.html#telework-equipment) for how to obtain your work computer & hardware. Your supervisor will help you with this process.
+See the [Equipment Section](https://cawaterboarddatacenter.github.io/swamp-manual/onboarding.html#equipment) of the [Onboarding Chapter](https://cawaterboarddatacenter.github.io/swamp-manual/onboarding.html#telework-equipment) for how to obtain your work computer & hardware. Your supervisor will help you with this process.
 
 ## Remote desktop vs. VPN
 
@@ -135,6 +135,68 @@ Reminder to add recommendations section once we hear about what RM recommends (i
 
 ### Zoom
 
--   Getting access to the OIMA Zoom Account (or requesting a meeting)
+While the majority of our internal meetings use Microsoft Teams, meetings with external partners or the public may require the Zoom platform.
+
+Download the Zoom application through the Software Center.
+
+#### Attending a meeting
+
+See the [Zoom Getting Started Resources](https://support.zoom.us/hc/en-us/p/zoom-meetings-guide) (Participants Tab) to learn how to join and actively participate in *someone else's* Zoom Meeting or Webinar.
+
+#### Hosting a meeting
+
+The Water Boards has a Zoom license, which enables our staff to host zoom meetings or webinars. Use Zoom meetings when communicating with select external partners and use Zoom webinar for large, publicly facing events. See [Meeting vs Webinar comparison](https://support.zoom.us/hc/en-us/articles/115005474943-Meetings-and-webinars-comparison).
+
+Work with your supervisor to gain access to the OIMA Zoom Account and/or to get help scheduling a Zoom Meeting or Webinar.
+
+See the [Zoom Getting Started Resources](https://support.zoom.us/hc/en-us/p/zoom-meetings-guide) (Hosts/Co-Hosts Tab) to learn how to schedule and manage *your own* Zoom Meeting or Webinar. Also see [Zoom Hosting Tips](https://waternet.waterboards.ca.gov/dit/help_desk/docs/zoom_hosting_tips_oct2020.pdf).
+
+##### Inviting others to your meeting
+
+Once you have a zoom meeting scheduled, there are a couple of steps we recommend you take before you send out invitations:
+
+1.  Whoever schedules the meeting and has access to the OIMA Zoom account should open the meeting, scroll to the Zoom meeting's "Time" section, click the Outlook Button.
+
+2.  Click on the downloaded .ics file to open the zoom meeting invitation - this will add it to your outlook calendar. 
+
+3.  Click \"Invite Attendees\"
+
+4.  Add the OIMA Zoom email to the required attendees list. Add any Water Boards co-hosts to the Optional Section. Do NOT include your external partners yet!
+
+5.  Save the Meeting Invite.
+
+6.  **Create & complete a separate Outlook Meeting invitation** - you will forward this invitation to your external partners. Note that we do this because the automatically created zoom invite restricts our ability to create nicely formatted text in the meeting invitation.
+
+    -   Create a "New Meeting" in Outlook
+
+    -   Populate the Meeting Invitation will all necessary information (e.g. Title, Required and Optional Attendees, Start/End time, Location (write Zoom), Body of the invite)
+
+    -   Navigate back into Zoom's meeting information, "Invite Link" section, click "Copy Invitation"
+
+    -   In the \"Copy Meeting Invitation\" pop-up, click the \"Copy Meeting Invitation\" button, and then press \"Cancel\"
+
+    -   Navigate back into your Outlook Meeting Invitation, paste the Zoom Meeting Invitation information at the bottom of the invite
+
+    -   We recommend
+
+        -   Deleting the top three lines of the meeting invitation information (i.e. everything above "Join Zoom Meeting")
+
+        -   Selecting the "Join Zoom Meeting" and Invitation Link URL in the Zoom meeting and (1) Increase the size to 14 pt font, and (2) Bold the text.
+
+    -   Review your Outlook Meeting invitation to:
+
+        -   Confirm all of the correct emails are included in the invitation
+
+        -   Confirm the date and time in: zoom and outlook all match
+
+        -   Check for and correct spelling or formatting errors
+
+    -   Press send!
+
+##### Starting your Zoom Meeting (or Webinar)
+
+If you are hosting a Zoom Meeting (or Webinar), you (or whoever in OIMA helped you schedule the meeting/webinar) will need to login to Zoom and start the Zoom Meeting (or Webinar).
+
+We recommend logging into your Zoom Meeting (or Webinar) 5-20 minutes early to get set up, grant permissions to co-hosts, and complete any other preparation you need to ensure your meeting runs smoothly.
 
 ## Community
