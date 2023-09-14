@@ -59,6 +59,46 @@ If you find you need different or additional equipment at your office or home de
 
 Equipment available to take home includes: laptop, laptop bag, standard monitor, keyboard, mouse, headset, adjustable monitor stand, adjustable tilting laptop stand. To request additional equipment or to report issues with any of your equipment, send an email to the [IT Help Desk](mailto:help@waterboards.ca.gov). This will log a ticket in their tracking system and they will respond typically the same day.
 
+## Office-centered and Remote-centered Work
+
+The [Telework Policy](https://waternet.waterboards.ca.gov/das/human_resources/docs/CalEPA-and-BDO-telework-policy.pdf) for CalEPA and the Water Boards allows remote-centered work options for all staff as long as business needs can be met.
+
+All staff are required to fill out a Work Week Agreement and Telework Agreement that specifies where you will typically work on a given day of the week (office or remote) and your typical work hours. All employees (including Student Assistants, Retired Annuitants, Supervisors and Managers) are required to complete both agreements, regardless of their telework or work week status.
+
+Your Work Week Agreement and Telework Agreement need to be created in BizFlow within 2 months of starting work. All Telework Agreements and Work Week Agreements must be reviewed and updated on an annual basis each calendar year in January.
+
+As of January 2023, OIMA still maintains enough office space that staff will be assigned a cubicle or personal workstation in the CalEPA building whether or not they primarily work remotely.
+
+### Work Week Agreements
+
+Below are the approved work schedules.
+
+-   **Regular/Standard or Fixed Work Schedules** - In accordance with Government Code 19851 a regular work schedule is defined as five (5) days a week, eight (8) hours a day and not more than 40 hours a week. If you are on a regular work schedule, please complete the agreement with a work schedule that reflects this.
+
+-   **Alternate Work Schedules (AWS)** have been released, therefore, please review the applicable AWS before recertifying your AWS agreement. Please note, your AWS agreement must match the CalHR AWS otherwise it will be rejected. Also see: [Calendars for Alternate Work Week Schedules](https://www.calhr.ca.gov/Pages/publications-awws-calendars.aspx)
+
+-   **Flex Schedule**, in accordance with CalHR policy, Flex Schedule is defined as "An arrangement that permits employees to flex or adjust their start and end times, so long as the employee has worked his/her scheduled number of hours per day." Therefore, you must have either an Alternate Work Schedule or a Regular Work schedule regardless of whether you have a Flex Schedule. At no time may a Flex Schedule result in overtime hours worked.
+
+-   **Exempt employees** on other than a Regular/Standard or Fixed Work schedule (e.g., AWS, Flex time), please refer to the [CalHR Human Resources Manual](https://hrmanual.calhr.ca.gov/Home/ManualItem/1/1501).
+
+### Telework Agreement
+
+Make sure you review all sections of the Telework Agreement prior to submitting it (e.g., alternate work location, telework day(s), etc.).
+
+If you are NOT teleworking or not eligible to telework, you still need to perform an annual review of your agreement and recertify that you are not teleworking.
+
+### Bizflow Process
+
+1.  Log in to Bizflow:
+2.  Select "Self-Service" then "Work Items" and "Employee Self-Service Work List"
+3.  Select the Agreement by clicking on the word "Review" (blue link)
+4.  Your form will contain information from the previous year. Make any necessary changes.
+5.  Check all the acknowledgment boxes on both forms.
+6.  Select the appropriate approvers. If you are unsure who your approvers are, please check with your Supervisor.
+7.  From the drop-down menu at the top left, choose "Submit Request" then click the green check box button.
+
+For more information, visit the [Telework Program Page](https://waternet.waterboards.ca.gov/das/human_resources/telework.shtml).
+
 ## HR forms
 
 On your starting day, you will receive a package of forms and documents from the HR department including your duty statement, tax forms, direct deposit forms, questionaires (diversity, military), CalPERS forms, leave forms, and medical insurance forms
@@ -141,43 +181,3 @@ You can view and download your paystubs from the [Cal Employee Connect portal](h
 ::: callout-tip
 Leave balances are included on your paystubs and can be tracked in Cal Employee Connect, but they are always a month (or more) behind. You may want to track them in real-time in your own spreadsheet.
 :::
-
-## Office-centered and Remote-centered Work
-
-The [Telework Policy](https://waternet.waterboards.ca.gov/das/human_resources/docs/CalEPA-and-BDO-telework-policy.pdf) for CalEPA and the Water Boards allows remote-centered work options for all staff as long as business needs can be met.
-
-All staff are required to fill out a Work Week Agreement and Telework Agreement that specifies where you will typically work on a given day of the week (office or remote) and your typical work hours. All employees (including Student Assistants, Retired Annuitants, Supervisors and Managers) are required to complete both agreements, regardless of their telework or work week status.
-
-Your Work Week Agreement and Telework Agreement need to be created in BizFlow within 2 months of starting work. All Telework Agreements and Work Week Agreements must be reviewed and updated on an annual basis each calendar year in January.
-
-As of January 2023, OIMA still maintains enough office space that staff will be assigned a cubicle or personal workstation in the CalEPA building whether or not they primarily work remotely.
-
-### Work Week Agreements 
-
-Below are the approved work schedules.
-
--   **Regular/Standard or Fixed Work Schedules** - In accordance with Government Code 19851 a regular work schedule is defined as five (5) days a week, eight (8) hours a day and not more than 40 hours a week. If you are on a regular work schedule, please complete the agreement with a work schedule that reflects this.
-
--   **Alternate Work Schedules (AWS)** have been released, therefore, please review the applicable AWS before recertifying your AWS agreement. Please note, your AWS agreement must match the CalHR AWS otherwise it will be rejected. Also see: [Calendars for Alternate Work Week Schedules](https://www.calhr.ca.gov/Pages/publications-awws-calendars.aspx)
-
--   **Flex Schedule**, in accordance with CalHR policy, Flex Schedule is defined as "An arrangement that permits employees to flex or adjust their start and end times, so long as the employee has worked his/her scheduled number of hours per day." Therefore, you must have either an Alternate Work Schedule or a Regular Work schedule regardless of whether you have a Flex Schedule. At no time may a Flex Schedule result in overtime hours worked.
-
--   **Exempt employees** on other than a Regular/Standard or Fixed Work schedule (e.g., AWS, Flex time), please refer to the [CalHR Human Resources Manual](https://hrmanual.calhr.ca.gov/Home/ManualItem/1/1501).
-
-### Telework Agreement
-
-Make sure you review all sections of the Telework Agreement prior to submitting it (e.g., alternate work location, telework day(s), etc.).
-
-If you are NOT teleworking or not eligible to telework, you still need to perform an annual review of your agreement and recertify that you are not teleworking.
-
-### Bizflow Process
-
-1.  Log in to Bizflow:
-2.  Select "Self-Service" then "Work Items" and "Employee Self-Service Work List"
-3.  Select the Agreement by clicking on the word "Review" (blue link)
-4.  Your form will contain information from the previous year. Make any necessary changes.
-5.  Check all the acknowledgment boxes on both forms.
-6.  Select the appropriate approvers. If you are unsure who your approvers are, please check with your Supervisor.
-7.  From the drop-down menu at the top left, choose "Submit Request" then click the green check box button.
-
-For more information, visit the [Telework Program Page](https://waternet.waterboards.ca.gov/das/human_resources/telework.shtml).
