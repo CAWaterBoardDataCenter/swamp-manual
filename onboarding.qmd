@@ -174,7 +174,7 @@ If you are NOT teleworking or not eligible to telework, you still need to perfor
 
 For more information, visit the [Telework Program Page](https://waternet.waterboards.ca.gov/das/human_resources/telework.shtml).
 
-### Equipment
+## Equipment
 
 All staff are assigned a laptop (typically Dell or HP) that they can use at home and the office. The Water Boards only uses PCs and does not generally support any Mac-based hardware. Office workstations are set up with two wide screen monitors, keyboard, mouse and docking station where you plug in your laptop.
 
