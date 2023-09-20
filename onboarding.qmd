@@ -7,8 +7,9 @@ Here is a non-comprehensive, but hopefully informative guide to onboarding to th
 In your first week, your supervisor will help you:
 
 -   Get access to your Water Boards email
--   Get any equipment or supplies you need (e.g. laptop, office supplies)
+-   Get any [equipment](https://cawaterboarddatacenter.github.io/swamp-manual/onboarding.html#equipment) or supplies you need (e.g. laptop, office supplies)
 -   Get a badge to enter the CalEPA building (as appropriate)
+    -   See [Cardkey Activation Program Procedures](https://waternet.waterboards.ca.gov/das/business_services/docs/cardkey-information.pdf)
 -   Review & sign paperwork
     -   **Fellows & Interns** will need to have the following compiled & signed
         -   Project Description (the one submitted with the original host application)
