@@ -59,11 +59,11 @@ The SWAMP Team is composed of multiple team members at the State Water Board wit
 |                           |                                                       |                                                         |
 |                           |                                                       | Data science, data visualization and programming (R)    |
 +---------------------------+-------------------------------------------------------+---------------------------------------------------------+
+| Toni Marshall             | Environmental Scientist                               | Bioassessment (benthic macroinvertebrates) Data Manager |
++---------------------------+-------------------------------------------------------+---------------------------------------------------------+
 | Tony Gill                 | Environmental Scientist                               | Toxicity Data Manager                                   |
 |                           |                                                       |                                                         |
 |                           |                                                       | SPoT Program Coordinator                                |
-+---------------------------+-------------------------------------------------------+---------------------------------------------------------+
-| Toni Marshall             | Environmental Scientist                               | Bioassessment (benthic macroinvertebrates) Data Manager |
 +---------------------------+-------------------------------------------------------+---------------------------------------------------------+
 
 For more information, visit the [SWAMP IQ Wiki](https://sites.google.com/view/swamp-iq-wiki/swamp-iq-liaisons-and-data-managers)
