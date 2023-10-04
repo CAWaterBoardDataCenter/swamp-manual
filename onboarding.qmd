@@ -49,7 +49,9 @@ We recommend you take some time to:
 -   Familiarize yourself with resources related to the project(s) you will be working on
 -   Meet others in SWAMP/OIMA and others that you'll work with on your project(s)
 -   Take any mandatory training (e.g. IT Security, Field Safety)
--   Review optional training available through the Training Academy and sign up for courses of interest. (See the [Training Section](https://cawaterboarddatacenter.github.io/swamp-manual/training.html) for more guidance)
+-   Review optional training available through the Training Academy and sign up for courses of interest. (See the [Training Section](https://cawaterboarddatacenter.github.io/swamp-manual/training.html) for more guidance). Note that it might take about four weeks before new staff are able to access Cornerstone. It's recommended that new staff:
+    -   Try logging in once or twice per week until successful.
+    -   BEFORE each log in attempt, be sure to "clear cache" before (re)visiting the MyApps & clicking Cornerstone. If the cache is not cleared, the error message auto-populates, even after access is granted.
 -   ASK QUESTIONS! You'll probably have a lot of questions as you settle in - please don't hesitate to ask your supervisor and/or team members as they come up!
 
 ## Equipment
