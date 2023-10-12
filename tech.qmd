@@ -133,6 +133,14 @@ Reminder to add recommendations section once we hear about what RM recommends (i
 
 ### PowerBI
 
+-   Power BI is a business intelligence and data visualization software product developed by Microsoft used to create interactive data visualizations and dashboards. Additionally, it includes a collection of tools that can be used to clean, transform, and aggregate data. There is significant overlap with Tableau, so it is usually not necessary to have/use both Power BI and Tableau at the same time, but you are welcome to try both.
+
+-   **Access:** If Power BI Desktop is not already installed on your workstation, check the Software Center and see if it is available there. If it's not available, then contact the DIT Help Desk at [help\@waterboards.ca.gov](mailto:help@waterboards.ca.gov) to request the software. Once installed, open the software and log in using your Windows account. If you cannot log in, then you may need to contact the DIT Help Desk for an account.
+
+    Power BI Web App, the online version of Power BI that does not require installation of the desktop software, can be accessed here (<https://app.powerbigov.us/>). Similar to the desktop app, you may need to contact the DIT Help Desk for access if you cannot log in using your Windows account. The Web App does not have the full functionality of the desktop software, but generally speaking it is easier to share your work and collaborate with others on the web version of Power BI.
+
+-   **Publishing Power BI visualizations**: TBD - need to find out what is the process for publishing Power BI projects and if it requires DIT permission.
+
 ### Zoom
 
 While the majority of our internal meetings use Microsoft Teams, meetings with external partners or the public may require the Zoom platform.
@@ -159,7 +167,7 @@ Once you have a zoom meeting scheduled, there are a couple of steps we recommend
 
 2.  Click on the downloaded .ics file to open the zoom meeting invitation - this will add it to your outlook calendar. 
 
-3.  Click \"Invite Attendees\"
+3.  Click "Invite Attendees"
 
 4.  Add the OIMA Zoom email to the required attendees list. Add any Water Boards co-hosts to the Optional Section. Do NOT include your external partners yet!
 
@@ -173,7 +181,7 @@ Once you have a zoom meeting scheduled, there are a couple of steps we recommend
 
     -   Navigate back into Zoom's meeting information, "Invite Link" section, click "Copy Invitation"
 
-    -   In the \"Copy Meeting Invitation\" pop-up, click the \"Copy Meeting Invitation\" button, and then press \"Cancel\"
+    -   In the "Copy Meeting Invitation" pop-up, click the "Copy Meeting Invitation" button, and then press "Cancel"
 
     -   Navigate back into your Outlook Meeting Invitation, paste the Zoom Meeting Invitation information at the bottom of the invite
 
