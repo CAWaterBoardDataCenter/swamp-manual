@@ -63,9 +63,13 @@ For more information about ArcGIS Pro and the Water Boards ArcGIS Portal, view t
 
 ### R & RStudio
 
-Both are available in the Software Center
+-   **R** is a popular programming language widely used for statisical analysis and graphics. It is a powerful language in the field of data science.
 
-Getting Access to R Shiny server
+-   **R Studio** is an integrated development environment (IDE) with support for both R and Python.
+
+Both R and RStudio are available for installation in the Software Center. If you do not see either of them on the list of available programs, please contact the DIT Help Desk at [help\@waterboards.ca.gov](mailto:help@waterboards.ca.gov) to request them.
+
+**R Shiny** is a platform for developing web applications using the R programming language. The State Water Board maintains a cloud-based Shiny account (shinyapps.io) that can be used to publish Shiny applications online. For more information, please contact the account administrator, David Altare at [david.altare\@waterboards.ca.gov](mailto:david.altare@waterboards.ca.gov).
 
 ### Git & GitHub
 
