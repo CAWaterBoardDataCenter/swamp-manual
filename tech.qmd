@@ -63,7 +63,7 @@ For more information about ArcGIS Pro and the Water Boards ArcGIS Portal, view t
 
 ### R & RStudio
 
--   **R** is a popular programming language widely used for statisical analysis and graphics. It is a powerful language in the field of data science.
+-   **R** is a popular programming language widely used for statistical analysis and graphics. It is a powerful language in the field of data science.
 
 -   **R Studio** is an integrated development environment (IDE) with support for both R and Python.
 
@@ -104,9 +104,9 @@ Tableau is a business intelligence tool that can connect to and access data from
 
 **Tableau Server**
 
--   Tableau Server is an online platform for creating, publishing, and sharing Tableau data sources, visualizations, and dashboards. Tableau Server is a web-based platform, so it does not require an installation of Tableau Desktop or Tableau Desktop Public Edition, but its functionality is enhanced when the two are used together.  
+-   Tableau Server is an online platform for creating, publishing, and sharing Tableau data sources, visualizations, and dashboards. Tableau Server is a web-based platform, so it does not require an installation of Tableau Desktop or Tableau Desktop Public Edition, but its functionality is enhanced when the two are used together. See our [SharePoint page](https://cawaterboards.sharepoint.com/sites/OIMA/DIA/SitePages/Tableau-Server.aspx) for more information about Tableau Server.
 
--   **Access**: A Tableau Server account is required to create and publish resources on the platform. An account is also required to view non-public data visualizations hosted on the platform. Contact the DIT Help Desk at [help\@waterboards.ca.gov](mailto:help@waterboards.ca.gov) to request access or contact Rafael Maestu ([Rafael.Maestu\@Waterboards.ca.gov](mailto:Rafael.Maestu@Waterboards.ca.gov)) in OIMA for further guidance. Once your account is activated, log in using your workstation username/email and password.  
+-   **Access**: Users with a Water Boards account (i.e., have an email address that ends with "@waterboards.ca.gov") should be able to access the internal Tableau Server website (<https://tableauint.waterboards.ca.gov/#/site>). If you cannot log in, or if you need help publishing your dataset or visualization, email [waterdata\@waterboards.ca.gov](mailto:waterdata@waterboards.ca.gov).
 
 -   **Advantages**: 
 
@@ -125,7 +125,7 @@ Tableau is a business intelligence tool that can connect to and access data from
 
 -   Visualizations created in Tableau Desktop or Tableau Desktop Public Edition can be published on Tableau Server or Tableau Public. Visualizations created in Tableau Server are automatically published on Tableau Server (sharing permissions can be changed in Tableau Server). 
 
-    -   Tableau Server: Requires a Tableau Server account. See the Tableau Server section above. 
+    -   Tableau Server: Requires Tableau Server access. See the Tableau Server section above. 
 
     -   Tableau Public: Requires a Tableau Public account. Free (self-registration). <https://public.tableau.com/>  
 
