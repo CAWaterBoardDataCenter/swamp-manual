@@ -8,7 +8,7 @@ website:
   repo-url: https://github.com/CAWaterBoardDataCenter/swamp-manual
   repo-actions: [edit, source, issue]
   
- page-footer:
+  page-footer:
     right: "This manual is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; CC-By CA Water Board, 2023"
 
@@ -25,37 +25,37 @@ website:
         href: https://cawaterboarddatacenter.github.io/swamp-manual/
         text: "SWAMP Manual"
               
-    style: "docked"
-      search: true
-      collapse-level: 1
-      contents:
-        - href: index.qmd
-          text: Welcome!
-        - section: about/index.qmd
-          text: About SWAMP
-          contents:
-          - about/lifecycle.qmd
-          - about/contacts.qmd
-        - section: culture/index.qmd
-          text: Culture
-          contents:
-            - culture/values.qmd
-            - culture/codeofconduct.qmd
-            - culture/expectations.qmd
-            - culture/development.qmd
-        - section: admin/index.qmd
-          text: Administrative Goodies
-          contents:
-            - admin/onboarding.qmd
-            - admin/tech.qmd
-            - admin/training.qmd
-            - admin/travel.qmd
-            - admin/procurement.qmd
-            - admin/offboarding.qmd
-        - href: contribute.qmd
-          text: Contibuting
-        - href: inspiration.qmd
-          text: Inspiration
+      style: "docked"
+        search: true
+        collapse-level: 1
+        contents:
+          - href: index.qmd
+            text: Welcome!
+          - section: about/index.qmd
+            text: About SWAMP
+            contents:
+              - about/lifecycle.qmd
+              - about/contacts.qmd
+          - section: culture/index.qmd
+            text: Culture
+            contents:
+              - culture/values.qmd
+              - culture/codeofconduct.qmd
+              - culture/expectations.qmd
+              - culture/development.qmd
+          - section: admin/index.qmd
+            text: Administrative Goodies
+            contents:
+              - admin/onboarding.qmd
+              - admin/tech.qmd
+              - admin/training.qmd
+              - admin/travel.qmd
+              - admin/procurement.qmd
+              - admin/offboarding.qmd
+          - href: contribute.qmd
+            text: Contibuting
+          - href: inspiration.qmd
+            text: Inspiration
     
 format:
   html:
