@@ -1,0 +1,3 @@
+# Administrative goodies {.unnumbered}
+
+This section contains resources to make administrative tasks a bit more straightforward.

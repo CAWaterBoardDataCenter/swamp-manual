@@ -28,7 +28,7 @@ SWAMP IQ assists ambient monitoring projects and programs throughout the state b
 ## SWAMP Resources
 
 | Purpose                                                                                                 | Title & Weblink                                                                                                                                                               |
-|----------------------------------------|----------------------------|
+|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Overview of SWAMP                                                                                       | [SWAMP Website](https://www.waterboards.ca.gov/water_issues/programs/swamp/)                                                                                                  |
 | Overview of SWAMP IQ                                                                                    | [SWAMP IQ Website](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq)                                                                                       |
 | Current SWAMP program priorities and strategies                                                         | [SWAMP Strategic Action Plan, 2020-2023](https://docs.google.com/document/d/1g08L8GUHdEMLCxNS1vppNEXobf4bYOmK/edit?usp=sharing&ouid=118425894617420506258&rtpof=true&sd=true) |
