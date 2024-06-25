@@ -45,8 +45,6 @@ book:
     # foreground: "light"
     border: true
 
-bibliography: references.bib
-
 format:
   html:
     theme: cosmo
