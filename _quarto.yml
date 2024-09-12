@@ -23,7 +23,7 @@ website:
         href: https://www.waterboards.ca.gov/water_issues/programs/swamp/
         text: "SWAMP"
       - icon: github
-        href: https://cawaterboarddatacenter.github.io/swamp-manual/
+        href: https://github.com/CAWaterBoardDataCenter/swamp-manual
         text: "SWAMP Manual"
               
     style: "docked"
