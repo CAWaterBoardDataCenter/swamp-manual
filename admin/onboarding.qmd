@@ -70,7 +70,7 @@ All staff are required to fill out a Work Week Agreement and Telework Agreement 
 
 Your Work Week Agreement and Telework Agreement need to be created in BizFlow within 2 months of starting work. All Telework Agreements and Work Week Agreements must be reviewed and updated on an annual basis each calendar year in January.
 
-As of January 2023, OIMA still maintains enough office space that staff will be assigned a cubicle or personal workstation in the CalEPA building whether or not they primarily work remotely.
+As of December 2024, OIMA still maintains enough office space that staff will be assigned a cubicle or personal workstation in the CalEPA building whether or not they primarily work remotely.
 
 ### Work Week Agreements
 
@@ -184,3 +184,27 @@ You can view and download your paystubs from the [Cal Employee Connect portal](h
 ::: callout-tip
 Leave balances are included on your paystubs and can be tracked in Cal Employee Connect, but they are always a month (or more) behind. You may want to track them in real-time in your own spreadsheet.
 :::
+
+## Working in person
+
+### Commuting and Parking
+
+You can choose from a number of different options for getting to and from the office on days you are working in person. The Intranet web page on [employee transportation services](https://intranet.calepa.ca.gov/headquarters/services/transportation/#Parking) is a good place to find resources on parking, transit, and bicycle commuting.
+
+Car commuters can park at hourly meters along the streets in Downtown Sacramento or use a parking garage - City Hall Garage is the closest to the office. See the Intranet web page on [parking](https://intranet.calepa.ca.gov/headquarters/services/transportation/parking-at-calepa-headquarters/) for more information, including discounted rates available for staff and carpoolers.
+
+Walking and biking are good options for local folks. Many streets have bike lanes, and the CalEPA office has a secure bike room. To use the bike room, contact transit\@calepa.ca.gov to have them add access to your building badge.
+
+[Sacramento Regional Transit](https://www.sacrt.com/) provides information on public transport, including the light rail and bus schedules. Staff may purchase transit passes at discounted rates through Connect Card, and may receive a subsidy on public transit passes up to \$315 per month. See the [public transit](https://intranet.calepa.ca.gov/headquarters/services/transportation/transit/) web page on the Intranet for more information.
+
+If you commute by means other than a vehicle at least 60% of the time, you are eligible to sign up for the [Incidental Use Parking Program (IUPP)](https://intranet.calepa.ca.gov/headquarters/services/transportation/incidental/), which allows you to sign out passes for the City Hall parking garage 3 times per month.
+
+### Office Amenities and Downtown Activities
+
+See [here](https://intranet.calepa.ca.gov/headquarters/fitness/) for a list of amenities in the CalEPA office building. These include a child development center, a fitness center with lockers and showers, and a café (has not reopened as of November 2024).
+
+Downtown Sacramento has many events, restaurants, and shops close by the office. Across the street from the building you can find César Chávez Park, which hosts the Bodega Days market on Thursdays from 10-1 and free Concerts in the Park on Fridays 5-9pm in the summer months as well as the restaurant La Cosecha, which includes a small coffee shop.
+
+Coffee shops near the office include Café Immortal, Cora Coffee, Temple, and Starbucks. Restaurants include Octopus Peru, Nash & Proper, Mayahuel, Brasserie du Monde, and Ella.
+
+Sacramento is home to the Kings (major league basketball team), River Cats (minor league baseball team), and Republic FC (soccer team). The stadiums they play in host many other events throughout the year, along with CalExpo and the SAFE Credit Union Convention Center. The Downtown Commons is a mixed-use outdoor shopping and entertainment center with restaurants, shops, and a movie theater.
