@@ -1,9 +1,0 @@
-# Code of Conduct
-
-Let's write one & discuss!
-
-Check out some Codes of Conduct from other places for inspiration:
-
--   [Openscapes](https://openscapes.org/code-of-conduct.html)
--   [Code for America](https://codeforamerica.org/code-of-conduct/)
--   [Women in Data Science](https://www.widsconference.org/codeofconduct.html#:~:text=All%20participants%20are%20expected%20to,or%20harassing%20behavior%20and%20speech.)

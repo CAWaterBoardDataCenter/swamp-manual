@@ -40,8 +40,6 @@ website:
       - section: culture/index.qmd
         text: Culture
         contents:
-          - culture/values.qmd
-          - culture/codeofconduct.qmd
           - culture/expectations.qmd
           - culture/development.qmd
       - section: admin/index.qmd
