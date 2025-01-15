@@ -11,7 +11,7 @@ As a Water Boards employee, you have access to training and training-related ser
 
 ***Water Boards Training Office***
 
--   Gives ​​​​​​access to external events (training, conferences, PE/PG license preparation classes and higher education requests - essentailly, anything *not* found in the Cornerstone system)
+-   Gives ​​​​​​access to external events (training, conferences, PE/PG license preparation classes and higher education requests - essentially, anything *not* found in the Cornerstone system)
 -   Processes for requesting to attend an external training event or conference differ - see the [Access External Training and Conferences SharePoint](https://cawaterboards.sharepoint.com/Training/SitePages/Access-External-Training-and-Conferences.aspx) for guidance and forms
 -   **Never** pay for a class yourself, without explicit pre-approval from the Training Office (or you won't be eligible for reimbursement)
 
@@ -66,7 +66,7 @@ External Training refers to external events (training, conferences, PE/PG licens
 -   Training Liaison submits them to Training Services for processing
 -   Once your request is fully approved, Training Services will either process registration on your behalf and inform you of your approval or will send you authorization to self-register and seek reimbursement.
 
-See the [Professional Development Section](https://cawaterboarddatacenter.github.io/swamp-manual/development.html) for a list of conferences that may be of interest.
+See the [Professional Development Section](https://cawaterboards.sharepoint.com/Training/Documents/conf_n_symp_list.pdf) for a list of conferences that may be of interest.
 
 ## Resources
 
@@ -78,6 +78,10 @@ See the [Professional Development Section](https://cawaterboarddatacenter.github
 ## Recommended On-demand Training Resources:
 
 -   Cornerstone on-demand resources
+    -   Suggested Learning Search Topics:
+        -   Data Science
+        -   Tribal History
+        -   Advancing Equity
 -   [College of Water Informatics (CoWI) Data Tool Kit](https://www.waterboards.ca.gov/resources/oima/cowi/data_training.html) 
 -   [Tribal Historical and Legal Foundations](https://waternet.waterboards.ca.gov/training/videos/tribal_training1.mp4)
 -   [Tribal Cultural Resources](https://waternet.waterboards.ca.gov/training/videos/tribal_training2.mp4)
