@@ -1,6 +1,6 @@
 # Expectations
 
-In addition to abiding by the SWAMP [Code of Conduct](https://cawaterboarddatacenter.github.io/swamp-manual/codeofconduct.html), all SWAMP staff are expected to abide by the following:
+In addition to abiding by the SWAMP [Code of Conduct](https://cawaterboarddatacenter.github.io/swamp-manual/culture/#code-of-conduct), all SWAMP staff are expected to abide by the following:
 
 ## Work schedule
 
