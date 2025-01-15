@@ -14,7 +14,7 @@ Exempt, excluded, and represented state employees may be eligible for the reimbu
 
 -   [CalHR Webpage - Travel Reimbursements](https://www.calhr.ca.gov/employees/pages/travel-reimbursements.aspx) 
 
--   [Water Board's Travel Page (Intanet)](https://waternet.waterboards.ca.gov/das/accounting/travel.shtml) - can only access on VPN 
+-   [Water Board's Travel Page](https://waternet.waterboards.ca.gov/das/accounting/travel.shtml)
 
 -   [Travel Forms (Intranet)](https://waternet.waterboards.ca.gov/das/forms/index.php?form_category=Travel&=Submit+Query) - can only access on VPN 
 
@@ -25,13 +25,13 @@ For new users to be added to CalTravelStore to begin making reservations, contac
 Email: [CalATERS-Travel\@waterboards.ca.gov](mailto:CalATERS-Travel@waterboards.ca.gov)\
 Phone: (916) 341-5036
 
-The [CalATERS Travel Help Desk](https://www.sco.ca.gov/calaters_global.html) can provide assistance or answer questions about making travel reservations, recommendations while traveling, and asking for reimbursement when you return. The Travel Help Desk for the Waterboards is comprised of the Travel Unit staff in the Accounting Office as part of the Division of Administrative Services. 
+The [CalATERS Travel Help Desk](https://www.sco.ca.gov/calaters_global.html) can provide assistance or answer questions about making travel reservations, recommendations while traveling, and asking for reimbursement when you return. The Travel Help Desk for the Water Boards is comprised of the Travel Unit staff in the Accounting Office as part of the Division of Administrative Services. 
 
 Visit [CalTravelStore](http://www.caltravelstore.com/), a self-serve site for all government business travel needs. Travelers are able to make reservations for lodging, airfare, rental car & rail fare through Concur which is personalized to meet the needs of State government travelers.
 
 ### **General Travel Process**
 
-1.  Get approval to travel; if traveling for training or a conference - see the [Training section](https://cawaterboarddatacenter.github.io/swamp-manual/training.html) for forms that must be completed and approved before booking travel arrangements
+1.  Get approval to travel; if traveling for training or a conference - see the [Training section](https://cawaterboarddatacenter.github.io/swamp-manual/admin/training.html) for forms that must be completed and approved before booking travel arrangements
 
 2.  Book your travel (flights, hotels, rental cars) using the [CalTravelStore / Concur](http://www.caltravelstore.com/) system.
 
