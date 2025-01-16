@@ -195,7 +195,11 @@ Car commuters can park at hourly meters along the streets in Downtown Sacramento
 
 Walking and biking are good options for local folks. Many streets have bike lanes, and the CalEPA office has a secure bike room. To use the bike room, contact transit\@calepa.ca.gov to have them add access to your building badge.
 
-[Sacramento Regional Transit](https://www.sacrt.com/) provides information on public transport, including the light rail and bus schedules. Staff may purchase transit passes at discounted rates through Connect Card, and may receive a subsidy on public transit passes up to \$315 per month. See the [public transit](https://intranet.calepa.ca.gov/headquarters/services/transportation/transit/) web page on the Intranet for more information.
+[Sacramento Regional Transit](https://www.sacrt.com/) (SacRT) provides information on public transport, including the light rail and bus schedules. Staff may purchase transit passes at discounted rates through a Connect Card and may receive a subsidy on public transit passes up to \$325 per month. See the [public transit](https://intranet.calepa.ca.gov/headquarters/services/transportation/transit/) web page on the Intranet for more information.
+
+-   The amount of subsidy you are eligible for depends on what bargaining unit you belong to. See this [CalHR web page](https://www.calhr.ca.gov/employees/Pages/mass-transit-and-vanpool-commute-program-frequently-asked-questions.aspx) for the most up-to-date numbers based on the current collective bargaining contract language.
+
+-   To claim your public transit subsidy, visit the CalEPA Employee Transit Office ([office hours](https://intranet.calepa.ca.gov/headquarters/services/transportation/transit/)) located on the first floor in the Visitor Services Center. The staff there will issue you a Connect Card that you will need to register on the SacRT [Connect Card](https://www.connecttransitcard.com/) website. Use the SacRT website to manage your card and load new funds, as needed. **Note:** You cannot use a personal (existing) Connect Card to access the subsidized funds. You will need to obtain a new card issued by the CalEPA Employee Transit Office.
 
 If you commute by means other than a vehicle at least 60% of the time, you are eligible to sign up for the [Incidental Use Parking Program (IUPP)](https://intranet.calepa.ca.gov/headquarters/services/transportation/incidental/), which allows you to sign out passes for the City Hall parking garage 3 times per month.
 
