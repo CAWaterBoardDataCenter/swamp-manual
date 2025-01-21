@@ -78,11 +78,18 @@ See the [Professional Development Section](https://cawaterboards.sharepoint.com/
 ## Recommended On-demand Training Resources:
 
 -   Cornerstone on-demand resources
+<<<<<<< Updated upstream
     -   Suggested Learning Search Topics:
         -   Data Science
         -   Tribal History
         -   Advancing Equity
 -   [College of Water Informatics (CoWI) Data Tool Kit](https://www.waterboards.ca.gov/resources/oima/cowi/data_training.html) 
+=======
+-   [College of Water Informatics (CoWI) Data Tool Kit](https://www.waterboards.ca.gov/resources/oima/cowi/data_training.html)
+    -   This site includes a list of [free resources](https://www.waterboards.ca.gov/resources/oima/cowi/data_training.html#data_science) on topics that are particularly relevant for OIMA folks like data science, data analysis and visualizations, programming languages, and ESRI ArcGIS
+-   The EPA Watershed Academy is a nice hub where you can find learning modules, webinars, and other watershed resources
+    -   For example, "[Clean Water Act through an Environmental Justice Lens](https://www.epa.gov/watershedacademy/clean-water-act-through-environmental-justice-lens-module)"
+>>>>>>> Stashed changes
 -   [Tribal Historical and Legal Foundations](https://waternet.waterboards.ca.gov/training/videos/tribal_training1.mp4)
 -   [Tribal Cultural Resources](https://waternet.waterboards.ca.gov/training/videos/tribal_training2.mp4)
 -   [Tribal Cultural Awareness and California Native American History](https://www.youtube.com/watch?v=PttFI1WvTTY)
