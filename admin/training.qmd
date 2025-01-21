@@ -78,6 +78,10 @@ See the [Professional Development Section](https://cawaterboarddatacenter.github
 ## Recommended On-demand Training Resources:
 
 -   Cornerstone on-demand resources
+    -   Suggested Learning Search Topics:
+        -   Data Science
+        -   Tribal History
+        -   Advancing Equity
 -   [College of Water Informatics (CoWI) Data Tool Kit](https://www.waterboards.ca.gov/resources/oima/cowi/data_training.html)
     -   This site includes a list of [free resources](https://www.waterboards.ca.gov/resources/oima/cowi/data_training.html#data_science) on topics that are particularly relevant for OIMA folks like data science, data analysis and visualizations, programming languages, and ESRI ArcGIS
 -   The EPA Watershed Academy is a nice hub where you can find learning modules, webinars, and other watershed resources
