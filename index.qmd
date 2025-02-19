@@ -8,4 +8,4 @@ Content in this manual includes curated information that members of the SWAMP Te
 
 This [Quarto book](https://quarto.org/docs/books) is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this book, please follow the guidance provided in the [Contributing](https://cawaterboarddatacenter.github.io/swamp-manual/contribute.html) chapter.
 
-![SWAMP logo](images/swamp-logo.jpg){width="200"} ![SWAMP iq logo](images/swamp-iq-logo.jpg){width="312"}
+![SWAMP logo](images/swamp-logo.png){width="200"} ![SWAMP iq logo](images/swamp-iq-logo.jpg){width="312"}

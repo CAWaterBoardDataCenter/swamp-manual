@@ -16,6 +16,7 @@ website:
   sidebar:
     logo: "images/swamp-iq-logos.png"
     favicon: images/swamp-iq-logos.png
+    logo: "images/swamp-logo.png"
     pinned: true
     align: center
     tools: 
