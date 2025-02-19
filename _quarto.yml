@@ -14,9 +14,8 @@ website:
     left: "&copy; CC-By CA Water Board, 2023"
 
   sidebar:
-    logo: "images/swamp-iq-logos.png"
-    favicon: images/swamp-iq-logos.png
     logo: "images/swamp-logo.png"
+    favicon: images/swamp-iq-logos.png
     pinned: true
     align: center
     tools: 
