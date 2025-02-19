@@ -7,15 +7,15 @@ website:
   site-url: "https://cawaterboarddatacenter.github.io/swamp-manual/" 
   repo-url: https://github.com/CAWaterBoardDataCenter/swamp-manual
   repo-actions: [edit, source, issue]
-  favicon: images/swamp-iq-logos.png  
+  favicon: images/swamp-icons.png  
   
   page-footer:
     right: "This manual is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; CC-By CA Water Board, 2023"
 
   sidebar:
-    logo: "images/swamp-logo.png"
-    favicon: images/swamp-iq-logos.png
+    logo: "images/swamp-icons.png"
+    favicon: images/swamp-icons.png
     pinned: true
     align: center
     tools: 
