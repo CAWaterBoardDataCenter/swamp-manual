@@ -17,7 +17,7 @@ The SWAMP Team is composed of multiple team members at the State Water Board wit
 |               |                              |                                                                                                                                       |
 |               |                              | [Openscapes](https://cawaterboarddatacenter.github.io/swrcb-openscapes/)                                                              |
 +---------------+------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
-| Hannah Merges | CA Sea Grant Fellow          |                                                                                                                                       |
+| Hannah Merges | California Sea Grant Fellow  |                                                                                                                                       |
 +---------------+------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
 | Michelle Tang | Research Data Specialist III | [SWAMP Data Dashboard](https://gispublic.waterboards.ca.gov/swamp-data/)                                                              |
 |               |                              |                                                                                                                                       |
