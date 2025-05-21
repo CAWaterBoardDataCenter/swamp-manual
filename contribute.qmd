@@ -8,7 +8,7 @@ Currently, only members of the SWAMP Team are able to actively contribute to thi
 
 We develop the content for this SWAMP Manual using RStudio, build the book using [Quarto](https://quarto.org/) (via RStudio), and collaborate and publish using GitHub (also via RStudio).
 
-If you are *NOT* a member of the SWAMP Team, but have suggestions for additions or revisions you think should be incorporated into this book, please \[**TBD\].**
+If you are *NOT* a member of the SWAMP Team, but have suggestions for additions or revisions you think should be incorporated into this book, please email your suggestions to [swamp\@waterboards.ca.gov](mailto:swamp@waterboards.ca.gov).
 
 ### Setup
 
