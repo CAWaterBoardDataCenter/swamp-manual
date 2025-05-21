@@ -2,7 +2,7 @@
 
 ## Need equipment?
 
-See the [Equipment Section](https://cawaterboarddatacenter.github.io/swamp-manual/onboarding.html#equipment) of the [Onboarding Chapter](https://cawaterboarddatacenter.github.io/swamp-manual/onboarding.html#telework-equipment) for how to obtain your work computer & hardware. Your supervisor will help you with this process.
+See the [Equipment Section](https://cawaterboarddatacenter.github.io/swamp-manual/admin/onboarding.html#equipment) of the [Onboarding Chapter](https://cawaterboarddatacenter.github.io/swamp-manual/admin/onboarding.html) for how to obtain your work computer & hardware. Your supervisor will help you with this process.
 
 ## Remote desktop vs. VPN
 
