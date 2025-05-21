@@ -8,11 +8,11 @@ Staff can complete an [IDP Form](https://www.documents.dgs.ca.gov/dgs/fmc/pdf/st
 
 ## Training
 
-Training Request Forms are required for all trainings, even Water Boards Academy trainings and required workplace trainings because they provide documentation needed in case of audits. See the [Training Section](https://cawaterboarddatacenter.github.io/swamp-manual/training.html) of this Manual for more details.
+Training Request Forms are required for all trainings, even Water Boards Academy trainings and required workplace trainings because they provide documentation needed in case of audits. See the [Training Section](https://cawaterboarddatacenter.github.io/swamp-manual/admin/training.html#training) of this Manual for more details.
 
 ## Conferences
 
-Attending conferences can help staff practice and develop their public speaking skills as well as provide opportunities to network and find and develop new partnerships (or nurture existing ones!). Being able to attend conferences requires lots of planning and paperwork, so it's a great idea to think about which conference(s) you might request to attend during your IDP process, and be ready to submit all of the required paperwork well in advance. See the [Training Section](https://cawaterboarddatacenter.github.io/swamp-manual/training.html) of this Manual for more details.
+Attending conferences can help staff practice and develop their public speaking skills as well as provide opportunities to network and find and develop new partnerships (or nurture existing ones!). Being able to attend conferences requires lots of planning and paperwork, so it's a great idea to think about which conference(s) you might request to attend during your IDP process, and be ready to submit all of the required paperwork well in advance. See the [Training Section](https://cawaterboarddatacenter.github.io/swamp-manual/admin/training.html#training) of this Manual for more details.
 
 See the table below for a list of conferences that may be of interest and usually have intersection with SWAMP and broader OIMA priorities.
 
@@ -49,7 +49,7 @@ See the table below for a list of conferences that may be of interest and usuall
 +---------------------------------------------------------------------------------------------------------------------------+------------+--------------+
 | [North American Lake Management Society](https://www.nalms.org/nalms-symposia/) (NALMS)                                   | Nov        | Annual       |
 +---------------------------------------------------------------------------------------------------------------------------+------------+--------------+
-| [Society of Environmental Toxicology and Chemistry](https://www.setac.org/page/MeetingsandEvents) (SETAC)                 | Nov        | Annual       |
+| [Society of Environmental Toxicology and Chemistry](https://www.setac.org/) (SETAC)                 | Nov        | Annual       |
 |                                                                                                                           |            |              |
 | Also check out [Northern California Regional Chapter](https://www.norcalsetac.com/events.html) (NorCal SETAC)             |            |              |
 +---------------------------------------------------------------------------------------------------------------------------+------------+--------------+
