@@ -2,11 +2,11 @@
 
 Please work with OIMA's procurement leads, Carly Nilson and Chad Fearing, to coordinate your supplies purchases. The process changes frequently. It can take several months (up to 12 months or more) from time of placing order to receiving goods, so plan in advance if possible.
 
-**Note to access all links below you will need to be connected to VPN to access the WaterNet.**
+*Note to access all links below you will need to be connected to VPN to access the WaterNet.*
 
 **Current process includes:**
 
-1.  Review the [Water Boards Ordering Schedule](https://waternet.waterboards.ca.gov/das/procurement/docs/fy25-26-procurement-assignments-ordering-schedule-ref-guide.pdf) to determine your procurement dealine.
+1.  Review the [Water Boards Ordering Schedule](https://waternet.waterboards.ca.gov/das/procurement/docs/fy25-26-procurement-assignments-ordering-schedule-ref-guide.pdf) to determine your procurement deadline.
 2.  Compilation of supply/procurement list in excel
 3.  Completion of form SWRCB 121
     -   Fill out separate form based on field or lab supplies and where they will be mailed (for example, for RB1, I will fill out 2 SWRCB 121 forms).
