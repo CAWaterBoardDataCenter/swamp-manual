@@ -118,6 +118,7 @@ Each classification within the SWAMP unit is associated with a bargaining unit. 
 | Environmental Scientist (incl. Senior Specialist) | 10              | R10  |
 | AGPA                                              | 1               | R01  |
 | Senior Environmental Scientist - Supervisory      | 10              | S10  |
+| Research Data Specialist I/II/III                 | 1               | R01  |
 
 ## Leave types
 
