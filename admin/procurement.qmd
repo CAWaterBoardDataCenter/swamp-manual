@@ -1,14 +1,19 @@
 # Procurement
 
-Please work with OIMA's procurement lead, Carly Nilson, to coordinate your supplies purchases. The process changes frequently. It can take several months (up to 12 months or more) from time of placing order to receiving goods, so plan in advance if possible.
+Please work with OIMA's procurement leads, Carly Nilson and Chad Fearing, to coordinate your supplies purchases. The process changes frequently. It can take several months (up to 12 months or more) from time of placing order to receiving goods, so plan in advance if possible.
+
+**Note to access all links below you will need to be connected to VPN to access the WaterNet.**
 
 **Current process includes:**
 
-1.  Compilation of supply/procurement list in excel
-2.  Completion of form SWRCB 121
+1.  Review the [Water Boards Ordering Schedule](https://waternet.waterboards.ca.gov/das/procurement/docs/fy25-26-procurement-assignments-ordering-schedule-ref-guide.pdf) to determine your procurement dealine.
+2.  Compilation of supply/procurement list in excel
+3.  Completion of form SWRCB 121
     -   Fill out separate form based on field or lab supplies and where they will be mailed (for example, for RB1, I will fill out 2 SWRCB 121 forms).
-3.  Route SWRCB 121 form through Adobe sign. Must be signed by submitter, supervisor, budget analyst, and budget manager.
-4.  Submit the form and original excel list to the general procurement inbox for processing.
-5.  If approved, you track through the purchase log: [FY 23-24_FI\$Cal_PPSU_Coordination.xlsx](https://cawaterboards.sharepoint.com/:x:/g/DAS/Procurement/ERsauyllrtdJoHDhIFrDZ-QBfAnGsYWrVcVSniPnwSyV7w?e=llujVl "https://cawaterboards.sharepoint.com/:x:/g/das/procurement/ersauyllrtdjohdhifrdz-qbfangsywrvcvsnipnwsyv7w?e=llujvl").
-6.  Submitter is responsible for ensuring items are received and work directly with the vendor on any issues. Procurement's only role is to execute bid with vendor.
-7.  Confirm receipt of items with submittal of SWRCB 128 form to DAS Payments
+    -   You can review a guide to [completing SWRCB 121 here](https://waternet.waterboards.ca.gov/das/procurement/docs/swrcb121-reference-guide.pdf)
+4.  Route SWRCB 121 form through Adobe sign. Must be signed by submitter, supervisor, budget analyst, and budget manager.
+    -   The guide for routing a document through Adobe sign [can be found here.](https://waternet.waterboards.ca.gov/das/procurement/docs/adobe-sign-narrative-instructions-swrcb-121.pdf)
+5.  Submit the form and original excel list to the general procurement inbox for processing.
+6.  If approved, you track through the purchase log: [FY 25-26_FI\$Cal_PPSU_Coordination.xlsx](https://cawaterboards.sharepoint.com/:x:/g/DAS/Procurement/EYwhleYmeApGriXGzhwlu6UB8u0iQTvilCCXqG-lOTBa7g)
+7.  Submitter is responsible for ensuring items are received and work directly with the vendor on any issues. Procurement's only role is to execute bid with vendor.
+8.  Confirm receipt of items with submittal of SWRCB 128 form to DAS Payments
