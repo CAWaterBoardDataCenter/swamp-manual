@@ -4,21 +4,17 @@
 
 See the [Equipment Section](https://cawaterboarddatacenter.github.io/swamp-manual/admin/onboarding.html#equipment) of the [Onboarding Chapter](https://cawaterboarddatacenter.github.io/swamp-manual/admin/onboarding.html) for how to obtain your work computer & hardware. Your supervisor will help you with this process.
 
-## Remote desktop vs. VPN
+## VPN
 
-Remote desktop and Virtual Private Network (VPN) enable staff to securely connect to the Water Board's network and access various online resources including the Intranet (waternet) and shared drives.
+The Virtual Private Network (VPN) enable staff to securely connect to the Water Board's network and access various online resources including the Intranet (waternet) and shared drives. VPN is used on Water Boards' approved devices to access the network when working remotely. See the [VPN User Instructions](http://waternet.waterboards.ca.gov/dit/help_desk/docs/vpn_user_instructions.pdf).
 
--   VPN is used on Water Boards' approved devices to access the network when working remotely. See the [VPN User Instructions](http://waternet.waterboards.ca.gov/dit/help_desk/docs/vpn_user_instructions.pdf).
-
--   Remote desktop is used when the individual is working remotely but does not have access to a Water Boards device (i.e. when using a personal computer).
-
-Regardless of which option you use for remote access, all staff are required to use Multi-Factor Authentication (MFA) when accessing the Water Boards' network. See the [Remote Access Guidence Page](https://waternet.waterboards.ca.gov/dit/help_desk/#remote) for instructions to set up your MFA method.
+All staff are required to use Multi-Factor Authentication (MFA) when accessing the Water Boards' network. See the [Remote Access Guidence Page](https://waternet.waterboards.ca.gov/dit/help_desk/#remote) for instructions to set up your MFA method.
 
 Your supervisor and DIT can help you get set up.
 
 ## Installing Printer(s)
 
-[Instructions on how to install printer(s)](https://cawaterboards.sharepoint.com/Training/SitePages/Home.aspx%22%20�HYPERLINK%20%22http://printermap/PrinterMap) near your cubicle in the office.
+[Instructions on how to install printer(s)](http://printermap/PrinterMap/) near your cubicle in the office.
 
 ## Accessing & Downloading Software
 

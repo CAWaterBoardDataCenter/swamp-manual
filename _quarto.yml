@@ -52,7 +52,7 @@ website:
           - admin/procurement.qmd
           - admin/offboarding.qmd
       - href: contribute.qmd
-        text: Contibuting
+        text: Contributing
       - href: inspiration.qmd
         text: Inspiration
     

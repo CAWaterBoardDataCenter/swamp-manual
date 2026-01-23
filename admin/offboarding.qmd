@@ -2,18 +2,24 @@
 
 You're moving on and up -- here's what you need to know & do before we wish you a fond farewell.
 
+If you’re retiring, congratulations! Please work with your HR retirement specialist on this exciting chapter of your life. The following instructions apply to employees who are separating but not retiring.
+
 ## HR forms
 
-## CalPERS
+Once you have informed your supervisor that you are moving on and up, they will work with you to complete the Employee Separation Clearance Checklist. It must be signed using Adobe Sign by exiting employee, their supervisor, Accounting, Facilities, and Human Resources. Your supervisor is responsible for this process and will initiate the Employee Separation Clearance Checklist Adobe Sign process following [these procedures](https://waternet.waterboards.ca.gov/das/forms/show_form.php?rec_id=307) (link requires Waternet access), at least 5 days before your last day.
 
-## Bargaining Units
+You will fill out Section A. Employee Information and Section B. Type of Separation of the checklist. If you are unavailable to fill in these sections, your supervisor can do so for you. The rest of the checklist will be filled out by your supervisor and other Division staff.
 
 ## Timesheets & Pay
 
-## Equipment
+On or before your last day, submit your final timesheet
 
-Returning tech (laptops, etc.)
+## Equipment and Files
 
-Returning supplies
+### Equipment
 
-Returning ID Badges
+Please work with your supervisor to arrange for return of property, including any office furniture (e.g., chair) checked out for telework, all IT equipment (e.g., laptop, telework equipment from remote work location including monitor, docking station, mouse, keyboard, etc.), and your employee identification badge and cardkey.
+
+### Files
+
+As time allows, please clear your OneDrive by transferring your files to a shared accessible location (SharePoint or File Share Drive). Your files will be deleted from OneDrive once your account is deactivated.
