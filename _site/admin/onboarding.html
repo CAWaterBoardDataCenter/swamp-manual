@@ -1,0 +1,1119 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.551">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>SWAMP Manual</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../admin/tech.html" rel="next">
+<link href="../admin/index.html" rel="prev">
+<link href="../images/swamp-icons.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar docked">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../admin/index.html">Administrative Goodies</a></li><li class="breadcrumb-item"><a href="../admin/onboarding.html">Onboarding</a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../images/swamp-icons.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      <div class="sidebar-tools-main tools-wide">
+    <a href="https://www.waterboards.ca.gov/water_issues/programs/swamp/" title="SWAMP" class="quarto-navigation-tool px-1" aria-label="SWAMP"><i class="bi bi-globe"></i></a>
+    <a href="https://github.com/CAWaterBoardDataCenter/swamp-manual" title="SWAMP Manual" class="quarto-navigation-tool px-1" aria-label="SWAMP Manual"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Welcome!</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../about/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About SWAMP</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../about/lifecycle.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">SWAMP Life Cycle</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../about/contacts.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Meet the SWAMP Team!</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../culture/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Culture</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../culture/expectations.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Expectations</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../culture/development.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Professional Development</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../admin/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Administrative Goodies</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../admin/onboarding.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Onboarding</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../admin/tech.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Tech Setup &amp; Support</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../admin/training.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Training</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../admin/travel.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Travel</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../admin/procurement.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Procurement</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../admin/offboarding.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Offboarding</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../contribute.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Contibuting</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../inspiration.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Inspiration</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#onboarding" id="toc-onboarding" class="nav-link active" data-scroll-target="#onboarding">Onboarding</a>
+  <ul class="collapse">
+  <li><a href="#initial-logistics" id="toc-initial-logistics" class="nav-link" data-scroll-target="#initial-logistics">Initial Logistics</a></li>
+  <li><a href="#equipment" id="toc-equipment" class="nav-link" data-scroll-target="#equipment">Equipment</a></li>
+  <li><a href="#office-centered-and-remote-centered-work" id="toc-office-centered-and-remote-centered-work" class="nav-link" data-scroll-target="#office-centered-and-remote-centered-work">Office-centered and Remote-centered Work</a>
+  <ul class="collapse">
+  <li><a href="#work-week-agreements" id="toc-work-week-agreements" class="nav-link" data-scroll-target="#work-week-agreements">Work Week Agreements</a></li>
+  <li><a href="#telework-agreement" id="toc-telework-agreement" class="nav-link" data-scroll-target="#telework-agreement">Telework Agreement</a></li>
+  <li><a href="#bizflow-process" id="toc-bizflow-process" class="nav-link" data-scroll-target="#bizflow-process">Bizflow Process</a></li>
+  </ul></li>
+  <li><a href="#hr-forms" id="toc-hr-forms" class="nav-link" data-scroll-target="#hr-forms">HR forms</a></li>
+  <li><a href="#bargaining-units" id="toc-bargaining-units" class="nav-link" data-scroll-target="#bargaining-units">Bargaining units</a></li>
+  <li><a href="#leave-types" id="toc-leave-types" class="nav-link" data-scroll-target="#leave-types">Leave types</a></li>
+  <li><a href="#calpers" id="toc-calpers" class="nav-link" data-scroll-target="#calpers">CalPERS</a>
+  <ul class="collapse">
+  <li><a href="#medical-coverage" id="toc-medical-coverage" class="nav-link" data-scroll-target="#medical-coverage">Medical coverage</a></li>
+  <li><a href="#retirement-benefits" id="toc-retirement-benefits" class="nav-link" data-scroll-target="#retirement-benefits">Retirement benefits</a></li>
+  </ul></li>
+  <li><a href="#timesheets-pay" id="toc-timesheets-pay" class="nav-link" data-scroll-target="#timesheets-pay">Timesheets &amp; Pay</a>
+  <ul class="collapse">
+  <li><a href="#bizflow-timesheets" id="toc-bizflow-timesheets" class="nav-link" data-scroll-target="#bizflow-timesheets">Bizflow: Timesheets</a></li>
+  <li><a href="#electronic-paystubs" id="toc-electronic-paystubs" class="nav-link" data-scroll-target="#electronic-paystubs">Electronic Paystubs</a></li>
+  </ul></li>
+  <li><a href="#working-in-person" id="toc-working-in-person" class="nav-link" data-scroll-target="#working-in-person">Working in person</a>
+  <ul class="collapse">
+  <li><a href="#commuting-and-parking" id="toc-commuting-and-parking" class="nav-link" data-scroll-target="#commuting-and-parking">Commuting and Parking</a></li>
+  <li><a href="#office-amenities-and-downtown-activities" id="toc-office-amenities-and-downtown-activities" class="nav-link" data-scroll-target="#office-amenities-and-downtown-activities">Office Amenities and Downtown Activities</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/swamp-manual/edit/main/admin/onboarding.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/swamp-manual/blob/main/admin/onboarding.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/swamp-manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+
+
+<section id="onboarding" class="level1">
+<h1>Onboarding</h1>
+<p>Here is a non-comprehensive, but hopefully informative guide to onboarding to the SWAMP Unit. The majority of this information in this section is aimed towards starting at SWAMP as a rank-and-file (non-supervisory) state employee. Please re-reference this page throughout your time at SWAMP!</p>
+<section id="initial-logistics" class="level2">
+<h2 class="anchored" data-anchor-id="initial-logistics">Initial Logistics</h2>
+<p>In your first week, your supervisor will help you:</p>
+<ul>
+<li>Get access to your Water Boards email</li>
+<li>Get any <a href="https://cawaterboarddatacenter.github.io/swamp-manual/onboarding.html#equipment">equipment</a> or supplies you need (e.g.&nbsp;laptop, office supplies)</li>
+<li>Get a badge to enter the CalEPA building (as appropriate)
+<ul>
+<li>See <a href="https://waternet.waterboards.ca.gov/das/business_services/docs/cardkey-information.pdf">Cardkey Activation Program Procedures</a></li>
+</ul></li>
+<li>Review &amp; sign paperwork
+<ul>
+<li><strong>Fellows &amp; Interns</strong> will need to have the following compiled &amp; signed
+<ul>
+<li>Project Description (the one submitted with the original host application)</li>
+<li>STD 689-Oath of Allegiance</li>
+<li>Emergency Notification Request form</li>
+<li>Internet/Intranet Policy Certificate</li>
+<li>Welcome Letter</li>
+<li>Letter of Agreement</li>
+<li>Duty Statement</li>
+</ul></li>
+</ul></li>
+<li>Forward relevant meeting invitations and other information to you, such as:
+<ul>
+<li>SWAMP Unit Meetings</li>
+<li>SWAMP Roundtable Meetings</li>
+<li>Optional SWAMPside coworking Meetings</li>
+<li>OIMA All-Staff Meetings</li>
+<li>Other meetings that will be relevant to your work</li>
+</ul></li>
+<li>Get added to relevant email lists, such as:
+<ul>
+<li>SWAMP Roundtable email list</li>
+<li>OIMA All-Staff email list</li>
+</ul></li>
+<li>Get added to relevant Microsoft Teams Channels &amp; Group Chats, such as:
+<ul>
+<li>OIMA Data Team</li>
+<li>Water Boards Data Community Team</li>
+<li>SWAMP Unit Chat</li>
+</ul></li>
+</ul>
+<p>We recommend you take some time to:</p>
+<ul>
+<li>Go through this manual and familiarize yourself with SWAMP, OIMA, and the Water Boards
+<ul>
+<li>For <strong>Fellows &amp; Interns</strong>, the rest of this Onboarding section may not apply to you (e.g.&nbsp;HR Forms, etc.) - your supervisor can provide guidance on what is relevant to you.</li>
+</ul></li>
+<li>Install any software you will need (see the <a href="https://cawaterboarddatacenter.github.io/swamp-manual/tech.html">Tech Setup &amp; Support Section</a> for guidance)
+<ul>
+<li>If you will need to install a lot of different programs, we recommend working with DIT to bulk install programs. Programs that are commonly used in SWAMP that benefit from bulk installation by DIT include:
+<ul>
+<li>ArcGIS Pro, PowerBI, Tableau (folks usually prefer and install one over the others)</li>
+<li>R &amp; RStudio</li>
+<li>Git</li>
+<li>Zoom</li>
+</ul></li>
+</ul></li>
+<li>Familiarize yourself with Microsoft Teams, Outlook, any other software you may use (see the <a href="https://cawaterboarddatacenter.github.io/swamp-manual/expectations.html#communication">Communication Section</a> for communication norms, resources, and expectations)</li>
+<li>Review the <a href="https://waternet.waterboards.ca.gov/das/benefits/emp_orientation.shtml">New Employee Orientation Resources</a> &amp; make a note of <a href="https://www.calhr.ca.gov/employees/pages/state-holidays.aspx">state holidays</a> on your calendar</li>
+<li>Add any known / already approved time off to your calendar (see the <a href="https://cawaterboarddatacenter.github.io/swamp-manual/expectations.html#work-schedule">Work Schedule Section</a> for guidance)</li>
+<li>Familiarize yourself with resources related to the project(s) you will be working on</li>
+<li>Meet others in SWAMP/OIMA and others that you’ll work with on your project(s)</li>
+<li>Take any mandatory training (e.g.&nbsp;IT Security, Field Safety)</li>
+<li>Review optional training available through the Training Academy and sign up for courses of interest. (See the <a href="https://cawaterboarddatacenter.github.io/swamp-manual/training.html">Training Section</a> for more guidance). Note that it might take about four weeks before new staff are able to access Cornerstone. It’s recommended that new staff:
+<ul>
+<li>Try logging in once or twice per week until successful.</li>
+<li>BEFORE each log in attempt, be sure to “clear cache” before (re)visiting the MyApps &amp; clicking Cornerstone. If the cache is not cleared, the error message auto-populates, even after access is granted.</li>
+</ul></li>
+<li>ASK QUESTIONS! You’ll probably have a lot of questions as you settle in - please don’t hesitate to ask your supervisor and/or team members as they come up!</li>
+</ul>
+</section>
+<section id="equipment" class="level2">
+<h2 class="anchored" data-anchor-id="equipment">Equipment</h2>
+<p>All staff are assigned a laptop (typically Dell or HP) that they can use at home and the office. The Water Boards only uses PCs and does not generally support any Mac-based hardware. Office workstations are set up with two wide screen monitors, keyboard, mouse and docking station where you plug in your laptop.</p>
+<p>If you find you need different or additional equipment at your office or home desk (e.g., to make your workspace more ergonomic with a wireless keyboard or mouse), please speak to your supervisor who can work with you and IT to make the appropriate requests. Ergonomic equipment may be made available through a <a href="https://waternet.waterboards.ca.gov/eeo/reasonable/index.shtml">Reasonable Accommodation Request</a> (intranet link requires VPN login). Work with your supervisor for guidance on preparing the request.</p>
+<p>Equipment available to take home includes: laptop, laptop bag, standard monitor, keyboard, mouse, headset, adjustable monitor stand, adjustable tilting laptop stand. To request additional equipment or to report issues with any of your equipment, send an email to the <a href="mailto:help@waterboards.ca.gov">IT Help Desk</a>. This will log a ticket in their tracking system and they will respond typically the same day.</p>
+</section>
+<section id="office-centered-and-remote-centered-work" class="level2">
+<h2 class="anchored" data-anchor-id="office-centered-and-remote-centered-work">Office-centered and Remote-centered Work</h2>
+<p>The <a href="https://waternet.waterboards.ca.gov/das/human_resources/docs/CalEPA-and-BDO-telework-policy.pdf">Telework Policy</a> for CalEPA and the Water Boards allows remote-centered work options for all staff as long as business needs can be met.</p>
+<p>All staff are required to fill out a Work Week Agreement and Telework Agreement that specifies where you will typically work on a given day of the week (office or remote) and your typical work hours. All employees (including Student Assistants, Retired Annuitants, Supervisors and Managers) are required to complete both agreements, regardless of their telework or work week status.</p>
+<p>Your Work Week Agreement and Telework Agreement need to be created in BizFlow within 2 months of starting work. All Telework Agreements and Work Week Agreements must be reviewed and updated on an annual basis each calendar year in January.</p>
+<p>As of December 2024, OIMA still maintains enough office space that staff will be assigned a cubicle or personal workstation in the CalEPA building whether or not they primarily work remotely.</p>
+<section id="work-week-agreements" class="level3">
+<h3 class="anchored" data-anchor-id="work-week-agreements">Work Week Agreements</h3>
+<p>Below are the approved work schedules.</p>
+<ul>
+<li><p><strong>Regular/Standard or Fixed Work Schedules</strong> - In accordance with Government Code 19851 a regular work schedule is defined as five (5) days a week, eight (8) hours a day and not more than 40 hours a week. If you are on a regular work schedule, please complete the agreement with a work schedule that reflects this.</p></li>
+<li><p><strong>Alternate Work Schedules (AWS)</strong> have been released, therefore, please review the applicable AWS before recertifying your AWS agreement. Please note, your AWS agreement must match the CalHR AWS otherwise it will be rejected. Also see: <a href="https://www.calhr.ca.gov/Pages/publications-awws-calendars.aspx">Calendars for Alternate Work Week Schedules</a></p></li>
+<li><p><strong>Flex Schedule</strong>, in accordance with CalHR policy, Flex Schedule is defined as “An arrangement that permits employees to flex or adjust their start and end times, so long as the employee has worked his/her scheduled number of hours per day.” Therefore, you must have either an Alternate Work Schedule or a Regular Work schedule regardless of whether you have a Flex Schedule. At no time may a Flex Schedule result in overtime hours worked.</p></li>
+<li><p><strong>Exempt employees</strong> on other than a Regular/Standard or Fixed Work schedule (e.g., AWS, Flex time), please refer to the <a href="https://hrmanual.calhr.ca.gov/Home/ManualItem/1/1501">CalHR Human Resources Manual</a>.</p></li>
+</ul>
+</section>
+<section id="telework-agreement" class="level3">
+<h3 class="anchored" data-anchor-id="telework-agreement">Telework Agreement</h3>
+<p>Make sure you review all sections of the Telework Agreement prior to submitting it (e.g., alternate work location, telework day(s), etc.).</p>
+<p>If you are NOT teleworking or not eligible to telework, you still need to perform an annual review of your agreement and recertify that you are not teleworking.</p>
+</section>
+<section id="bizflow-process" class="level3">
+<h3 class="anchored" data-anchor-id="bizflow-process">Bizflow Process</h3>
+<ol type="1">
+<li>Log in to Bizflow:</li>
+<li>Select “Self-Service” then “Work Items” and “Employee Self-Service Work List”</li>
+<li>Select the Agreement by clicking on the word “Review” (blue link)</li>
+<li>Your form will contain information from the previous year. Make any necessary changes.</li>
+<li>Check all the acknowledgment boxes on both forms.</li>
+<li>Select the appropriate approvers. If you are unsure who your approvers are, please check with your Supervisor.</li>
+<li>From the drop-down menu at the top left, choose “Submit Request” then click the green check box button.</li>
+</ol>
+<p>For more information, visit the <a href="https://waternet.waterboards.ca.gov/das/human_resources/telework.shtml">Telework Program Page</a>.</p>
+</section>
+</section>
+<section id="hr-forms" class="level2">
+<h2 class="anchored" data-anchor-id="hr-forms">HR forms</h2>
+<p>On your starting day, you will receive a package of forms and documents from the HR department including your duty statement, tax forms, direct deposit forms, questionaires (diversity, military), CalPERS forms, leave forms, and medical insurance forms</p>
+<p>You will also be asked to submit a photocopy of either your passport or a combination of your driver’s license and social security card to the HR representative (currently Alicyn Chappelle). All forms apart from the medical insurance forms must be submitted within the first couple of days. Medical insurance forms must be submitted within the first 60 days for you to qualify for enrollment; however, the sooner you submit these forms the sooner you will have health coverage.</p>
+</section>
+<section id="bargaining-units" class="level2">
+<h2 class="anchored" data-anchor-id="bargaining-units">Bargaining units</h2>
+<p>Each classification within the SWAMP unit is associated with a bargaining unit. The bargaining units, with the State, determine many of the benefits &amp; guidelines described here. For that reason, you should read the latest contract or Memorandum of Understanding (MOU) for your bargaining unit to determine benefits as applicable for you. Additional benefits specific to your bargaining unit may exist for you based on the MOU that are not described in this manual. Finally, supervisory positions may have varying benefits beyond those listed in this manual.</p>
+<table class="table">
+<colgroup>
+<col style="width: 68%">
+<col style="width: 22%">
+<col style="width: 8%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>SWAMP Position Classification</th>
+<th>Bargaining Unit</th>
+<th>CBID</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Scientific Aid</td>
+<td>11</td>
+<td>R11</td>
+</tr>
+<tr class="even">
+<td>Environmental Scientist (incl.&nbsp;Senior Specialist)</td>
+<td>10</td>
+<td>R10</td>
+</tr>
+<tr class="odd">
+<td>AGPA</td>
+<td>1</td>
+<td>R01</td>
+</tr>
+<tr class="even">
+<td>Senior Environmental Scientist - Supervisory</td>
+<td>10</td>
+<td>S10</td>
+</tr>
+<tr class="odd">
+<td>Research Data Specialist I/II/III</td>
+<td>1</td>
+<td>R01</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="leave-types" class="level2">
+<h2 class="anchored" data-anchor-id="leave-types">Leave types</h2>
+<p>When onboarded, employees in most classifications will be able to select a leave type: <strong>annual leave</strong> vs.&nbsp;<strong>vacation/sick leave</strong>. Comparisons of leave accrual and use between leave types are available in <a href="https://www.calhr.ca.gov/employees/Pages/vacation-vs-annual-leave-comparison-chart.aspx">this chart</a>.</p>
+<p>Important FAQ for leave types:</p>
+<ul>
+<li><p>You are only allowed to switch leave types every 2 years. Check with our HR liaison about switching leave types.</p></li>
+<li><p>Leave types are also connected to different types of non-work-related disability leave, which may impact your income should you need to go on disability leave. Non-work-related disability leave types are compared for Unit 10 employees on this <a href="https://capsscientists.org/wp-content/uploads/2018/02/Facts-about-ENDI.pdf">flyer</a>. More information about non-work-related disability leave is also available on the EDD <a href="https://edd.ca.gov/">website</a>.</p></li>
+<li><p>Leave accrual can be impacted by the number of days/hours you work in a month.</p></li>
+</ul>
+<p><strong>Need additional leave?</strong></p>
+<p>Under the <a href="https://hrmanual.calhr.ca.gov/Home/ManualItem/1/2114">Voluntary Personal Leave Program</a>, you can exchange a percentage of your salary to accrue additional leave hours per month. See the link above for more information, and contact our personnel specialist for more details.</p>
+</section>
+<section id="calpers" class="level2">
+<h2 class="anchored" data-anchor-id="calpers">CalPERS</h2>
+<p>CalPERS is the <a href="https://www.calpers.ca.gov/">California Public Employees Retirement System</a>, which you will be enrolled in as a new employee. It provides benefits including medical coverage (health, dental, and vision insurance) and retirement for employees of the state of California.</p>
+<section id="medical-coverage" class="level3">
+<h3 class="anchored" data-anchor-id="medical-coverage">Medical coverage</h3>
+<p>You should select health insurance by submitting the appropriate forms within 60 days of starting with the State. If you select health insurance, you will pay the difference between what the state provides for healthcare (a base amount monthly) and the monthly cost for your selected health insurance. This amount is removed from your monthly paycheck. Employees may elect to receive cash in lieu of their state-sponsored medical insurance and/or dental insurance plan through the <a href="https://www.calhr.ca.gov/state-hr-professionals/Pages/benefits-administration-manual-flexelect.aspx">FlexElect</a> program. You must certify you have qualifying group health and/or dental insurance through a spouse, domestic partner, or other source. FlexElect cash is distributed monthly.</p>
+<p>You can make changes to your health, dental, and vision insurance selections two ways:</p>
+<ol type="1">
+<li>Annually during open enrollment, which occurs in the fall of each year. Your new insurance selections begin the following January.</li>
+<li>After a <a href="https://www.insurance.ca.gov/01-consumers/110-health/30-have/qual-life-events.cfm">qualifying event</a> in your life.</li>
+</ol>
+<p>To learn more about the health coverage available to you, please visit the CalPERS website as well as the website for your <a href="https://cawaterboarddatacenter.github.io/swamp-manual/onboarding.html#bargaining-units">bargaining unit</a> to learn about costs specific to you. We include some helpful links below:</p>
+<ul>
+<li><p><a href="https://www.calpers.ca.gov/docs/forms-publications/health-program-guide.pdf">CalPERS Health Program Guide</a> (pdf) – broad overview of the health program</p></li>
+<li><p><a href="https://www.calpers.ca.gov/health-benefit-summary">CalPERS Health Benefits Summary</a> (web link) – description of different health plans and their statewide availability</p></li>
+<li><p><a href="https://www.calpers.ca.gov/page/active-members/health-benefits/plans-and-rates">CalPERS Health Plans &amp; Rates</a> (web link)</p></li>
+</ul>
+</section>
+<section id="retirement-benefits" class="level3">
+<h3 class="anchored" data-anchor-id="retirement-benefits">Retirement benefits</h3>
+<p>Learn more about your CalPERS retirement benefits on their <a href="https://www.calpers.ca.gov/page/life-events/retirement">website</a>, which includes retirement planning checklists, calculators, classes, and explanations of benefits.</p>
+</section>
+</section>
+<section id="timesheets-pay" class="level2">
+<h2 class="anchored" data-anchor-id="timesheets-pay">Timesheets &amp; Pay</h2>
+<p>Staff should complete and submit their timesheets by the 25th of each month. Direct deposit typically hits the last day of the pay period (end of the month), potentially earlier if you use a credit union.</p>
+<p>It typically takes ~1 month for new staff to be entered in the electronic timesheet system (BizFlow), so the first timesheet is done by filling out an excel template.</p>
+<section id="bizflow-timesheets" class="level3">
+<h3 class="anchored" data-anchor-id="bizflow-timesheets">Bizflow: Timesheets</h3>
+<p><strong>Logging in</strong>: To <a href="https://ework.waterboards.ca.gov/bizflow/index.jsp?v=_5FtHCSz6JfUxrK7">login</a> you must use MS Edge browser and be connected to VPN (or on the network at CalEPA building). Use your workstation username (waterboards email address) and password to login.</p>
+<p><strong>eTimesheets</strong>: From the menu, – click the eTimesheet tab –&gt; eTimesheet Process –&gt; Current eTimesheet to begin. Select the pay period (month) to load a timesheet. All work hours must be associated with a Task ID – your supervisor will provide this, and it will be saved on all future timesheets. Work hours go on page 1, leave hours go on page 2. Use the &gt; and &lt; symbols on the timesheet to navigate between pages. Make sure your total hours fit the expected hours at the bottom of the timesheet, both monthly and daily, unless otherwise directed by your supervisor. Once complete, sign the 1st page of the timesheet, change status in the upper left corner to “Submit to Supervisor”, and click the green check box to complete the process.</p>
+<p><strong>BizFlow Tips</strong></p>
+<ul>
+<li>For first-time users and info on how to change your settings, see <a href="https://waternet.waterboards.ca.gov/das/human_resources/docs/BizFlow_Gen_Instructions_15Jul2022.pdf">Instructions on how to use BizFlow</a> (intranet site; requires VPN login)</li>
+<li><a href="https://waternet.waterboards.ca.gov/das/human_resources/docs/BizFlow_FAQs.pdf">Check out the FAQs</a></li>
+</ul>
+</section>
+<section id="electronic-paystubs" class="level3">
+<h3 class="anchored" data-anchor-id="electronic-paystubs">Electronic Paystubs</h3>
+<p>You can view and download your paystubs from the <a href="https://connect.sco.ca.gov/">Cal Employee Connect portal</a>. Your supervisor will request login information for you from HR (personnel specialist) after your first paycheck.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Leave balances are included on your paystubs and can be tracked in Cal Employee Connect, but they are always a month (or more) behind. You may want to track them in real-time in your own spreadsheet.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="working-in-person" class="level2">
+<h2 class="anchored" data-anchor-id="working-in-person">Working in person</h2>
+<section id="commuting-and-parking" class="level3">
+<h3 class="anchored" data-anchor-id="commuting-and-parking">Commuting and Parking</h3>
+<p>You can choose from a number of different options for getting to and from the office on days you are working in person. The Intranet web page on <a href="https://intranet.calepa.ca.gov/headquarters/services/transportation/#Parking">employee transportation services</a> is a good place to find resources on parking, transit, and bicycle commuting.</p>
+<p>Car commuters can park at hourly meters along the streets in Downtown Sacramento or use a parking garage - City Hall Garage is the closest to the office. See the Intranet web page on <a href="https://intranet.calepa.ca.gov/headquarters/services/transportation/parking-at-calepa-headquarters/">parking</a> for more information, including discounted rates available for staff and carpoolers.</p>
+<p>Walking and biking are good options for local folks. Many streets have bike lanes, and the CalEPA office has a secure bike room. To use the bike room, contact transit@calepa.ca.gov to have them add access to your building badge.</p>
+<p><a href="https://www.sacrt.com/">Sacramento Regional Transit</a> (SacRT) provides information on public transport, including the light rail and bus schedules. Staff may purchase transit passes at discounted rates through a Connect Card and may receive a subsidy on public transit passes up to $325 per month. See the <a href="https://intranet.calepa.ca.gov/headquarters/services/transportation/transit/">public transit</a> web page on the Intranet for more information.</p>
+<ul>
+<li><p>The amount of subsidy you are eligible for depends on what bargaining unit you belong to. See this <a href="https://www.calhr.ca.gov/employees/Pages/mass-transit-and-vanpool-commute-program-frequently-asked-questions.aspx">CalHR web page</a> for the most up-to-date numbers based on the current collective bargaining contract language.</p></li>
+<li><p>To claim your public transit subsidy, visit the CalEPA Employee Transit Office (<a href="https://intranet.calepa.ca.gov/headquarters/services/transportation/transit/">office hours</a>) located on the first floor in the Visitor Services Center. The staff there will issue you a Connect Card that you will need to register on the SacRT <a href="https://www.connecttransitcard.com/">Connect Card</a> website. Use the SacRT website to manage your card and load new funds, as needed. <strong>Note:</strong> You cannot use a personal (existing) Connect Card to access the subsidized funds. You will need to obtain a new card issued by the CalEPA Employee Transit Office.</p></li>
+</ul>
+<p>If you commute by means other than a vehicle at least 60% of the time, you are eligible to sign up for the <a href="https://intranet.calepa.ca.gov/headquarters/services/transportation/incidental/">Incidental Use Parking Program (IUPP)</a>, which allows you to sign out passes for the City Hall parking garage 3 times per month.</p>
+</section>
+<section id="office-amenities-and-downtown-activities" class="level3">
+<h3 class="anchored" data-anchor-id="office-amenities-and-downtown-activities">Office Amenities and Downtown Activities</h3>
+<p>See <a href="https://intranet.calepa.ca.gov/headquarters/fitness/">here</a> for a list of amenities in the CalEPA office building. These include a child development center, a fitness center with lockers and showers, and the Lazeez Express café that opened in 2025. OIMA staff have used Lazeez Express for coffee service/catering in the past; to inquire, contact the café’s Manager, Nuredin Nurahmed, at 408-334-5900 or by email at nurevas123@gmail.com.</p>
+<p>Downtown Sacramento has many events, restaurants, and shops close by the office. Across the street from the building you can find César Chávez Park, which hosts the Bodega Days market on Thursdays from 10-1 and free Concerts in the Park on Fridays 5-9pm in the summer months as well as the restaurant La Cosecha, which includes a small coffee shop.</p>
+<p>Coffee shops near the office include Café Immortal, Cora Coffee, Temple, and Starbucks. Restaurants include Octopus Peru, Nash &amp; Proper, Mayahuel, Brasserie du Monde, and Ella.</p>
+<p>Sacramento is home to the Kings (major league basketball team), River Cats (minor league baseball team), and Republic FC (soccer team). The stadiums they play in host many other events throughout the year, along with CalExpo and the SAFE Credit Union Convention Center. The Downtown Commons is a mixed-use outdoor shopping and entertainment center with restaurants, shops, and a movie theater.</p>
+
+
+</section>
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/cawaterboarddatacenter\.github\.io\/swamp-manual\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../admin/index.html" class="pagination-link" aria-label="Administrative Goodies">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Administrative Goodies</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../admin/tech.html" class="pagination-link" aria-label="Tech Setup &amp; Support">
+        <span class="nav-page-text">Tech Setup &amp; Support</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© CC-By CA Water Board, 2023</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/swamp-manual/edit/main/admin/onboarding.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/swamp-manual/blob/main/admin/onboarding.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/swamp-manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="nav-footer-right">
+<p>This manual is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
